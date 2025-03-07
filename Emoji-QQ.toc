@@ -3,12 +3,12 @@
 ## Interface-Wrath: 30403
 ## Interface-Cata: 40402
 ## Author: KittenBall
-## Version: 20250306234303
+## Version: 20250307153398
 ## Notes: QQ emoji, all illustrations are copyrighted by Tencent Inc.
 ## Notes-zhCN: QQ表情，所有版权归腾讯所有。
 ## DefaultState: enabled
 ## Dependencies: Emoji-Core
-## X-Curse-Project-ID:: 
+## X-Curse-Project-ID: 
 ## X-Wago-ID: 
 
 Emoji-QQ_EN.lua

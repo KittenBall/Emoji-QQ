@@ -8,536 +8,532 @@ local pack = {
 	Icon = "Interface\\addOns\\Emoji-QQ\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-QQ\\Icons\\",
 	Icons = {
-		-- emoji: 10364
-		["10364"] = "10364.png",
-		-- emoji: 10366
-		["10366"] = "10366.png",
-		-- emoji: 10362
-		["10362"] = "10362.png",
-		-- emoji: 10397
-		["10397"] = "10397.png",
-		-- emoji: 10396
-		["10396"] = "10396.png",
-		-- emoji: 10360
-		["10360"] = "10360.png",
-		-- emoji: 10361
-		["10361"] = "10361.png",
-		-- emoji: 10363
-		["10363"] = "10363.png",
-		-- emoji: 10365
-		["10365"] = "10365.png",
-		-- emoji: 10367
-		["10367"] = "10367.png",
-		-- emoji: 10399
-		["10399"] = "10399.png",
-		-- emoji: 10398
-		["10398"] = "10398.png",
-		-- emoji: 10373
-		["10373"] = "10373.png",
-		-- emoji: 10370
-		["10370"] = "10370.png",
-		-- emoji: 10375
-		["10375"] = "10375.png",
-		-- emoji: 10368
-		["10368"] = "10368.png",
-		-- emoji: 10369
-		["10369"] = "10369.png",
-		-- emoji: 10371
-		["10371"] = "10371.png",
-		-- emoji: 10372
-		["10372"] = "10372.png",
-		-- emoji: 10374
-		["10374"] = "10374.png",
-		-- emoji: 10382
-		["10382"] = "10382.png",
-		-- emoji: 10383
-		["10383"] = "10383.png",
-		-- emoji: 10401
-		["10401"] = "10401.png",
-		-- emoji: 10400
-		["10400"] = "10400.png",
-		-- emoji: 10380
-		["10380"] = "10380.png",
-		-- emoji: 10381
-		["10381"] = "10381.png",
-		-- emoji: 10379
-		["10379"] = "10379.png",
-		-- emoji: 10376
-		["10376"] = "10376.png",
-		-- emoji: 10378
-		["10378"] = "10378.png",
-		-- emoji: 10377
-		["10377"] = "10377.png",
-		-- emoji: 10403
-		["10403"] = "10403.png",
-		-- emoji: 10402
-		["10402"] = "10402.png",
-		-- emoji: 10390
-		["10390"] = "10390.png",
-		-- emoji: 10391
-		["10391"] = "10391.png",
-		-- emoji: 10388
-		["10388"] = "10388.png",
-		-- emoji: 10389
-		["10389"] = "10389.png",
-		-- emoji: 10386
-		["10386"] = "10386.png",
-		-- emoji: 10385
-		["10385"] = "10385.png",
-		-- emoji: 10384
-		["10384"] = "10384.png",
-		-- emoji: 10387
-		["10387"] = "10387.png",
-		-- emoji: 10413
-		["10413"] = "10413.png",
-		-- emoji: 10405
-		["10405"] = "10405.png",
-		-- emoji: 10404
-		["10404"] = "10404.png",
-		-- emoji: 10406
-		["10406"] = "10406.png",
-		-- emoji: 10410
-		["10410"] = "10410.png",
-		-- emoji: 10411
-		["10411"] = "10411.png",
-		-- emoji: 10407
-		["10407"] = "10407.png",
-		-- emoji: 10408
-		["10408"] = "10408.png",
-		-- emoji: 10412
-		["10412"] = "10412.png",
-		-- emoji: 10409
-		["10409"] = "10409.png",
-		-- emoji: 100
-		["100"] = "100.png",
-		-- emoji: 101
-		["101"] = "101.png",
-		-- emoji: 102
-		["102"] = "102.png",
-		-- emoji: 103
-		["103"] = "103.png",
-		-- emoji: 104
-		["104"] = "104.png",
-		-- emoji: 106
-		["106"] = "106.png",
-		-- emoji: 107
-		["107"] = "107.png",
-		-- emoji: 108
-		["108"] = "108.png",
-		-- emoji: 109
-		["109"] = "109.png",
-		-- emoji: 105
-		["105"] = "105.png",
-		-- emoji: 110
-		["110"] = "110.png",
-		-- emoji: 111
-		["111"] = "111.png",
-		-- emoji: 112
-		["112"] = "112.png",
-		-- emoji: 113
-		["113"] = "113.png",
-		-- emoji: 114
-		["114"] = "114.png",
-		-- emoji: 115
-		["115"] = "115.png",
-		-- emoji: 116
-		["116"] = "116.png",
-		-- emoji: 117
-		["117"] = "117.png",
-		-- emoji: 118
-		["118"] = "118.png",
-		-- emoji: 119
-		["119"] = "119.png",
-		-- emoji: 120
-		["120"] = "120.png",
-		-- emoji: 121
-		["121"] = "121.png",
-		-- emoji: 122
-		["122"] = "122.png",
-		-- emoji: 123
-		["123"] = "123.png",
-		-- emoji: 124
-		["124"] = "124.png",
-		-- emoji: 125
-		["125"] = "125.png",
-		-- emoji: 126
-		["126"] = "126.png",
-		-- emoji: 127
-		["127"] = "127.png",
-		-- emoji: 128
-		["128"] = "128.png",
-		-- emoji: 129
-		["129"] = "129.png",
-		-- emoji: 130
-		["130"] = "130.png",
-		-- emoji: 131
-		["131"] = "131.png",
-		-- emoji: 132
-		["132"] = "132.png",
-		-- emoji: 133
-		["133"] = "133.png",
-		-- emoji: 134
-		["134"] = "134.png",
-		-- emoji: 135
-		["135"] = "135.png",
-		-- emoji: 136
-		["136"] = "136.png",
-		-- emoji: 137
-		["137"] = "137.png",
-		-- emoji: 138
-		["138"] = "138.png",
-		-- emoji: 139
-		["139"] = "139.png",
-		-- emoji: 140
-		["140"] = "140.png",
-		-- emoji: 141
-		["141"] = "141.png",
-		-- emoji: 142
-		["142"] = "142.png",
-		-- emoji: 143
-		["143"] = "143.png",
-		-- emoji: 144
-		["144"] = "144.png",
-		-- emoji: 145
-		["145"] = "145.png",
-		-- emoji: 146
-		["146"] = "146.png",
-		-- emoji: 147
-		["147"] = "147.png",
-		-- emoji: 148
-		["148"] = "148.png",
-		-- emoji: 149
-		["149"] = "149.png",
-		-- emoji: 150
-		["150"] = "150.png",
-		-- emoji: 151
-		["151"] = "151.png",
-		-- emoji: 10305
-		["10305"] = "10305.png",
-		-- emoji: 152
-		["152"] = "152.png",
-		-- emoji: 153
-		["153"] = "153.png",
-		-- emoji: 154
-		["154"] = "154.png",
-		-- emoji: 242
-		["242"] = "242.png",
-		-- emoji: 252
-		["252"] = "252.png",
-		-- emoji: 249
-		["249"] = "249.png",
-		-- emoji: 243
-		["243"] = "243.png",
-		-- emoji: 244
-		["244"] = "244.png",
-		-- emoji: 282
-		["282"] = "282.png",
-		-- emoji: 245
-		["245"] = "245.png",
-		-- emoji: 248
-		["248"] = "248.png",
-		-- emoji: 247
-		["247"] = "247.png",
-		-- emoji: 246
-		["246"] = "246.png",
-		-- emoji: 253
-		["253"] = "253.png",
-		-- emoji: 10262
-		["10262"] = "10262.png",
-		-- emoji: 10263
-		["10263"] = "10263.png",
-		-- emoji: 10264
-		["10264"] = "10264.png",
-		-- emoji: 10265
-		["10265"] = "10265.png",
-		-- emoji: 10266
-		["10266"] = "10266.png",
-		-- emoji: 10267
-		["10267"] = "10267.png",
-		-- emoji: 10268
-		["10268"] = "10268.png",
-		-- emoji: 10269
-		["10269"] = "10269.png",
-		-- emoji: 10270
-		["10270"] = "10270.png",
-		-- emoji: 10271
-		["10271"] = "10271.png",
-		-- emoji: 10272
-		["10272"] = "10272.png",
-		-- emoji: 10277
-		["10277"] = "10277.png",
-		-- emoji: 10307
-		["10307"] = "10307.png",
-		-- emoji: 10306
-		["10306"] = "10306.png",
-		-- emoji: 10281
-		["10281"] = "10281.png",
-		-- emoji: 10282
-		["10282"] = "10282.png",
-		-- emoji: 10283
-		["10283"] = "10283.png",
-		-- emoji: 10284
-		["10284"] = "10284.png",
-		-- emoji: 10285
-		["10285"] = "10285.png",
-		-- emoji: 10293
-		["10293"] = "10293.png",
-		-- emoji: 10286
-		["10286"] = "10286.png",
-		-- emoji: 10287
-		["10287"] = "10287.png",
-		-- emoji: 10289
-		["10289"] = "10289.png",
-		-- emoji: 10294
-		["10294"] = "10294.png",
-		-- emoji: 10297
-		["10297"] = "10297.png",
-		-- emoji: 10298
-		["10298"] = "10298.png",
-		-- emoji: 10299
-		["10299"] = "10299.png",
-		-- emoji: 10300
-		["10300"] = "10300.png",
-		-- emoji: 10323
-		["10323"] = "10323.png",
-		-- emoji: 10332
-		["10332"] = "10332.png",
-		-- emoji: 10336
-		["10336"] = "10336.png",
-		-- emoji: 10353
-		["10353"] = "10353.png",
-		-- emoji: 10355
-		["10355"] = "10355.png",
-		-- emoji: 10356
-		["10356"] = "10356.png",
-		-- emoji: 10354
-		["10354"] = "10354.png",
-		-- emoji: 10352
-		["10352"] = "10352.png",
-		-- emoji: 10357
-		["10357"] = "10357.png",
-		-- emoji: 10334
-		["10334"] = "10334.png",
-		-- emoji: 10347
-		["10347"] = "10347.png",
-		-- emoji: 10303
-		["10303"] = "10303.png",
-		-- emoji: 10302
-		["10302"] = "10302.png",
-		-- emoji: 10295
-		["10295"] = "10295.png",
-		-- emoji: 10311
-		["10311"] = "10311.png",
-		-- emoji: 10312
-		["10312"] = "10312.png",
-		-- emoji: 10314
-		["10314"] = "10314.png",
-		-- emoji: 10317
-		["10317"] = "10317.png",
-		-- emoji: 10318
-		["10318"] = "10318.png",
-		-- emoji: 10319
-		["10319"] = "10319.png",
-		-- emoji: 10320
-		["10320"] = "10320.png",
-		-- emoji: 10324
-		["10324"] = "10324.png",
-		-- emoji: 10325
-		["10325"] = "10325.png",
-		-- emoji: 10337
-		["10337"] = "10337.png",
-		-- emoji: 10338
-		["10338"] = "10338.png",
-		-- emoji: 10339
-		["10339"] = "10339.png",
-		-- emoji: 10341
-		["10341"] = "10341.png",
-		-- emoji: 10342
-		["10342"] = "10342.png",
-		-- emoji: 10343
-		["10343"] = "10343.png",
-		-- emoji: 10344
-		["10344"] = "10344.png",
-		-- emoji: 10345
-		["10345"] = "10345.png",
-		-- emoji: 10346
-		["10346"] = "10346.png",
-		-- emoji: 251
-		["251"] = "251.png",
-		-- emoji: 176
-		["176"] = "176.png",
-		-- emoji: 175
-		["175"] = "175.png",
-		-- emoji: 10351
-		["10351"] = "10351.png",
-		-- emoji: 10349
-		["10349"] = "10349.png",
-		-- emoji: 10350
-		["10350"] = "10350.png",
-		-- emoji: 10395
-		["10395"] = "10395.png",
-		-- emoji: 158
-		["158"] = "158.png",
-		-- emoji: 10358
-		["10358"] = "10358.png",
-		-- emoji: 10359
-		["10359"] = "10359.png",
-		-- emoji: 10326
-		["10326"] = "10326.png",
-		-- emoji: 168
-		["168"] = "168.png",
-		-- emoji: 178
-		["178"] = "178.png",
-		-- emoji: 166
-		["166"] = "166.png",
-		-- emoji: 163
-		["163"] = "163.png",
-		-- emoji: 164
-		["164"] = "164.png",
-		-- emoji: 257
-		["257"] = "257.png",
-		-- emoji: 121011
-		["121011"] = "121011.png",
-		-- emoji: 165
-		["165"] = "165.png",
-		-- emoji: 167
-		["167"] = "167.png",
-		-- emoji: 160
-		["160"] = "160.png",
-		-- emoji: 255
-		["255"] = "255.png",
-		-- emoji: 121002
-		["121002"] = "121002.png",
-		-- emoji: 10333
-		["10333"] = "10333.png",
-		-- emoji: 10415
-		["10415"] = "10415.png",
-		-- emoji: 10416
-		["10416"] = "10416.png",
-		-- emoji: 10417
-		["10417"] = "10417.png",
-		-- emoji: 10392
-		["10392"] = "10392.png",
-		-- emoji: 10393
-		["10393"] = "10393.png",
-		-- emoji: 10394
-		["10394"] = "10394.png",
-		-- emoji: 179
-		["179"] = "179.png",
-		-- emoji: 189
-		["189"] = "189.png",
-		-- emoji: 183
-		["183"] = "183.png",
-		-- emoji: 181
-		["181"] = "181.png",
-		-- emoji: 184
-		["184"] = "184.png",
-		-- emoji: 182
-		["182"] = "182.png",
-		-- emoji: 185
-		["185"] = "185.png",
-		-- emoji: 186
-		["186"] = "186.png",
-		-- emoji: 180
-		["180"] = "180.png",
-		-- emoji: 188
-		["188"] = "188.png",
-		-- emoji: 271
-		["271"] = "271.png",
-		-- emoji: 10273
-		["10273"] = "10273.png",
-		-- emoji: 162
-		["162"] = "162.png",
-		-- emoji: 155
-		["155"] = "155.png",
-		-- emoji: 171
-		["171"] = "171.png",
-		-- emoji: 121034
-		["121034"] = "121034.png",
-		-- emoji: 241
-		["241"] = "241.png",
-		-- emoji: 174
-		["174"] = "174.png",
-		-- emoji: 121009
-		["121009"] = "121009.png",
-		-- emoji: 121012
-		["121012"] = "121012.png",
-		-- emoji: 156
-		["156"] = "156.png",
-		-- emoji: 193
-		["193"] = "193.png",
-		-- emoji: 195
-		["195"] = "195.png",
-		-- emoji: 190
-		["190"] = "190.png",
-		-- emoji: 192
-		["192"] = "192.png",
-		-- emoji: 194
-		["194"] = "194.png",
-		-- emoji: 199
-		["199"] = "199.png",
-		-- emoji: 191
-		["191"] = "191.png",
+		-- emoji: QQ_10364
+		["QQ_10364"] = "10364.png",
+		-- emoji: QQ_10366
+		["QQ_10366"] = "10366.png",
+		-- emoji: QQ_10362
+		["QQ_10362"] = "10362.png",
+		-- emoji: QQ_10397
+		["QQ_10397"] = "10397.png",
+		-- emoji: QQ_10396
+		["QQ_10396"] = "10396.png",
+		-- emoji: QQ_10360
+		["QQ_10360"] = "10360.png",
+		-- emoji: QQ_10361
+		["QQ_10361"] = "10361.png",
+		-- emoji: QQ_10363
+		["QQ_10363"] = "10363.png",
+		-- emoji: QQ_10365
+		["QQ_10365"] = "10365.png",
+		-- emoji: QQ_10367
+		["QQ_10367"] = "10367.png",
+		-- emoji: QQ_10399
+		["QQ_10399"] = "10399.png",
+		-- emoji: QQ_10398
+		["QQ_10398"] = "10398.png",
+		-- emoji: QQ_10373
+		["QQ_10373"] = "10373.png",
+		-- emoji: QQ_10370
+		["QQ_10370"] = "10370.png",
+		-- emoji: QQ_10375
+		["QQ_10375"] = "10375.png",
+		-- emoji: QQ_10368
+		["QQ_10368"] = "10368.png",
+		-- emoji: QQ_10369
+		["QQ_10369"] = "10369.png",
+		-- emoji: QQ_10371
+		["QQ_10371"] = "10371.png",
+		-- emoji: QQ_10372
+		["QQ_10372"] = "10372.png",
+		-- emoji: QQ_10374
+		["QQ_10374"] = "10374.png",
+		-- emoji: QQ_10382
+		["QQ_10382"] = "10382.png",
+		-- emoji: QQ_10383
+		["QQ_10383"] = "10383.png",
+		-- emoji: QQ_10401
+		["QQ_10401"] = "10401.png",
+		-- emoji: QQ_10400
+		["QQ_10400"] = "10400.png",
+		-- emoji: QQ_10380
+		["QQ_10380"] = "10380.png",
+		-- emoji: QQ_10381
+		["QQ_10381"] = "10381.png",
+		-- emoji: QQ_10379
+		["QQ_10379"] = "10379.png",
+		-- emoji: QQ_10376
+		["QQ_10376"] = "10376.png",
+		-- emoji: QQ_10378
+		["QQ_10378"] = "10378.png",
+		-- emoji: QQ_10377
+		["QQ_10377"] = "10377.png",
+		-- emoji: QQ_10403
+		["QQ_10403"] = "10403.png",
+		-- emoji: QQ_10402
+		["QQ_10402"] = "10402.png",
+		-- emoji: QQ_10390
+		["QQ_10390"] = "10390.png",
+		-- emoji: QQ_10391
+		["QQ_10391"] = "10391.png",
+		-- emoji: QQ_10388
+		["QQ_10388"] = "10388.png",
+		-- emoji: QQ_10389
+		["QQ_10389"] = "10389.png",
+		-- emoji: QQ_10386
+		["QQ_10386"] = "10386.png",
+		-- emoji: QQ_10385
+		["QQ_10385"] = "10385.png",
+		-- emoji: QQ_10384
+		["QQ_10384"] = "10384.png",
+		-- emoji: QQ_10387
+		["QQ_10387"] = "10387.png",
+		-- emoji: QQ_10413
+		["QQ_10413"] = "10413.png",
+		-- emoji: QQ_10405
+		["QQ_10405"] = "10405.png",
+		-- emoji: QQ_10404
+		["QQ_10404"] = "10404.png",
+		-- emoji: QQ_10406
+		["QQ_10406"] = "10406.png",
+		-- emoji: QQ_10410
+		["QQ_10410"] = "10410.png",
+		-- emoji: QQ_10411
+		["QQ_10411"] = "10411.png",
+		-- emoji: QQ_10407
+		["QQ_10407"] = "10407.png",
+		-- emoji: QQ_10408
+		["QQ_10408"] = "10408.png",
+		-- emoji: QQ_10412
+		["QQ_10412"] = "10412.png",
+		-- emoji: QQ_10409
+		["QQ_10409"] = "10409.png",
+		-- emoji: QQ_100
+		["QQ_100"] = "100.png",
+		-- emoji: QQ_101
+		["QQ_101"] = "101.png",
+		-- emoji: QQ_102
+		["QQ_102"] = "102.png",
+		-- emoji: QQ_103
+		["QQ_103"] = "103.png",
+		-- emoji: QQ_104
+		["QQ_104"] = "104.png",
+		-- emoji: QQ_106
+		["QQ_106"] = "106.png",
+		-- emoji: QQ_107
+		["QQ_107"] = "107.png",
+		-- emoji: QQ_108
+		["QQ_108"] = "108.png",
+		-- emoji: QQ_109
+		["QQ_109"] = "109.png",
+		-- emoji: QQ_105
+		["QQ_105"] = "105.png",
+		-- emoji: QQ_110
+		["QQ_110"] = "110.png",
+		-- emoji: QQ_111
+		["QQ_111"] = "111.png",
+		-- emoji: QQ_112
+		["QQ_112"] = "112.png",
+		-- emoji: QQ_113
+		["QQ_113"] = "113.png",
+		-- emoji: QQ_114
+		["QQ_114"] = "114.png",
+		-- emoji: QQ_115
+		["QQ_115"] = "115.png",
+		-- emoji: QQ_116
+		["QQ_116"] = "116.png",
+		-- emoji: QQ_117
+		["QQ_117"] = "117.png",
+		-- emoji: QQ_118
+		["QQ_118"] = "118.png",
+		-- emoji: QQ_119
+		["QQ_119"] = "119.png",
+		-- emoji: QQ_120
+		["QQ_120"] = "120.png",
+		-- emoji: QQ_121
+		["QQ_121"] = "121.png",
+		-- emoji: QQ_122
+		["QQ_122"] = "122.png",
+		-- emoji: QQ_123
+		["QQ_123"] = "123.png",
+		-- emoji: QQ_124
+		["QQ_124"] = "124.png",
+		-- emoji: QQ_125
+		["QQ_125"] = "125.png",
+		-- emoji: QQ_126
+		["QQ_126"] = "126.png",
+		-- emoji: QQ_127
+		["QQ_127"] = "127.png",
+		-- emoji: QQ_128
+		["QQ_128"] = "128.png",
+		-- emoji: QQ_129
+		["QQ_129"] = "129.png",
+		-- emoji: QQ_130
+		["QQ_130"] = "130.png",
+		-- emoji: QQ_131
+		["QQ_131"] = "131.png",
+		-- emoji: QQ_132
+		["QQ_132"] = "132.png",
+		-- emoji: QQ_133
+		["QQ_133"] = "133.png",
+		-- emoji: QQ_134
+		["QQ_134"] = "134.png",
+		-- emoji: QQ_135
+		["QQ_135"] = "135.png",
+		-- emoji: QQ_136
+		["QQ_136"] = "136.png",
+		-- emoji: QQ_137
+		["QQ_137"] = "137.png",
+		-- emoji: QQ_138
+		["QQ_138"] = "138.png",
+		-- emoji: QQ_139
+		["QQ_139"] = "139.png",
+		-- emoji: QQ_140
+		["QQ_140"] = "140.png",
+		-- emoji: QQ_141
+		["QQ_141"] = "141.png",
+		-- emoji: QQ_142
+		["QQ_142"] = "142.png",
+		-- emoji: QQ_143
+		["QQ_143"] = "143.png",
+		-- emoji: QQ_144
+		["QQ_144"] = "144.png",
+		-- emoji: QQ_145
+		["QQ_145"] = "145.png",
+		-- emoji: QQ_146
+		["QQ_146"] = "146.png",
+		-- emoji: QQ_147
+		["QQ_147"] = "147.png",
+		-- emoji: QQ_148
+		["QQ_148"] = "148.png",
+		-- emoji: QQ_149
+		["QQ_149"] = "149.png",
+		-- emoji: QQ_150
+		["QQ_150"] = "150.png",
+		-- emoji: QQ_151
+		["QQ_151"] = "151.png",
+		-- emoji: QQ_10305
+		["QQ_10305"] = "10305.png",
+		-- emoji: QQ_152
+		["QQ_152"] = "152.png",
+		-- emoji: QQ_153
+		["QQ_153"] = "153.png",
+		-- emoji: QQ_154
+		["QQ_154"] = "154.png",
+		-- emoji: QQ_242
+		["QQ_242"] = "242.png",
+		-- emoji: QQ_252
+		["QQ_252"] = "252.png",
+		-- emoji: QQ_249
+		["QQ_249"] = "249.png",
+		-- emoji: QQ_243
+		["QQ_243"] = "243.png",
+		-- emoji: QQ_244
+		["QQ_244"] = "244.png",
+		-- emoji: QQ_282
+		["QQ_282"] = "282.png",
+		-- emoji: QQ_245
+		["QQ_245"] = "245.png",
+		-- emoji: QQ_248
+		["QQ_248"] = "248.png",
+		-- emoji: QQ_247
+		["QQ_247"] = "247.png",
+		-- emoji: QQ_246
+		["QQ_246"] = "246.png",
+		-- emoji: QQ_253
+		["QQ_253"] = "253.png",
+		-- emoji: QQ_10262
+		["QQ_10262"] = "10262.png",
+		-- emoji: QQ_10263
+		["QQ_10263"] = "10263.png",
+		-- emoji: QQ_10264
+		["QQ_10264"] = "10264.png",
+		-- emoji: QQ_10265
+		["QQ_10265"] = "10265.png",
+		-- emoji: QQ_10266
+		["QQ_10266"] = "10266.png",
+		-- emoji: QQ_10267
+		["QQ_10267"] = "10267.png",
+		-- emoji: QQ_10268
+		["QQ_10268"] = "10268.png",
+		-- emoji: QQ_10269
+		["QQ_10269"] = "10269.png",
+		-- emoji: QQ_10270
+		["QQ_10270"] = "10270.png",
+		-- emoji: QQ_10271
+		["QQ_10271"] = "10271.png",
+		-- emoji: QQ_10272
+		["QQ_10272"] = "10272.png",
+		-- emoji: QQ_10277
+		["QQ_10277"] = "10277.png",
+		-- emoji: QQ_10307
+		["QQ_10307"] = "10307.png",
+		-- emoji: QQ_10306
+		["QQ_10306"] = "10306.png",
+		-- emoji: QQ_10281
+		["QQ_10281"] = "10281.png",
+		-- emoji: QQ_10282
+		["QQ_10282"] = "10282.png",
+		-- emoji: QQ_10283
+		["QQ_10283"] = "10283.png",
+		-- emoji: QQ_10284
+		["QQ_10284"] = "10284.png",
+		-- emoji: QQ_10285
+		["QQ_10285"] = "10285.png",
+		-- emoji: QQ_10293
+		["QQ_10293"] = "10293.png",
+		-- emoji: QQ_10286
+		["QQ_10286"] = "10286.png",
+		-- emoji: QQ_10287
+		["QQ_10287"] = "10287.png",
+		-- emoji: QQ_10289
+		["QQ_10289"] = "10289.png",
+		-- emoji: QQ_10294
+		["QQ_10294"] = "10294.png",
+		-- emoji: QQ_10297
+		["QQ_10297"] = "10297.png",
+		-- emoji: QQ_10298
+		["QQ_10298"] = "10298.png",
+		-- emoji: QQ_10299
+		["QQ_10299"] = "10299.png",
+		-- emoji: QQ_10300
+		["QQ_10300"] = "10300.png",
+		-- emoji: QQ_10323
+		["QQ_10323"] = "10323.png",
+		-- emoji: QQ_10332
+		["QQ_10332"] = "10332.png",
+		-- emoji: QQ_10336
+		["QQ_10336"] = "10336.png",
+		-- emoji: QQ_10353
+		["QQ_10353"] = "10353.png",
+		-- emoji: QQ_10355
+		["QQ_10355"] = "10355.png",
+		-- emoji: QQ_10356
+		["QQ_10356"] = "10356.png",
+		-- emoji: QQ_10354
+		["QQ_10354"] = "10354.png",
+		-- emoji: QQ_10352
+		["QQ_10352"] = "10352.png",
+		-- emoji: QQ_10357
+		["QQ_10357"] = "10357.png",
+		-- emoji: QQ_10334
+		["QQ_10334"] = "10334.png",
+		-- emoji: QQ_10347
+		["QQ_10347"] = "10347.png",
+		-- emoji: QQ_10303
+		["QQ_10303"] = "10303.png",
+		-- emoji: QQ_10302
+		["QQ_10302"] = "10302.png",
+		-- emoji: QQ_10295
+		["QQ_10295"] = "10295.png",
+		-- emoji: QQ_10311
+		["QQ_10311"] = "10311.png",
+		-- emoji: QQ_10312
+		["QQ_10312"] = "10312.png",
+		-- emoji: QQ_10314
+		["QQ_10314"] = "10314.png",
+		-- emoji: QQ_10317
+		["QQ_10317"] = "10317.png",
+		-- emoji: QQ_10318
+		["QQ_10318"] = "10318.png",
+		-- emoji: QQ_10319
+		["QQ_10319"] = "10319.png",
+		-- emoji: QQ_10320
+		["QQ_10320"] = "10320.png",
+		-- emoji: QQ_10324
+		["QQ_10324"] = "10324.png",
+		-- emoji: QQ_10325
+		["QQ_10325"] = "10325.png",
+		-- emoji: QQ_10337
+		["QQ_10337"] = "10337.png",
+		-- emoji: QQ_10338
+		["QQ_10338"] = "10338.png",
+		-- emoji: QQ_10339
+		["QQ_10339"] = "10339.png",
+		-- emoji: QQ_10341
+		["QQ_10341"] = "10341.png",
+		-- emoji: QQ_10342
+		["QQ_10342"] = "10342.png",
+		-- emoji: QQ_10343
+		["QQ_10343"] = "10343.png",
+		-- emoji: QQ_10344
+		["QQ_10344"] = "10344.png",
+		-- emoji: QQ_10345
+		["QQ_10345"] = "10345.png",
+		-- emoji: QQ_10346
+		["QQ_10346"] = "10346.png",
+		-- emoji: QQ_251
+		["QQ_251"] = "251.png",
+		-- emoji: QQ_176
+		["QQ_176"] = "176.png",
+		-- emoji: QQ_175
+		["QQ_175"] = "175.png",
+		-- emoji: QQ_10351
+		["QQ_10351"] = "10351.png",
+		-- emoji: QQ_10349
+		["QQ_10349"] = "10349.png",
+		-- emoji: QQ_10350
+		["QQ_10350"] = "10350.png",
+		-- emoji: QQ_10395
+		["QQ_10395"] = "10395.png",
+		-- emoji: QQ_158
+		["QQ_158"] = "158.png",
+		-- emoji: QQ_10358
+		["QQ_10358"] = "10358.png",
+		-- emoji: QQ_10359
+		["QQ_10359"] = "10359.png",
+		-- emoji: QQ_10326
+		["QQ_10326"] = "10326.png",
+		-- emoji: QQ_168
+		["QQ_168"] = "168.png",
+		-- emoji: QQ_178
+		["QQ_178"] = "178.png",
+		-- emoji: QQ_166
+		["QQ_166"] = "166.png",
+		-- emoji: QQ_163
+		["QQ_163"] = "163.png",
+		-- emoji: QQ_164
+		["QQ_164"] = "164.png",
+		-- emoji: QQ_257
+		["QQ_257"] = "257.png",
+		-- emoji: QQ_121011
+		["QQ_121011"] = "121011.png",
+		-- emoji: QQ_165
+		["QQ_165"] = "165.png",
+		-- emoji: QQ_167
+		["QQ_167"] = "167.png",
+		-- emoji: QQ_160
+		["QQ_160"] = "160.png",
+		-- emoji: QQ_255
+		["QQ_255"] = "255.png",
+		-- emoji: QQ_121002
+		["QQ_121002"] = "121002.png",
+		-- emoji: QQ_10333
+		["QQ_10333"] = "10333.png",
+		-- emoji: QQ_10415
+		["QQ_10415"] = "10415.png",
+		-- emoji: QQ_10416
+		["QQ_10416"] = "10416.png",
+		-- emoji: QQ_10417
+		["QQ_10417"] = "10417.png",
+		-- emoji: QQ_10392
+		["QQ_10392"] = "10392.png",
+		-- emoji: QQ_10393
+		["QQ_10393"] = "10393.png",
+		-- emoji: QQ_10394
+		["QQ_10394"] = "10394.png",
+		-- emoji: QQ_179
+		["QQ_179"] = "179.png",
+		-- emoji: QQ_189
+		["QQ_189"] = "189.png",
+		-- emoji: QQ_183
+		["QQ_183"] = "183.png",
+		-- emoji: QQ_181
+		["QQ_181"] = "181.png",
+		-- emoji: QQ_184
+		["QQ_184"] = "184.png",
+		-- emoji: QQ_182
+		["QQ_182"] = "182.png",
+		-- emoji: QQ_185
+		["QQ_185"] = "185.png",
+		-- emoji: QQ_186
+		["QQ_186"] = "186.png",
+		-- emoji: QQ_180
+		["QQ_180"] = "180.png",
+		-- emoji: QQ_188
+		["QQ_188"] = "188.png",
+		-- emoji: QQ_271
+		["QQ_271"] = "271.png",
+		-- emoji: QQ_10273
+		["QQ_10273"] = "10273.png",
+		-- emoji: QQ_162
+		["QQ_162"] = "162.png",
+		-- emoji: QQ_155
+		["QQ_155"] = "155.png",
+		-- emoji: QQ_171
+		["QQ_171"] = "171.png",
+		-- emoji: QQ_121034
+		["QQ_121034"] = "121034.png",
+		-- emoji: QQ_241
+		["QQ_241"] = "241.png",
+		-- emoji: QQ_174
+		["QQ_174"] = "174.png",
+		-- emoji: QQ_121009
+		["QQ_121009"] = "121009.png",
+		-- emoji: QQ_121012
+		["QQ_121012"] = "121012.png",
+		-- emoji: QQ_156
+		["QQ_156"] = "156.png",
+		-- emoji: QQ_193
+		["QQ_193"] = "193.png",
+		-- emoji: QQ_195
+		["QQ_195"] = "195.png",
+		-- emoji: QQ_190
+		["QQ_190"] = "190.png",
+		-- emoji: QQ_192
+		["QQ_192"] = "192.png",
+		-- emoji: QQ_194
+		["QQ_194"] = "194.png",
+		-- emoji: QQ_199
+		["QQ_199"] = "199.png",
+		-- emoji: QQ_191
+		["QQ_191"] = "191.png",
 	},
 
 	GroupInfo = {
-		GroupCount = 1,
-		EmojiCount = 235,
+		GroupCount = 2,
+		EmojiCount = 282,
 		{
-			SubGroupCount = 1,
-			EmojiCount = 235,
+			Name = "Basic emojis",
+			Icon = "QQ_10344",
+			SubGroupCount = 2,
+			EmojiCount = 232,
 			{
-				EmojiCount = 235,
-				"10364",
-				"10366",
-				"10362",
-				"10397",
-				"10396",
-				"10360",
-				"10361",
-				"10363",
-				"10365",
-				"10367",
-				"10399",
-				"10398",
-				"10373",
-				"10370",
-				"10375",
-				"10368",
-				"10369",
-				"10371",
-				"10372",
-				"10374",
-				"10382",
-				"10383",
-				"10401",
-				"10400",
-				"10380",
-				"10381",
-				"10379",
-				"10376",
-				"10378",
-				"10377",
-				"10403",
-				"10402",
-				"10390",
-				"10391",
-				"10388",
-				"10389",
-				"10386",
-				"10385",
-				"10384",
-				"10387",
-				"10413",
-				"10405",
-				"10404",
-				"10406",
-				"10410",
-				"10411",
-				"10407",
-				"10408",
-				"10412",
-				"10409",
+				Name = "Super emojis",
+				EmojiCount = 39,
+				"105",
+				"10311",
+				"10312",
+				"10314",
+				"10317",
+				"10318",
+				"10319",
+				"10320",
+				"10324",
+				"10325",
+				"10337",
+				"10338",
+				"10339",
+				"10341",
+				"10342",
+				"10343",
+				"10344",
+				"10345",
+				"10346",
+				"251",
+				"176",
+				"175",
+				"10351",
+				"10349",
+				"10350",
+				"10395",
+				"158",
+				"10358",
+				"10359",
+				"10326",
+				"168",
+				"121002",
+				"10333",
+				"10415",
+				"10416",
+				"10417",
+				"10392",
+				"10393",
+				"10394",
+			},
+			{
+				Name = "Yellow faces",
+				EmojiCount = 193,
 				"100",
 				"101",
 				"102",
@@ -547,7 +543,6 @@ local pack = {
 				"107",
 				"108",
 				"109",
-				"105",
 				"110",
 				"111",
 				"112",
@@ -647,36 +642,6 @@ local pack = {
 				"10303",
 				"10302",
 				"10295",
-				"10311",
-				"10312",
-				"10314",
-				"10317",
-				"10318",
-				"10319",
-				"10320",
-				"10324",
-				"10325",
-				"10337",
-				"10338",
-				"10339",
-				"10341",
-				"10342",
-				"10343",
-				"10344",
-				"10345",
-				"10346",
-				"251",
-				"176",
-				"175",
-				"10351",
-				"10349",
-				"10350",
-				"10395",
-				"158",
-				"10358",
-				"10359",
-				"10326",
-				"168",
 				"178",
 				"166",
 				"163",
@@ -687,14 +652,6 @@ local pack = {
 				"167",
 				"160",
 				"255",
-				"121002",
-				"10333",
-				"10415",
-				"10416",
-				"10417",
-				"10392",
-				"10393",
-				"10394",
 				"179",
 				"189",
 				"183",
@@ -716,15 +673,137 @@ local pack = {
 				"121009",
 				"121012",
 				"156",
+				"121013",
+				"170",
 				"193",
 				"195",
 				"190",
 				"192",
 				"194",
 				"199",
+				"297",
 				"191",
+				"285",
+				"284",
+				"292",
+				"273",
+				"305",
+				"311",
+				"307",
+				"288",
+				"303",
+				"302",
+				"308",
+				"287",
+				"296",
+				"300",
+				"264",
+				"280",
+				"263",
+				"274",
+				"270",
+				"20240",
+				"295",
+				"299",
+				"291",
+				"289",
+				"294",
+				"286",
+				"301",
+				"312",
+				"293",
+				"313",
+				"281",
+				"20242",
+				"310",
+				"250",
+				"187",
+				"272",
+				"20237",
+				"10301",
+				"10288",
+				"10322",
+				"268",
+				"10348",
+				"276",
+				"309",
 			},
-
+		},
+		{
+			Name = "Super emojis",
+			Icon = "QQ_10361",
+			SubGroupCount = 5,
+			EmojiCount = 50,
+			{
+				Name = "Woof woof",
+				EmojiCount = 10,
+				"10364",
+				"10366",
+				"10362",
+				"10397",
+				"10396",
+				"10360",
+				"10361",
+				"10363",
+				"10365",
+				"10367",
+			},
+			{
+				Name = "XiHuaNi",
+				EmojiCount = 10,
+				"10413",
+				"10405",
+				"10404",
+				"10406",
+				"10410",
+				"10411",
+				"10407",
+				"10408",
+				"10412",
+				"10409",
+			},
+			{
+				Name = "QQ Yellow faces",
+				EmojiCount = 10,
+				"10403",
+				"10402",
+				"10390",
+				"10391",
+				"10388",
+				"10389",
+				"10386",
+				"10385",
+				"10384",
+				"10387",
+			},
+			{
+				Name = "Pengin",
+				EmojiCount = 10,
+				"10382",
+				"10383",
+				"10401",
+				"10400",
+				"10380",
+				"10381",
+				"10379",
+				"10376",
+				"10378",
+				"10377",
+			},
+			{
+				Name = "Pufulings",
+				EmojiCount = 10,
+				"10399",
+				"10398",
+				"10373",
+				"10370",
+				"10375",
+				"10368",
+				"10369",
+				"10371",
+				"10372",
+				"10374",
+			},
 		},
 	},
 
@@ -732,952 +811,952 @@ local pack = {
 	-- ========================  key to shortcode =========================
 	-- ====================================================================
 	KeyToShortcode = {
-		-- emoji:10364
-		["10364"] = "QQ·super like",
-		-- emoji:10366
-		["10366"] = "QQ·mangdog",
-		-- emoji:10362
-		["10362"] = "QQ·bro",
-		-- emoji:10397
-		["10397"] = "QQ·flirting glance",
-		-- emoji:10396
-		["10396"] = "QQ·wolfdog",
-		-- emoji:10360
-		["10360"] = "QQ·kiss",
-		-- emoji:10361
-		["10361"] = "QQ·dog laugh-cry",
-		-- emoji:10363
-		["10363"] = "QQ·dog sadness",
-		-- emoji:10365
-		["10365"] = "QQ·dog angry",
-		-- emoji:10367
-		["10367"] = "QQ·dog confused",
-		-- emoji:10399
-		["10399"] = "QQ·tui (spit)",
-		-- emoji:10398
-		["10398"] = "QQ·super ok",
-		-- emoji:10373
-		["10373"] = "QQ·busy",
-		-- emoji:10370
-		["10370"] = "QQ·congratulations",
-		-- emoji:10375
-		["10375"] = "QQ·super applause",
-		-- emoji:10368
-		["10368"] = "QQ·ultraman laugh-cry",
-		-- emoji:10369
-		["10369"] = "QQ·rainbow",
-		-- emoji:10371
-		["10371"] = "QQ·bubbling",
-		-- emoji:10372
-		["10372"] = "QQ·fuming",
-		-- emoji:10374
-		["10374"] = "QQ·bobo tears",
-		-- emoji:10382
-		["10382"] = "QQ·emo",
-		-- emoji:10383
-		["10383"] = "QQ·penguin heart",
-		-- emoji:10401
-		["10401"] = "QQ·super spin",
-		-- emoji:10400
-		["10400"] = "QQ·happy",
-		-- emoji:10380
-		["10380"] = "QQ·awesome",
-		-- emoji:10381
-		["10381"] = "QQ·passing by",
-		-- emoji:10379
-		["10379"] = "QQ·penguin tears",
-		-- emoji:10376
-		["10376"] = "QQ·stomp",
-		-- emoji:10378
-		["10378"] = "QQ·penguin laugh-cry",
-		-- emoji:10377
-		["10377"] = "QQ·hi",
-		-- emoji:10403
-		["10403"] = "QQ·go out",
-		-- emoji:10402
-		["10402"] = "QQ·shush",
-		-- emoji:10390
-		["10390"] = "QQ·so bald",
-		-- emoji:10391
-		["10391"] = "QQ·so weathered",
-		-- emoji:10388
-		["10388"] = "QQ·so headache",
-		-- emoji:10389
-		["10389"] = "QQ·so amazing",
-		-- emoji:10386
-		["10386"] = "QQ·wuwuwu (crying)",
-		-- emoji:10385
-		["10385"] = "QQ·so angry",
-		-- emoji:10384
-		["10384"] = "QQ·good night",
-		-- emoji:10387
-		["10387"] = "QQ·so funny",
-		-- emoji:10413
-		["10413"] = "QQ·shake it",
-		-- emoji:10405
-		["10405"] = "QQ·good luck",
-		-- emoji:10404
-		["10404"] = "QQ·shining entrance",
-		-- emoji:10406
-		["10406"] = "QQ·queen sister",
-		-- emoji:10410
-		["10410"] = "QQ·mwah",
-		-- emoji:10411
-		["10411"] = "QQ·party together",
-		-- emoji:10407
-		["10407"] = "QQ·let me listen",
-		-- emoji:10408
-		["10408"] = "QQ·vain",
-		-- emoji:10412
-		["10412"] = "QQ·joyful",
-		-- emoji:10409
-		["10409"] = "QQ·give you flowers",
-		-- emoji:100
-		["100"] = "QQ·smile",
-		-- emoji:101
-		["101"] = "QQ·pout",
-		-- emoji:102
-		["102"] = "QQ·flirtatious",
-		-- emoji:103
-		["103"] = "QQ·daze",
-		-- emoji:104
-		["104"] = "QQ·proud",
-		-- emoji:106
-		["106"] = "QQ·shy",
-		-- emoji:107
-		["107"] = "QQ·shut up",
-		-- emoji:108
-		["108"] = "QQ·sleep",
-		-- emoji:109
-		["109"] = "QQ·sob",
-		-- emoji:105
-		["105"] = "QQ·tears",
-		-- emoji:110
-		["110"] = "QQ·awkward",
-		-- emoji:111
-		["111"] = "QQ·furious",
-		-- emoji:112
-		["112"] = "QQ·naughty",
-		-- emoji:113
-		["113"] = "QQ·grin",
-		-- emoji:114
-		["114"] = "QQ·surprised",
-		-- emoji:115
-		["115"] = "QQ·sad",
-		-- emoji:116
-		["116"] = "QQ·cool",
-		-- emoji:117
-		["117"] = "QQ·cold sweat",
-		-- emoji:118
-		["118"] = "QQ·freak out",
-		-- emoji:119
-		["119"] = "QQ·vomit",
-		-- emoji:120
-		["120"] = "QQ·snicker",
-		-- emoji:121
-		["121"] = "QQ·cute",
-		-- emoji:122
-		["122"] = "QQ·eye roll",
-		-- emoji:123
-		["123"] = "QQ·arrogant",
-		-- emoji:124
-		["124"] = "QQ·hungry",
-		-- emoji:125
-		["125"] = "QQ·sleepy",
-		-- emoji:126
-		["126"] = "QQ·terrified",
-		-- emoji:127
-		["127"] = "QQ·sweating",
-		-- emoji:128
-		["128"] = "QQ·silly smile",
-		-- emoji:129
-		["129"] = "QQ·chill",
-		-- emoji:130
-		["130"] = "QQ·strive",
-		-- emoji:131
-		["131"] = "QQ·curse",
-		-- emoji:132
-		["132"] = "QQ·question",
-		-- emoji:133
-		["133"] = "QQ·shh",
-		-- emoji:134
-		["134"] = "QQ·dizzy",
-		-- emoji:135
-		["135"] = "QQ·torture",
-		-- emoji:136
-		["136"] = "QQ·unlucky",
-		-- emoji:137
-		["137"] = "QQ·skull",
-		-- emoji:138
-		["138"] = "QQ·knock",
-		-- emoji:139
-		["139"] = "QQ·goodbye",
-		-- emoji:140
-		["140"] = "QQ·wipe sweat",
-		-- emoji:141
-		["141"] = "QQ·pick nose",
-		-- emoji:142
-		["142"] = "QQ·clap",
-		-- emoji:143
-		["143"] = "QQ·epic fail",
-		-- emoji:144
-		["144"] = "QQ·mischievous smile",
-		-- emoji:145
-		["145"] = "QQ·left hmph",
-		-- emoji:146
-		["146"] = "QQ·right hmph",
-		-- emoji:147
-		["147"] = "QQ·yawn",
-		-- emoji:148
-		["148"] = "QQ·disdain",
-		-- emoji:149
-		["149"] = "QQ·grievance",
-		-- emoji:150
-		["150"] = "QQ·almost crying",
-		-- emoji:151
-		["151"] = "QQ·sinister",
-		-- emoji:10305
-		["10305"] = "QQ·right kiss",
-		-- emoji:152
-		["152"] = "QQ·left kiss",
-		-- emoji:153
-		["153"] = "QQ·scare",
-		-- emoji:154
-		["154"] = "QQ·pitiful",
-		-- emoji:242
-		["242"] = "QQ·blink",
-		-- emoji:252
-		["252"] = "QQ·laugh-cry",
-		-- emoji:249
-		["249"] = "QQ·doge",
-		-- emoji:243
-		["243"] = "QQ·tears running",
-		-- emoji:244
-		["244"] = "QQ·helpless",
-		-- emoji:282
-		["282"] = "QQ·cheek rest",
-		-- emoji:245
-		["245"] = "QQ·act cute",
-		-- emoji:248
-		["248"] = "QQ·side-eye smile",
-		-- emoji:247
-		["247"] = "QQ·blood spray",
-		-- emoji:246
-		["246"] = "QQ·little dilemma",
-		-- emoji:253
-		["253"] = "QQ·i’m the prettiest",
-		-- emoji:10262
-		["10262"] = "QQ·brain pain",
-		-- emoji:10263
-		["10263"] = "QQ·weathered",
-		-- emoji:10264
-		["10264"] = "QQ·facepalm",
-		-- emoji:10265
-		["10265"] = "QQ·eye burn",
-		-- emoji:10266
-		["10266"] = "QQ·oh yo",
-		-- emoji:10267
-		["10267"] = "QQ·bald head",
-		-- emoji:10268
-		["10268"] = "QQ·question mark face",
-		-- emoji:10269
-		["10269"] = "QQ·secretly observing",
-		-- emoji:10270
-		["10270"] = "QQ·hmm",
-		-- emoji:10271
-		["10271"] = "QQ·melon munching (gossip)",
-		-- emoji:10272
-		["10272"] = "QQ·heheda (mocking laugh)",
-		-- emoji:10277
-		["10277"] = "QQ·woof",
-		-- emoji:10307
-		["10307"] = "QQ·meow",
-		-- emoji:10306
-		["10306"] = "QQ·bullish energy",
-		-- emoji:10281
-		["10281"] = "QQ·eyeless smile",
-		-- emoji:10282
-		["10282"] = "QQ·salute",
-		-- emoji:10283
-		["10283"] = "QQ·maniacal laugh",
-		-- emoji:10284
-		["10284"] = "QQ·expressionless",
-		-- emoji:10285
-		["10285"] = "QQ·slack off",
-		-- emoji:10293
-		["10293"] = "QQ·touch koi",
-		-- emoji:10286
-		["10286"] = "QQ·devil laugh",
-		-- emoji:10287
-		["10287"] = "QQ·oh",
-		-- emoji:10289
-		["10289"] = "QQ·open eyes",
-		-- emoji:10294
-		["10294"] = "QQ·anticipation",
-		-- emoji:10297
-		["10297"] = "QQ·bow thanks",
-		-- emoji:10298
-		["10298"] = "QQ·gold ingot",
-		-- emoji:10299
-		["10299"] = "QQ·so awesome",
-		-- emoji:10300
-		["10300"] = "QQ·gained three pounds",
-		-- emoji:10323
-		["10323"] = "QQ·disgust",
-		-- emoji:10332
-		["10332"] = "QQ·hold sign",
-		-- emoji:10336
-		["10336"] = "QQ·leopard rich",
-		-- emoji:10353
-		["10353"] = "QQ·please",
-		-- emoji:10355
-		["10355"] = "QQ·yeah",
-		-- emoji:10356
-		["10356"] = "QQ·666 (awesome)",
-		-- emoji:10354
-		["10354"] = "QQ·really or fake?",
-		-- emoji:10352
-		["10352"] = "QQ·huh?",
-		-- emoji:10357
-		["10357"] = "QQ·cracked",
-		-- emoji:10334
-		["10334"] = "QQ·tiger’s might",
-		-- emoji:10347
-		["10347"] = "QQ·grand rabbit (ambition)",
-		-- emoji:10303
-		["10303"] = "QQ·right new year greeting",
-		-- emoji:10302
-		["10302"] = "QQ·left new year greeting",
-		-- emoji:10295
-		["10295"] = "QQ·get red packet",
-		-- emoji:10311
-		["10311"] = "QQ·cheer on",
-		-- emoji:10312
-		["10312"] = "QQ·transform",
-		-- emoji:10314
-		["10314"] = "QQ·analyze carefully",
-		-- emoji:10317
-		["10317"] = "QQ·noob dog",
-		-- emoji:10318
-		["10318"] = "QQ·worship",
-		-- emoji:10319
-		["10319"] = "QQ·finger heart",
-		-- emoji:10320
-		["10320"] = "QQ·celebrate",
-		-- emoji:10324
-		["10324"] = "QQ·eat candy",
-		-- emoji:10325
-		["10325"] = "QQ·fright",
-		-- emoji:10337
-		["10337"] = "QQ·flower face",
-		-- emoji:10338
-		["10338"] = "QQ·i’ve let go",
-		-- emoji:10339
-		["10339"] = "QQ·screen lick",
-		-- emoji:10341
-		["10341"] = "QQ·greeting",
-		-- emoji:10342
-		["10342"] = "QQ·thank you (sarcastic)",
-		-- emoji:10343
-		["10343"] = "QQ·we’re stunned",
-		-- emoji:10344
-		["10344"] = "QQ·big complainer",
-		-- emoji:10345
-		["10345"] = "QQ·lots of red packets",
-		-- emoji:10346
-		["10346"] = "QQ·you’re so great",
-		-- emoji:251
-		["251"] = "QQ·poke",
-		-- emoji:176
-		["176"] = "QQ·sun",
-		-- emoji:175
-		["175"] = "QQ·moon",
-		-- emoji:10351
-		["10351"] = "QQ·knock knock",
-		-- emoji:10349
-		["10349"] = "QQ·strong",
-		-- emoji:10350
-		["10350"] = "QQ·stick together",
-		-- emoji:10395
-		["10395"] = "QQ·nah nah",
-		-- emoji:158
-		["158"] = "QQ·basketball",
-		-- emoji:10358
-		["10358"] = "QQ·dice",
-		-- emoji:10359
-		["10359"] = "QQ·rock-paper-scissors",
-		-- emoji:10326
-		["10326"] = "QQ·angry",
-		-- emoji:168
-		["168"] = "QQ·cake",
-		-- emoji:178
-		["178"] = "QQ·hug",
-		-- emoji:166
-		["166"] = "QQ·heart",
-		-- emoji:163
-		["163"] = "QQ·rose",
-		-- emoji:164
-		["164"] = "QQ·wither",
-		-- emoji:257
-		["257"] = "QQ·ghost",
-		-- emoji:121011
-		["121011"] = "QQ·vein pop",
-		-- emoji:165
-		["165"] = "QQ·show love",
-		-- emoji:167
-		["167"] = "QQ·heartbroken",
-		-- emoji:160
-		["160"] = "QQ·coffee",
-		-- emoji:255
-		["255"] = "QQ·alpaca",
-		-- emoji:121002
-		["121002"] = "QQ·firecracker",
-		-- emoji:10333
-		["10333"] = "QQ·firework",
-		-- emoji:10415
-		["10415"] = "QQ·dragon boat rowing",
-		-- emoji:10416
-		["10416"] = "QQ·medium dragon boat",
-		-- emoji:10417
-		["10417"] = "QQ·large dragon boat",
-		-- emoji:10392
-		["10392"] = "QQ·happy dragon year",
-		-- emoji:10393
-		["10393"] = "QQ·new year medium dragon",
-		-- emoji:10394
-		["10394"] = "QQ·new year large dragon",
-		-- emoji:179
-		["179"] = "QQ·like",
-		-- emoji:189
-		["189"] = "QQ·ok",
-		-- emoji:183
-		["183"] = "QQ·fist salute",
-		-- emoji:181
-		["181"] = "QQ·handshake",
-		-- emoji:184
-		["184"] = "QQ·tempt",
-		-- emoji:182
-		["182"] = "QQ·victory",
-		-- emoji:185
-		["185"] = "QQ·fist",
-		-- emoji:186
-		["186"] = "QQ·lame",
-		-- emoji:180
-		["180"] = "QQ·step on",
-		-- emoji:188
-		["188"] = "QQ·no",
-		-- emoji:271
-		["271"] = "QQ·thumbs up",
-		-- emoji:10273
-		["10273"] = "QQ·i’m jealous",
-		-- emoji:162
-		["162"] = "QQ·pig head",
-		-- emoji:155
-		["155"] = "QQ·cleaver",
-		-- emoji:171
-		["171"] = "QQ·knife",
-		-- emoji:121034
-		["121034"] = "QQ·gun",
-		-- emoji:241
-		["241"] = "QQ·tea",
-		-- emoji:174
-		["174"] = "QQ·poop",
-		-- emoji:121009
-		["121009"] = "QQ·acclaim",
-		-- emoji:121012
-		["121012"] = "QQ·lollipop",
-		-- emoji:156
-		["156"] = "QQ·watermelon",
-		-- emoji:193
-		["193"] = "QQ·shiver",
-		-- emoji:195
-		["195"] = "QQ·spin",
-		-- emoji:190
-		["190"] = "QQ·love",
-		-- emoji:192
-		["192"] = "QQ·jump",
-		-- emoji:194
-		["194"] = "QQ·seethe",
-		-- emoji:199
-		["199"] = "QQ·wave",
-		-- emoji:191
-		["191"] = "QQ·blow kiss",
+		-- emoji:QQ_10364
+		["QQ_10364"] = "QQ·super like",
+		-- emoji:QQ_10366
+		["QQ_10366"] = "QQ·mangdog",
+		-- emoji:QQ_10362
+		["QQ_10362"] = "QQ·bro",
+		-- emoji:QQ_10397
+		["QQ_10397"] = "QQ·flirting glance",
+		-- emoji:QQ_10396
+		["QQ_10396"] = "QQ·wolfdog",
+		-- emoji:QQ_10360
+		["QQ_10360"] = "QQ·kiss",
+		-- emoji:QQ_10361
+		["QQ_10361"] = "QQ·dog laugh-cry",
+		-- emoji:QQ_10363
+		["QQ_10363"] = "QQ·dog sadness",
+		-- emoji:QQ_10365
+		["QQ_10365"] = "QQ·dog angry",
+		-- emoji:QQ_10367
+		["QQ_10367"] = "QQ·dog confused",
+		-- emoji:QQ_10399
+		["QQ_10399"] = "QQ·tui (spit)",
+		-- emoji:QQ_10398
+		["QQ_10398"] = "QQ·super ok",
+		-- emoji:QQ_10373
+		["QQ_10373"] = "QQ·busy",
+		-- emoji:QQ_10370
+		["QQ_10370"] = "QQ·congratulations",
+		-- emoji:QQ_10375
+		["QQ_10375"] = "QQ·super applause",
+		-- emoji:QQ_10368
+		["QQ_10368"] = "QQ·ultraman laugh-cry",
+		-- emoji:QQ_10369
+		["QQ_10369"] = "QQ·rainbow",
+		-- emoji:QQ_10371
+		["QQ_10371"] = "QQ·bubbling",
+		-- emoji:QQ_10372
+		["QQ_10372"] = "QQ·fuming",
+		-- emoji:QQ_10374
+		["QQ_10374"] = "QQ·bobo tears",
+		-- emoji:QQ_10382
+		["QQ_10382"] = "QQ·emo",
+		-- emoji:QQ_10383
+		["QQ_10383"] = "QQ·penguin heart",
+		-- emoji:QQ_10401
+		["QQ_10401"] = "QQ·super spin",
+		-- emoji:QQ_10400
+		["QQ_10400"] = "QQ·happy",
+		-- emoji:QQ_10380
+		["QQ_10380"] = "QQ·awesome",
+		-- emoji:QQ_10381
+		["QQ_10381"] = "QQ·passing by",
+		-- emoji:QQ_10379
+		["QQ_10379"] = "QQ·penguin tears",
+		-- emoji:QQ_10376
+		["QQ_10376"] = "QQ·stomp",
+		-- emoji:QQ_10378
+		["QQ_10378"] = "QQ·penguin laugh-cry",
+		-- emoji:QQ_10377
+		["QQ_10377"] = "QQ·hi",
+		-- emoji:QQ_10403
+		["QQ_10403"] = "QQ·go out",
+		-- emoji:QQ_10402
+		["QQ_10402"] = "QQ·shush",
+		-- emoji:QQ_10390
+		["QQ_10390"] = "QQ·so bald",
+		-- emoji:QQ_10391
+		["QQ_10391"] = "QQ·so weathered",
+		-- emoji:QQ_10388
+		["QQ_10388"] = "QQ·so headache",
+		-- emoji:QQ_10389
+		["QQ_10389"] = "QQ·so amazing",
+		-- emoji:QQ_10386
+		["QQ_10386"] = "QQ·wuwuwu (crying)",
+		-- emoji:QQ_10385
+		["QQ_10385"] = "QQ·so angry",
+		-- emoji:QQ_10384
+		["QQ_10384"] = "QQ·good night",
+		-- emoji:QQ_10387
+		["QQ_10387"] = "QQ·so funny",
+		-- emoji:QQ_10413
+		["QQ_10413"] = "QQ·shake it",
+		-- emoji:QQ_10405
+		["QQ_10405"] = "QQ·good luck",
+		-- emoji:QQ_10404
+		["QQ_10404"] = "QQ·shining entrance",
+		-- emoji:QQ_10406
+		["QQ_10406"] = "QQ·queen sister",
+		-- emoji:QQ_10410
+		["QQ_10410"] = "QQ·mwah",
+		-- emoji:QQ_10411
+		["QQ_10411"] = "QQ·party together",
+		-- emoji:QQ_10407
+		["QQ_10407"] = "QQ·let me listen",
+		-- emoji:QQ_10408
+		["QQ_10408"] = "QQ·vain",
+		-- emoji:QQ_10412
+		["QQ_10412"] = "QQ·joyful",
+		-- emoji:QQ_10409
+		["QQ_10409"] = "QQ·give you flowers",
+		-- emoji:QQ_100
+		["QQ_100"] = "QQ·smile",
+		-- emoji:QQ_101
+		["QQ_101"] = "QQ·pout",
+		-- emoji:QQ_102
+		["QQ_102"] = "QQ·flirtatious",
+		-- emoji:QQ_103
+		["QQ_103"] = "QQ·daze",
+		-- emoji:QQ_104
+		["QQ_104"] = "QQ·proud",
+		-- emoji:QQ_106
+		["QQ_106"] = "QQ·shy",
+		-- emoji:QQ_107
+		["QQ_107"] = "QQ·shut up",
+		-- emoji:QQ_108
+		["QQ_108"] = "QQ·sleep",
+		-- emoji:QQ_109
+		["QQ_109"] = "QQ·sob",
+		-- emoji:QQ_105
+		["QQ_105"] = "QQ·tears",
+		-- emoji:QQ_110
+		["QQ_110"] = "QQ·awkward",
+		-- emoji:QQ_111
+		["QQ_111"] = "QQ·furious",
+		-- emoji:QQ_112
+		["QQ_112"] = "QQ·naughty",
+		-- emoji:QQ_113
+		["QQ_113"] = "QQ·grin",
+		-- emoji:QQ_114
+		["QQ_114"] = "QQ·surprised",
+		-- emoji:QQ_115
+		["QQ_115"] = "QQ·sad",
+		-- emoji:QQ_116
+		["QQ_116"] = "QQ·cool",
+		-- emoji:QQ_117
+		["QQ_117"] = "QQ·cold sweat",
+		-- emoji:QQ_118
+		["QQ_118"] = "QQ·freak out",
+		-- emoji:QQ_119
+		["QQ_119"] = "QQ·vomit",
+		-- emoji:QQ_120
+		["QQ_120"] = "QQ·snicker",
+		-- emoji:QQ_121
+		["QQ_121"] = "QQ·cute",
+		-- emoji:QQ_122
+		["QQ_122"] = "QQ·eye roll",
+		-- emoji:QQ_123
+		["QQ_123"] = "QQ·arrogant",
+		-- emoji:QQ_124
+		["QQ_124"] = "QQ·hungry",
+		-- emoji:QQ_125
+		["QQ_125"] = "QQ·sleepy",
+		-- emoji:QQ_126
+		["QQ_126"] = "QQ·terrified",
+		-- emoji:QQ_127
+		["QQ_127"] = "QQ·sweating",
+		-- emoji:QQ_128
+		["QQ_128"] = "QQ·silly smile",
+		-- emoji:QQ_129
+		["QQ_129"] = "QQ·chill",
+		-- emoji:QQ_130
+		["QQ_130"] = "QQ·strive",
+		-- emoji:QQ_131
+		["QQ_131"] = "QQ·curse",
+		-- emoji:QQ_132
+		["QQ_132"] = "QQ·question",
+		-- emoji:QQ_133
+		["QQ_133"] = "QQ·shh",
+		-- emoji:QQ_134
+		["QQ_134"] = "QQ·dizzy",
+		-- emoji:QQ_135
+		["QQ_135"] = "QQ·torture",
+		-- emoji:QQ_136
+		["QQ_136"] = "QQ·unlucky",
+		-- emoji:QQ_137
+		["QQ_137"] = "QQ·skull",
+		-- emoji:QQ_138
+		["QQ_138"] = "QQ·knock",
+		-- emoji:QQ_139
+		["QQ_139"] = "QQ·goodbye",
+		-- emoji:QQ_140
+		["QQ_140"] = "QQ·wipe sweat",
+		-- emoji:QQ_141
+		["QQ_141"] = "QQ·pick nose",
+		-- emoji:QQ_142
+		["QQ_142"] = "QQ·clap",
+		-- emoji:QQ_143
+		["QQ_143"] = "QQ·epic fail",
+		-- emoji:QQ_144
+		["QQ_144"] = "QQ·mischievous smile",
+		-- emoji:QQ_145
+		["QQ_145"] = "QQ·left hmph",
+		-- emoji:QQ_146
+		["QQ_146"] = "QQ·right hmph",
+		-- emoji:QQ_147
+		["QQ_147"] = "QQ·yawn",
+		-- emoji:QQ_148
+		["QQ_148"] = "QQ·disdain",
+		-- emoji:QQ_149
+		["QQ_149"] = "QQ·grievance",
+		-- emoji:QQ_150
+		["QQ_150"] = "QQ·almost crying",
+		-- emoji:QQ_151
+		["QQ_151"] = "QQ·sinister",
+		-- emoji:QQ_10305
+		["QQ_10305"] = "QQ·right kiss",
+		-- emoji:QQ_152
+		["QQ_152"] = "QQ·left kiss",
+		-- emoji:QQ_153
+		["QQ_153"] = "QQ·scare",
+		-- emoji:QQ_154
+		["QQ_154"] = "QQ·pitiful",
+		-- emoji:QQ_242
+		["QQ_242"] = "QQ·blink",
+		-- emoji:QQ_252
+		["QQ_252"] = "QQ·laugh-cry",
+		-- emoji:QQ_249
+		["QQ_249"] = "QQ·doge",
+		-- emoji:QQ_243
+		["QQ_243"] = "QQ·tears running",
+		-- emoji:QQ_244
+		["QQ_244"] = "QQ·helpless",
+		-- emoji:QQ_282
+		["QQ_282"] = "QQ·cheek rest",
+		-- emoji:QQ_245
+		["QQ_245"] = "QQ·act cute",
+		-- emoji:QQ_248
+		["QQ_248"] = "QQ·side-eye smile",
+		-- emoji:QQ_247
+		["QQ_247"] = "QQ·blood spray",
+		-- emoji:QQ_246
+		["QQ_246"] = "QQ·little dilemma",
+		-- emoji:QQ_253
+		["QQ_253"] = "QQ·i’m the prettiest",
+		-- emoji:QQ_10262
+		["QQ_10262"] = "QQ·brain pain",
+		-- emoji:QQ_10263
+		["QQ_10263"] = "QQ·weathered",
+		-- emoji:QQ_10264
+		["QQ_10264"] = "QQ·facepalm",
+		-- emoji:QQ_10265
+		["QQ_10265"] = "QQ·eye burn",
+		-- emoji:QQ_10266
+		["QQ_10266"] = "QQ·oh yo",
+		-- emoji:QQ_10267
+		["QQ_10267"] = "QQ·bald head",
+		-- emoji:QQ_10268
+		["QQ_10268"] = "QQ·question mark face",
+		-- emoji:QQ_10269
+		["QQ_10269"] = "QQ·secretly observing",
+		-- emoji:QQ_10270
+		["QQ_10270"] = "QQ·hmm",
+		-- emoji:QQ_10271
+		["QQ_10271"] = "QQ·melon munching (gossip)",
+		-- emoji:QQ_10272
+		["QQ_10272"] = "QQ·heheda (mocking laugh)",
+		-- emoji:QQ_10277
+		["QQ_10277"] = "QQ·woof",
+		-- emoji:QQ_10307
+		["QQ_10307"] = "QQ·meow",
+		-- emoji:QQ_10306
+		["QQ_10306"] = "QQ·bullish energy",
+		-- emoji:QQ_10281
+		["QQ_10281"] = "QQ·eyeless smile",
+		-- emoji:QQ_10282
+		["QQ_10282"] = "QQ·salute",
+		-- emoji:QQ_10283
+		["QQ_10283"] = "QQ·maniacal laugh",
+		-- emoji:QQ_10284
+		["QQ_10284"] = "QQ·expressionless",
+		-- emoji:QQ_10285
+		["QQ_10285"] = "QQ·slack off",
+		-- emoji:QQ_10293
+		["QQ_10293"] = "QQ·touch koi",
+		-- emoji:QQ_10286
+		["QQ_10286"] = "QQ·devil laugh",
+		-- emoji:QQ_10287
+		["QQ_10287"] = "QQ·oh",
+		-- emoji:QQ_10289
+		["QQ_10289"] = "QQ·open eyes",
+		-- emoji:QQ_10294
+		["QQ_10294"] = "QQ·anticipation",
+		-- emoji:QQ_10297
+		["QQ_10297"] = "QQ·bow thanks",
+		-- emoji:QQ_10298
+		["QQ_10298"] = "QQ·gold ingot",
+		-- emoji:QQ_10299
+		["QQ_10299"] = "QQ·so awesome",
+		-- emoji:QQ_10300
+		["QQ_10300"] = "QQ·gained three pounds",
+		-- emoji:QQ_10323
+		["QQ_10323"] = "QQ·disgust",
+		-- emoji:QQ_10332
+		["QQ_10332"] = "QQ·hold sign",
+		-- emoji:QQ_10336
+		["QQ_10336"] = "QQ·leopard rich",
+		-- emoji:QQ_10353
+		["QQ_10353"] = "QQ·please",
+		-- emoji:QQ_10355
+		["QQ_10355"] = "QQ·yeah",
+		-- emoji:QQ_10356
+		["QQ_10356"] = "QQ·666 (awesome)",
+		-- emoji:QQ_10354
+		["QQ_10354"] = "QQ·really or fake?",
+		-- emoji:QQ_10352
+		["QQ_10352"] = "QQ·huh?",
+		-- emoji:QQ_10357
+		["QQ_10357"] = "QQ·cracked",
+		-- emoji:QQ_10334
+		["QQ_10334"] = "QQ·tiger’s might",
+		-- emoji:QQ_10347
+		["QQ_10347"] = "QQ·grand rabbit (ambition)",
+		-- emoji:QQ_10303
+		["QQ_10303"] = "QQ·right new year greeting",
+		-- emoji:QQ_10302
+		["QQ_10302"] = "QQ·left new year greeting",
+		-- emoji:QQ_10295
+		["QQ_10295"] = "QQ·get red packet",
+		-- emoji:QQ_10311
+		["QQ_10311"] = "QQ·cheer on",
+		-- emoji:QQ_10312
+		["QQ_10312"] = "QQ·transform",
+		-- emoji:QQ_10314
+		["QQ_10314"] = "QQ·analyze carefully",
+		-- emoji:QQ_10317
+		["QQ_10317"] = "QQ·noob dog",
+		-- emoji:QQ_10318
+		["QQ_10318"] = "QQ·worship",
+		-- emoji:QQ_10319
+		["QQ_10319"] = "QQ·finger heart",
+		-- emoji:QQ_10320
+		["QQ_10320"] = "QQ·celebrate",
+		-- emoji:QQ_10324
+		["QQ_10324"] = "QQ·eat candy",
+		-- emoji:QQ_10325
+		["QQ_10325"] = "QQ·fright",
+		-- emoji:QQ_10337
+		["QQ_10337"] = "QQ·flower face",
+		-- emoji:QQ_10338
+		["QQ_10338"] = "QQ·i’ve let go",
+		-- emoji:QQ_10339
+		["QQ_10339"] = "QQ·screen lick",
+		-- emoji:QQ_10341
+		["QQ_10341"] = "QQ·greeting",
+		-- emoji:QQ_10342
+		["QQ_10342"] = "QQ·thank you (sarcastic)",
+		-- emoji:QQ_10343
+		["QQ_10343"] = "QQ·we’re stunned",
+		-- emoji:QQ_10344
+		["QQ_10344"] = "QQ·big complainer",
+		-- emoji:QQ_10345
+		["QQ_10345"] = "QQ·lots of red packets",
+		-- emoji:QQ_10346
+		["QQ_10346"] = "QQ·you’re so great",
+		-- emoji:QQ_251
+		["QQ_251"] = "QQ·poke",
+		-- emoji:QQ_176
+		["QQ_176"] = "QQ·sun",
+		-- emoji:QQ_175
+		["QQ_175"] = "QQ·moon",
+		-- emoji:QQ_10351
+		["QQ_10351"] = "QQ·knock knock",
+		-- emoji:QQ_10349
+		["QQ_10349"] = "QQ·strong",
+		-- emoji:QQ_10350
+		["QQ_10350"] = "QQ·stick together",
+		-- emoji:QQ_10395
+		["QQ_10395"] = "QQ·nah nah",
+		-- emoji:QQ_158
+		["QQ_158"] = "QQ·basketball",
+		-- emoji:QQ_10358
+		["QQ_10358"] = "QQ·dice",
+		-- emoji:QQ_10359
+		["QQ_10359"] = "QQ·rock-paper-scissors",
+		-- emoji:QQ_10326
+		["QQ_10326"] = "QQ·angry",
+		-- emoji:QQ_168
+		["QQ_168"] = "QQ·cake",
+		-- emoji:QQ_178
+		["QQ_178"] = "QQ·hug",
+		-- emoji:QQ_166
+		["QQ_166"] = "QQ·heart",
+		-- emoji:QQ_163
+		["QQ_163"] = "QQ·rose",
+		-- emoji:QQ_164
+		["QQ_164"] = "QQ·wither",
+		-- emoji:QQ_257
+		["QQ_257"] = "QQ·ghost",
+		-- emoji:QQ_121011
+		["QQ_121011"] = "QQ·vein pop",
+		-- emoji:QQ_165
+		["QQ_165"] = "QQ·show love",
+		-- emoji:QQ_167
+		["QQ_167"] = "QQ·heartbroken",
+		-- emoji:QQ_160
+		["QQ_160"] = "QQ·coffee",
+		-- emoji:QQ_255
+		["QQ_255"] = "QQ·alpaca",
+		-- emoji:QQ_121002
+		["QQ_121002"] = "QQ·firecracker",
+		-- emoji:QQ_10333
+		["QQ_10333"] = "QQ·firework",
+		-- emoji:QQ_10415
+		["QQ_10415"] = "QQ·dragon boat rowing",
+		-- emoji:QQ_10416
+		["QQ_10416"] = "QQ·medium dragon boat",
+		-- emoji:QQ_10417
+		["QQ_10417"] = "QQ·large dragon boat",
+		-- emoji:QQ_10392
+		["QQ_10392"] = "QQ·happy dragon year",
+		-- emoji:QQ_10393
+		["QQ_10393"] = "QQ·new year medium dragon",
+		-- emoji:QQ_10394
+		["QQ_10394"] = "QQ·new year large dragon",
+		-- emoji:QQ_179
+		["QQ_179"] = "QQ·like",
+		-- emoji:QQ_189
+		["QQ_189"] = "QQ·ok",
+		-- emoji:QQ_183
+		["QQ_183"] = "QQ·fist salute",
+		-- emoji:QQ_181
+		["QQ_181"] = "QQ·handshake",
+		-- emoji:QQ_184
+		["QQ_184"] = "QQ·tempt",
+		-- emoji:QQ_182
+		["QQ_182"] = "QQ·victory",
+		-- emoji:QQ_185
+		["QQ_185"] = "QQ·fist",
+		-- emoji:QQ_186
+		["QQ_186"] = "QQ·lame",
+		-- emoji:QQ_180
+		["QQ_180"] = "QQ·step on",
+		-- emoji:QQ_188
+		["QQ_188"] = "QQ·no",
+		-- emoji:QQ_271
+		["QQ_271"] = "QQ·thumbs up",
+		-- emoji:QQ_10273
+		["QQ_10273"] = "QQ·i’m jealous",
+		-- emoji:QQ_162
+		["QQ_162"] = "QQ·pig head",
+		-- emoji:QQ_155
+		["QQ_155"] = "QQ·cleaver",
+		-- emoji:QQ_171
+		["QQ_171"] = "QQ·knife",
+		-- emoji:QQ_121034
+		["QQ_121034"] = "QQ·gun",
+		-- emoji:QQ_241
+		["QQ_241"] = "QQ·tea",
+		-- emoji:QQ_174
+		["QQ_174"] = "QQ·poop",
+		-- emoji:QQ_121009
+		["QQ_121009"] = "QQ·acclaim",
+		-- emoji:QQ_121012
+		["QQ_121012"] = "QQ·lollipop",
+		-- emoji:QQ_156
+		["QQ_156"] = "QQ·watermelon",
+		-- emoji:QQ_193
+		["QQ_193"] = "QQ·shiver",
+		-- emoji:QQ_195
+		["QQ_195"] = "QQ·spin",
+		-- emoji:QQ_190
+		["QQ_190"] = "QQ·love",
+		-- emoji:QQ_192
+		["QQ_192"] = "QQ·jump",
+		-- emoji:QQ_194
+		["QQ_194"] = "QQ·seethe",
+		-- emoji:QQ_199
+		["QQ_199"] = "QQ·wave",
+		-- emoji:QQ_191
+		["QQ_191"] = "QQ·blow kiss",
 	},
 
 	-- ====================================================================
 	-- ======================= short code(s) to key =======================
 	-- ====================================================================
 	ShortcodesToKey = {
-		-- emoji:10364
-		["QQ·super like"] = "10364",
-		-- emoji:10366
-		["QQ·mangdog"] = "10366",
-		-- emoji:10362
-		["QQ·bro"] = "10362",
-		-- emoji:10397
-		["QQ·flirting glance"] = "10397",
-		-- emoji:10396
-		["QQ·wolfdog"] = "10396",
-		-- emoji:10360
-		["QQ·kiss"] = "10360",
-		-- emoji:10361
-		["QQ·dog laugh-cry"] = "10361",
-		-- emoji:10363
-		["QQ·dog sadness"] = "10363",
-		-- emoji:10365
-		["QQ·dog angry"] = "10365",
-		-- emoji:10367
-		["QQ·dog confused"] = "10367",
-		-- emoji:10399
-		["QQ·tui (spit)"] = "10399",
-		-- emoji:10398
-		["QQ·super ok"] = "10398",
-		-- emoji:10373
-		["QQ·busy"] = "10373",
-		-- emoji:10370
-		["QQ·congratulations"] = "10370",
-		-- emoji:10375
-		["QQ·super applause"] = "10375",
-		-- emoji:10368
-		["QQ·ultraman laugh-cry"] = "10368",
-		-- emoji:10369
-		["QQ·rainbow"] = "10369",
-		-- emoji:10371
-		["QQ·bubbling"] = "10371",
-		-- emoji:10372
-		["QQ·fuming"] = "10372",
-		-- emoji:10374
-		["QQ·bobo tears"] = "10374",
-		-- emoji:10382
-		["QQ·emo"] = "10382",
-		-- emoji:10383
-		["QQ·penguin heart"] = "10383",
-		-- emoji:10401
-		["QQ·super spin"] = "10401",
-		-- emoji:10400
-		["QQ·happy"] = "10400",
-		-- emoji:10380
-		["QQ·awesome"] = "10380",
-		-- emoji:10381
-		["QQ·passing by"] = "10381",
-		-- emoji:10379
-		["QQ·penguin tears"] = "10379",
-		-- emoji:10376
-		["QQ·stomp"] = "10376",
-		-- emoji:10378
-		["QQ·penguin laugh-cry"] = "10378",
-		-- emoji:10377
-		["QQ·hi"] = "10377",
-		-- emoji:10403
-		["QQ·go out"] = "10403",
-		-- emoji:10402
-		["QQ·shush"] = "10402",
-		-- emoji:10390
-		["QQ·so bald"] = "10390",
-		-- emoji:10391
-		["QQ·so weathered"] = "10391",
-		-- emoji:10388
-		["QQ·so headache"] = "10388",
-		-- emoji:10389
-		["QQ·so amazing"] = "10389",
-		-- emoji:10386
-		["QQ·wuwuwu (crying)"] = "10386",
-		-- emoji:10385
-		["QQ·so angry"] = "10385",
-		-- emoji:10384
-		["QQ·good night"] = "10384",
-		-- emoji:10387
-		["QQ·so funny"] = "10387",
-		-- emoji:10413
-		["QQ·shake it"] = "10413",
-		-- emoji:10405
-		["QQ·good luck"] = "10405",
-		-- emoji:10404
-		["QQ·shining entrance"] = "10404",
-		-- emoji:10406
-		["QQ·queen sister"] = "10406",
-		-- emoji:10410
-		["QQ·mwah"] = "10410",
-		-- emoji:10411
-		["QQ·party together"] = "10411",
-		-- emoji:10407
-		["QQ·let me listen"] = "10407",
-		-- emoji:10408
-		["QQ·vain"] = "10408",
-		-- emoji:10412
-		["QQ·joyful"] = "10412",
-		-- emoji:10409
-		["QQ·give you flowers"] = "10409",
-		-- emoji:100
-		["QQ·smile"] = "100",
-		-- emoji:101
-		["QQ·pout"] = "101",
-		-- emoji:102
-		["QQ·flirtatious"] = "102",
-		-- emoji:103
-		["QQ·daze"] = "103",
-		-- emoji:104
-		["QQ·proud"] = "104",
-		-- emoji:106
-		["QQ·shy"] = "106",
-		-- emoji:107
-		["QQ·shut up"] = "107",
-		-- emoji:108
-		["QQ·sleep"] = "108",
-		-- emoji:109
-		["QQ·sob"] = "109",
-		-- emoji:105
-		["QQ·tears"] = "105",
-		-- emoji:110
-		["QQ·awkward"] = "110",
-		-- emoji:111
-		["QQ·furious"] = "111",
-		-- emoji:112
-		["QQ·naughty"] = "112",
-		-- emoji:113
-		["QQ·grin"] = "113",
-		-- emoji:114
-		["QQ·surprised"] = "114",
-		-- emoji:115
-		["QQ·sad"] = "115",
-		-- emoji:116
-		["QQ·cool"] = "116",
-		-- emoji:117
-		["QQ·cold sweat"] = "117",
-		-- emoji:118
-		["QQ·freak out"] = "118",
-		-- emoji:119
-		["QQ·vomit"] = "119",
-		-- emoji:120
-		["QQ·snicker"] = "120",
-		-- emoji:121
-		["QQ·cute"] = "121",
-		-- emoji:122
-		["QQ·eye roll"] = "122",
-		-- emoji:123
-		["QQ·arrogant"] = "123",
-		-- emoji:124
-		["QQ·hungry"] = "124",
-		-- emoji:125
-		["QQ·sleepy"] = "125",
-		-- emoji:126
-		["QQ·terrified"] = "126",
-		-- emoji:127
-		["QQ·sweating"] = "127",
-		-- emoji:128
-		["QQ·silly smile"] = "128",
-		-- emoji:129
-		["QQ·chill"] = "129",
-		-- emoji:130
-		["QQ·strive"] = "130",
-		-- emoji:131
-		["QQ·curse"] = "131",
-		-- emoji:132
-		["QQ·question"] = "132",
-		-- emoji:133
-		["QQ·shh"] = "133",
-		-- emoji:134
-		["QQ·dizzy"] = "134",
-		-- emoji:135
-		["QQ·torture"] = "135",
-		-- emoji:136
-		["QQ·unlucky"] = "136",
-		-- emoji:137
-		["QQ·skull"] = "137",
-		-- emoji:138
-		["QQ·knock"] = "138",
-		-- emoji:139
-		["QQ·goodbye"] = "139",
-		-- emoji:140
-		["QQ·wipe sweat"] = "140",
-		-- emoji:141
-		["QQ·pick nose"] = "141",
-		-- emoji:142
-		["QQ·clap"] = "142",
-		-- emoji:143
-		["QQ·epic fail"] = "143",
-		-- emoji:144
-		["QQ·mischievous smile"] = "144",
-		-- emoji:145
-		["QQ·left hmph"] = "145",
-		-- emoji:146
-		["QQ·right hmph"] = "146",
-		-- emoji:147
-		["QQ·yawn"] = "147",
-		-- emoji:148
-		["QQ·disdain"] = "148",
-		-- emoji:149
-		["QQ·grievance"] = "149",
-		-- emoji:150
-		["QQ·almost crying"] = "150",
-		-- emoji:151
-		["QQ·sinister"] = "151",
-		-- emoji:10305
-		["QQ·right kiss"] = "10305",
-		-- emoji:152
-		["QQ·left kiss"] = "152",
-		-- emoji:153
-		["QQ·scare"] = "153",
-		-- emoji:154
-		["QQ·pitiful"] = "154",
-		-- emoji:242
-		["QQ·blink"] = "242",
-		-- emoji:252
-		["QQ·laugh-cry"] = "252",
-		-- emoji:249
-		["QQ·doge"] = "249",
-		-- emoji:243
-		["QQ·tears running"] = "243",
-		-- emoji:244
-		["QQ·helpless"] = "244",
-		-- emoji:282
-		["QQ·cheek rest"] = "282",
-		-- emoji:245
-		["QQ·act cute"] = "245",
-		-- emoji:248
-		["QQ·side-eye smile"] = "248",
-		-- emoji:247
-		["QQ·blood spray"] = "247",
-		-- emoji:246
-		["QQ·little dilemma"] = "246",
-		-- emoji:253
-		["QQ·i’m the prettiest"] = "253",
-		-- emoji:10262
-		["QQ·brain pain"] = "10262",
-		-- emoji:10263
-		["QQ·weathered"] = "10263",
-		-- emoji:10264
-		["QQ·facepalm"] = "10264",
-		-- emoji:10265
-		["QQ·eye burn"] = "10265",
-		-- emoji:10266
-		["QQ·oh yo"] = "10266",
-		-- emoji:10267
-		["QQ·bald head"] = "10267",
-		-- emoji:10268
-		["QQ·question mark face"] = "10268",
-		-- emoji:10269
-		["QQ·secretly observing"] = "10269",
-		-- emoji:10270
-		["QQ·hmm"] = "10270",
-		-- emoji:10271
-		["QQ·melon munching (gossip)"] = "10271",
-		-- emoji:10272
-		["QQ·heheda (mocking laugh)"] = "10272",
-		-- emoji:10277
-		["QQ·woof"] = "10277",
-		-- emoji:10307
-		["QQ·meow"] = "10307",
-		-- emoji:10306
-		["QQ·bullish energy"] = "10306",
-		-- emoji:10281
-		["QQ·eyeless smile"] = "10281",
-		-- emoji:10282
-		["QQ·salute"] = "10282",
-		-- emoji:10283
-		["QQ·maniacal laugh"] = "10283",
-		-- emoji:10284
-		["QQ·expressionless"] = "10284",
-		-- emoji:10285
-		["QQ·slack off"] = "10285",
-		-- emoji:10293
-		["QQ·touch koi"] = "10293",
-		-- emoji:10286
-		["QQ·devil laugh"] = "10286",
-		-- emoji:10287
-		["QQ·oh"] = "10287",
-		-- emoji:10289
-		["QQ·open eyes"] = "10289",
-		-- emoji:10294
-		["QQ·anticipation"] = "10294",
-		-- emoji:10297
-		["QQ·bow thanks"] = "10297",
-		-- emoji:10298
-		["QQ·gold ingot"] = "10298",
-		-- emoji:10299
-		["QQ·so awesome"] = "10299",
-		-- emoji:10300
-		["QQ·gained three pounds"] = "10300",
-		-- emoji:10323
-		["QQ·disgust"] = "10323",
-		-- emoji:10332
-		["QQ·hold sign"] = "10332",
-		-- emoji:10336
-		["QQ·leopard rich"] = "10336",
-		-- emoji:10353
-		["QQ·please"] = "10353",
-		-- emoji:10355
-		["QQ·yeah"] = "10355",
-		-- emoji:10356
-		["QQ·666 (awesome)"] = "10356",
-		-- emoji:10354
-		["QQ·really or fake?"] = "10354",
-		-- emoji:10352
-		["QQ·huh?"] = "10352",
-		-- emoji:10357
-		["QQ·cracked"] = "10357",
-		-- emoji:10334
-		["QQ·tiger’s might"] = "10334",
-		-- emoji:10347
-		["QQ·grand rabbit (ambition)"] = "10347",
-		-- emoji:10303
-		["QQ·right new year greeting"] = "10303",
-		-- emoji:10302
-		["QQ·left new year greeting"] = "10302",
-		-- emoji:10295
-		["QQ·get red packet"] = "10295",
-		-- emoji:10311
-		["QQ·cheer on"] = "10311",
-		-- emoji:10312
-		["QQ·transform"] = "10312",
-		-- emoji:10314
-		["QQ·analyze carefully"] = "10314",
-		-- emoji:10317
-		["QQ·noob dog"] = "10317",
-		-- emoji:10318
-		["QQ·worship"] = "10318",
-		-- emoji:10319
-		["QQ·finger heart"] = "10319",
-		-- emoji:10320
-		["QQ·celebrate"] = "10320",
-		-- emoji:10324
-		["QQ·eat candy"] = "10324",
-		-- emoji:10325
-		["QQ·fright"] = "10325",
-		-- emoji:10337
-		["QQ·flower face"] = "10337",
-		-- emoji:10338
-		["QQ·i’ve let go"] = "10338",
-		-- emoji:10339
-		["QQ·screen lick"] = "10339",
-		-- emoji:10341
-		["QQ·greeting"] = "10341",
-		-- emoji:10342
-		["QQ·thank you (sarcastic)"] = "10342",
-		-- emoji:10343
-		["QQ·we’re stunned"] = "10343",
-		-- emoji:10344
-		["QQ·big complainer"] = "10344",
-		-- emoji:10345
-		["QQ·lots of red packets"] = "10345",
-		-- emoji:10346
-		["QQ·you’re so great"] = "10346",
-		-- emoji:251
-		["QQ·poke"] = "251",
-		-- emoji:176
-		["QQ·sun"] = "176",
-		-- emoji:175
-		["QQ·moon"] = "175",
-		-- emoji:10351
-		["QQ·knock knock"] = "10351",
-		-- emoji:10349
-		["QQ·strong"] = "10349",
-		-- emoji:10350
-		["QQ·stick together"] = "10350",
-		-- emoji:10395
-		["QQ·nah nah"] = "10395",
-		-- emoji:158
-		["QQ·basketball"] = "158",
-		-- emoji:10358
-		["QQ·dice"] = "10358",
-		-- emoji:10359
-		["QQ·rock-paper-scissors"] = "10359",
-		-- emoji:10326
-		["QQ·angry"] = "10326",
-		-- emoji:168
-		["QQ·cake"] = "168",
-		-- emoji:178
-		["QQ·hug"] = "178",
-		-- emoji:166
-		["QQ·heart"] = "166",
-		-- emoji:163
-		["QQ·rose"] = "163",
-		-- emoji:164
-		["QQ·wither"] = "164",
-		-- emoji:257
-		["QQ·ghost"] = "257",
-		-- emoji:121011
-		["QQ·vein pop"] = "121011",
-		-- emoji:165
-		["QQ·show love"] = "165",
-		-- emoji:167
-		["QQ·heartbroken"] = "167",
-		-- emoji:160
-		["QQ·coffee"] = "160",
-		-- emoji:255
-		["QQ·alpaca"] = "255",
-		-- emoji:121002
-		["QQ·firecracker"] = "121002",
-		-- emoji:10333
-		["QQ·firework"] = "10333",
-		-- emoji:10415
-		["QQ·dragon boat rowing"] = "10415",
-		-- emoji:10416
-		["QQ·medium dragon boat"] = "10416",
-		-- emoji:10417
-		["QQ·large dragon boat"] = "10417",
-		-- emoji:10392
-		["QQ·happy dragon year"] = "10392",
-		-- emoji:10393
-		["QQ·new year medium dragon"] = "10393",
-		-- emoji:10394
-		["QQ·new year large dragon"] = "10394",
-		-- emoji:179
-		["QQ·like"] = "179",
-		-- emoji:189
-		["QQ·ok"] = "189",
-		-- emoji:183
-		["QQ·fist salute"] = "183",
-		-- emoji:181
-		["QQ·handshake"] = "181",
-		-- emoji:184
-		["QQ·tempt"] = "184",
-		-- emoji:182
-		["QQ·victory"] = "182",
-		-- emoji:185
-		["QQ·fist"] = "185",
-		-- emoji:186
-		["QQ·lame"] = "186",
-		-- emoji:180
-		["QQ·step on"] = "180",
-		-- emoji:188
-		["QQ·no"] = "188",
-		-- emoji:271
-		["QQ·thumbs up"] = "271",
-		-- emoji:10273
-		["QQ·i’m jealous"] = "10273",
-		-- emoji:162
-		["QQ·pig head"] = "162",
-		-- emoji:155
-		["QQ·cleaver"] = "155",
-		-- emoji:171
-		["QQ·knife"] = "171",
-		-- emoji:121034
-		["QQ·gun"] = "121034",
-		-- emoji:241
-		["QQ·tea"] = "241",
-		-- emoji:174
-		["QQ·poop"] = "174",
-		-- emoji:121009
-		["QQ·acclaim"] = "121009",
-		-- emoji:121012
-		["QQ·lollipop"] = "121012",
-		-- emoji:156
-		["QQ·watermelon"] = "156",
-		-- emoji:193
-		["QQ·shiver"] = "193",
-		-- emoji:195
-		["QQ·spin"] = "195",
-		-- emoji:190
-		["QQ·love"] = "190",
-		-- emoji:192
-		["QQ·jump"] = "192",
-		-- emoji:194
-		["QQ·seethe"] = "194",
-		-- emoji:199
-		["QQ·wave"] = "199",
-		-- emoji:191
-		["QQ·blow kiss"] = "191",
+		-- emoji:QQ_10364
+		["QQ·super like"] = "QQ_10364",
+		-- emoji:QQ_10366
+		["QQ·mangdog"] = "QQ_10366",
+		-- emoji:QQ_10362
+		["QQ·bro"] = "QQ_10362",
+		-- emoji:QQ_10397
+		["QQ·flirting glance"] = "QQ_10397",
+		-- emoji:QQ_10396
+		["QQ·wolfdog"] = "QQ_10396",
+		-- emoji:QQ_10360
+		["QQ·kiss"] = "QQ_10360",
+		-- emoji:QQ_10361
+		["QQ·dog laugh-cry"] = "QQ_10361",
+		-- emoji:QQ_10363
+		["QQ·dog sadness"] = "QQ_10363",
+		-- emoji:QQ_10365
+		["QQ·dog angry"] = "QQ_10365",
+		-- emoji:QQ_10367
+		["QQ·dog confused"] = "QQ_10367",
+		-- emoji:QQ_10399
+		["QQ·tui (spit)"] = "QQ_10399",
+		-- emoji:QQ_10398
+		["QQ·super ok"] = "QQ_10398",
+		-- emoji:QQ_10373
+		["QQ·busy"] = "QQ_10373",
+		-- emoji:QQ_10370
+		["QQ·congratulations"] = "QQ_10370",
+		-- emoji:QQ_10375
+		["QQ·super applause"] = "QQ_10375",
+		-- emoji:QQ_10368
+		["QQ·ultraman laugh-cry"] = "QQ_10368",
+		-- emoji:QQ_10369
+		["QQ·rainbow"] = "QQ_10369",
+		-- emoji:QQ_10371
+		["QQ·bubbling"] = "QQ_10371",
+		-- emoji:QQ_10372
+		["QQ·fuming"] = "QQ_10372",
+		-- emoji:QQ_10374
+		["QQ·bobo tears"] = "QQ_10374",
+		-- emoji:QQ_10382
+		["QQ·emo"] = "QQ_10382",
+		-- emoji:QQ_10383
+		["QQ·penguin heart"] = "QQ_10383",
+		-- emoji:QQ_10401
+		["QQ·super spin"] = "QQ_10401",
+		-- emoji:QQ_10400
+		["QQ·happy"] = "QQ_10400",
+		-- emoji:QQ_10380
+		["QQ·awesome"] = "QQ_10380",
+		-- emoji:QQ_10381
+		["QQ·passing by"] = "QQ_10381",
+		-- emoji:QQ_10379
+		["QQ·penguin tears"] = "QQ_10379",
+		-- emoji:QQ_10376
+		["QQ·stomp"] = "QQ_10376",
+		-- emoji:QQ_10378
+		["QQ·penguin laugh-cry"] = "QQ_10378",
+		-- emoji:QQ_10377
+		["QQ·hi"] = "QQ_10377",
+		-- emoji:QQ_10403
+		["QQ·go out"] = "QQ_10403",
+		-- emoji:QQ_10402
+		["QQ·shush"] = "QQ_10402",
+		-- emoji:QQ_10390
+		["QQ·so bald"] = "QQ_10390",
+		-- emoji:QQ_10391
+		["QQ·so weathered"] = "QQ_10391",
+		-- emoji:QQ_10388
+		["QQ·so headache"] = "QQ_10388",
+		-- emoji:QQ_10389
+		["QQ·so amazing"] = "QQ_10389",
+		-- emoji:QQ_10386
+		["QQ·wuwuwu (crying)"] = "QQ_10386",
+		-- emoji:QQ_10385
+		["QQ·so angry"] = "QQ_10385",
+		-- emoji:QQ_10384
+		["QQ·good night"] = "QQ_10384",
+		-- emoji:QQ_10387
+		["QQ·so funny"] = "QQ_10387",
+		-- emoji:QQ_10413
+		["QQ·shake it"] = "QQ_10413",
+		-- emoji:QQ_10405
+		["QQ·good luck"] = "QQ_10405",
+		-- emoji:QQ_10404
+		["QQ·shining entrance"] = "QQ_10404",
+		-- emoji:QQ_10406
+		["QQ·queen sister"] = "QQ_10406",
+		-- emoji:QQ_10410
+		["QQ·mwah"] = "QQ_10410",
+		-- emoji:QQ_10411
+		["QQ·party together"] = "QQ_10411",
+		-- emoji:QQ_10407
+		["QQ·let me listen"] = "QQ_10407",
+		-- emoji:QQ_10408
+		["QQ·vain"] = "QQ_10408",
+		-- emoji:QQ_10412
+		["QQ·joyful"] = "QQ_10412",
+		-- emoji:QQ_10409
+		["QQ·give you flowers"] = "QQ_10409",
+		-- emoji:QQ_100
+		["QQ·smile"] = "QQ_100",
+		-- emoji:QQ_101
+		["QQ·pout"] = "QQ_101",
+		-- emoji:QQ_102
+		["QQ·flirtatious"] = "QQ_102",
+		-- emoji:QQ_103
+		["QQ·daze"] = "QQ_103",
+		-- emoji:QQ_104
+		["QQ·proud"] = "QQ_104",
+		-- emoji:QQ_106
+		["QQ·shy"] = "QQ_106",
+		-- emoji:QQ_107
+		["QQ·shut up"] = "QQ_107",
+		-- emoji:QQ_108
+		["QQ·sleep"] = "QQ_108",
+		-- emoji:QQ_109
+		["QQ·sob"] = "QQ_109",
+		-- emoji:QQ_105
+		["QQ·tears"] = "QQ_105",
+		-- emoji:QQ_110
+		["QQ·awkward"] = "QQ_110",
+		-- emoji:QQ_111
+		["QQ·furious"] = "QQ_111",
+		-- emoji:QQ_112
+		["QQ·naughty"] = "QQ_112",
+		-- emoji:QQ_113
+		["QQ·grin"] = "QQ_113",
+		-- emoji:QQ_114
+		["QQ·surprised"] = "QQ_114",
+		-- emoji:QQ_115
+		["QQ·sad"] = "QQ_115",
+		-- emoji:QQ_116
+		["QQ·cool"] = "QQ_116",
+		-- emoji:QQ_117
+		["QQ·cold sweat"] = "QQ_117",
+		-- emoji:QQ_118
+		["QQ·freak out"] = "QQ_118",
+		-- emoji:QQ_119
+		["QQ·vomit"] = "QQ_119",
+		-- emoji:QQ_120
+		["QQ·snicker"] = "QQ_120",
+		-- emoji:QQ_121
+		["QQ·cute"] = "QQ_121",
+		-- emoji:QQ_122
+		["QQ·eye roll"] = "QQ_122",
+		-- emoji:QQ_123
+		["QQ·arrogant"] = "QQ_123",
+		-- emoji:QQ_124
+		["QQ·hungry"] = "QQ_124",
+		-- emoji:QQ_125
+		["QQ·sleepy"] = "QQ_125",
+		-- emoji:QQ_126
+		["QQ·terrified"] = "QQ_126",
+		-- emoji:QQ_127
+		["QQ·sweating"] = "QQ_127",
+		-- emoji:QQ_128
+		["QQ·silly smile"] = "QQ_128",
+		-- emoji:QQ_129
+		["QQ·chill"] = "QQ_129",
+		-- emoji:QQ_130
+		["QQ·strive"] = "QQ_130",
+		-- emoji:QQ_131
+		["QQ·curse"] = "QQ_131",
+		-- emoji:QQ_132
+		["QQ·question"] = "QQ_132",
+		-- emoji:QQ_133
+		["QQ·shh"] = "QQ_133",
+		-- emoji:QQ_134
+		["QQ·dizzy"] = "QQ_134",
+		-- emoji:QQ_135
+		["QQ·torture"] = "QQ_135",
+		-- emoji:QQ_136
+		["QQ·unlucky"] = "QQ_136",
+		-- emoji:QQ_137
+		["QQ·skull"] = "QQ_137",
+		-- emoji:QQ_138
+		["QQ·knock"] = "QQ_138",
+		-- emoji:QQ_139
+		["QQ·goodbye"] = "QQ_139",
+		-- emoji:QQ_140
+		["QQ·wipe sweat"] = "QQ_140",
+		-- emoji:QQ_141
+		["QQ·pick nose"] = "QQ_141",
+		-- emoji:QQ_142
+		["QQ·clap"] = "QQ_142",
+		-- emoji:QQ_143
+		["QQ·epic fail"] = "QQ_143",
+		-- emoji:QQ_144
+		["QQ·mischievous smile"] = "QQ_144",
+		-- emoji:QQ_145
+		["QQ·left hmph"] = "QQ_145",
+		-- emoji:QQ_146
+		["QQ·right hmph"] = "QQ_146",
+		-- emoji:QQ_147
+		["QQ·yawn"] = "QQ_147",
+		-- emoji:QQ_148
+		["QQ·disdain"] = "QQ_148",
+		-- emoji:QQ_149
+		["QQ·grievance"] = "QQ_149",
+		-- emoji:QQ_150
+		["QQ·almost crying"] = "QQ_150",
+		-- emoji:QQ_151
+		["QQ·sinister"] = "QQ_151",
+		-- emoji:QQ_10305
+		["QQ·right kiss"] = "QQ_10305",
+		-- emoji:QQ_152
+		["QQ·left kiss"] = "QQ_152",
+		-- emoji:QQ_153
+		["QQ·scare"] = "QQ_153",
+		-- emoji:QQ_154
+		["QQ·pitiful"] = "QQ_154",
+		-- emoji:QQ_242
+		["QQ·blink"] = "QQ_242",
+		-- emoji:QQ_252
+		["QQ·laugh-cry"] = "QQ_252",
+		-- emoji:QQ_249
+		["QQ·doge"] = "QQ_249",
+		-- emoji:QQ_243
+		["QQ·tears running"] = "QQ_243",
+		-- emoji:QQ_244
+		["QQ·helpless"] = "QQ_244",
+		-- emoji:QQ_282
+		["QQ·cheek rest"] = "QQ_282",
+		-- emoji:QQ_245
+		["QQ·act cute"] = "QQ_245",
+		-- emoji:QQ_248
+		["QQ·side-eye smile"] = "QQ_248",
+		-- emoji:QQ_247
+		["QQ·blood spray"] = "QQ_247",
+		-- emoji:QQ_246
+		["QQ·little dilemma"] = "QQ_246",
+		-- emoji:QQ_253
+		["QQ·i’m the prettiest"] = "QQ_253",
+		-- emoji:QQ_10262
+		["QQ·brain pain"] = "QQ_10262",
+		-- emoji:QQ_10263
+		["QQ·weathered"] = "QQ_10263",
+		-- emoji:QQ_10264
+		["QQ·facepalm"] = "QQ_10264",
+		-- emoji:QQ_10265
+		["QQ·eye burn"] = "QQ_10265",
+		-- emoji:QQ_10266
+		["QQ·oh yo"] = "QQ_10266",
+		-- emoji:QQ_10267
+		["QQ·bald head"] = "QQ_10267",
+		-- emoji:QQ_10268
+		["QQ·question mark face"] = "QQ_10268",
+		-- emoji:QQ_10269
+		["QQ·secretly observing"] = "QQ_10269",
+		-- emoji:QQ_10270
+		["QQ·hmm"] = "QQ_10270",
+		-- emoji:QQ_10271
+		["QQ·melon munching (gossip)"] = "QQ_10271",
+		-- emoji:QQ_10272
+		["QQ·heheda (mocking laugh)"] = "QQ_10272",
+		-- emoji:QQ_10277
+		["QQ·woof"] = "QQ_10277",
+		-- emoji:QQ_10307
+		["QQ·meow"] = "QQ_10307",
+		-- emoji:QQ_10306
+		["QQ·bullish energy"] = "QQ_10306",
+		-- emoji:QQ_10281
+		["QQ·eyeless smile"] = "QQ_10281",
+		-- emoji:QQ_10282
+		["QQ·salute"] = "QQ_10282",
+		-- emoji:QQ_10283
+		["QQ·maniacal laugh"] = "QQ_10283",
+		-- emoji:QQ_10284
+		["QQ·expressionless"] = "QQ_10284",
+		-- emoji:QQ_10285
+		["QQ·slack off"] = "QQ_10285",
+		-- emoji:QQ_10293
+		["QQ·touch koi"] = "QQ_10293",
+		-- emoji:QQ_10286
+		["QQ·devil laugh"] = "QQ_10286",
+		-- emoji:QQ_10287
+		["QQ·oh"] = "QQ_10287",
+		-- emoji:QQ_10289
+		["QQ·open eyes"] = "QQ_10289",
+		-- emoji:QQ_10294
+		["QQ·anticipation"] = "QQ_10294",
+		-- emoji:QQ_10297
+		["QQ·bow thanks"] = "QQ_10297",
+		-- emoji:QQ_10298
+		["QQ·gold ingot"] = "QQ_10298",
+		-- emoji:QQ_10299
+		["QQ·so awesome"] = "QQ_10299",
+		-- emoji:QQ_10300
+		["QQ·gained three pounds"] = "QQ_10300",
+		-- emoji:QQ_10323
+		["QQ·disgust"] = "QQ_10323",
+		-- emoji:QQ_10332
+		["QQ·hold sign"] = "QQ_10332",
+		-- emoji:QQ_10336
+		["QQ·leopard rich"] = "QQ_10336",
+		-- emoji:QQ_10353
+		["QQ·please"] = "QQ_10353",
+		-- emoji:QQ_10355
+		["QQ·yeah"] = "QQ_10355",
+		-- emoji:QQ_10356
+		["QQ·666 (awesome)"] = "QQ_10356",
+		-- emoji:QQ_10354
+		["QQ·really or fake?"] = "QQ_10354",
+		-- emoji:QQ_10352
+		["QQ·huh?"] = "QQ_10352",
+		-- emoji:QQ_10357
+		["QQ·cracked"] = "QQ_10357",
+		-- emoji:QQ_10334
+		["QQ·tiger’s might"] = "QQ_10334",
+		-- emoji:QQ_10347
+		["QQ·grand rabbit (ambition)"] = "QQ_10347",
+		-- emoji:QQ_10303
+		["QQ·right new year greeting"] = "QQ_10303",
+		-- emoji:QQ_10302
+		["QQ·left new year greeting"] = "QQ_10302",
+		-- emoji:QQ_10295
+		["QQ·get red packet"] = "QQ_10295",
+		-- emoji:QQ_10311
+		["QQ·cheer on"] = "QQ_10311",
+		-- emoji:QQ_10312
+		["QQ·transform"] = "QQ_10312",
+		-- emoji:QQ_10314
+		["QQ·analyze carefully"] = "QQ_10314",
+		-- emoji:QQ_10317
+		["QQ·noob dog"] = "QQ_10317",
+		-- emoji:QQ_10318
+		["QQ·worship"] = "QQ_10318",
+		-- emoji:QQ_10319
+		["QQ·finger heart"] = "QQ_10319",
+		-- emoji:QQ_10320
+		["QQ·celebrate"] = "QQ_10320",
+		-- emoji:QQ_10324
+		["QQ·eat candy"] = "QQ_10324",
+		-- emoji:QQ_10325
+		["QQ·fright"] = "QQ_10325",
+		-- emoji:QQ_10337
+		["QQ·flower face"] = "QQ_10337",
+		-- emoji:QQ_10338
+		["QQ·i’ve let go"] = "QQ_10338",
+		-- emoji:QQ_10339
+		["QQ·screen lick"] = "QQ_10339",
+		-- emoji:QQ_10341
+		["QQ·greeting"] = "QQ_10341",
+		-- emoji:QQ_10342
+		["QQ·thank you (sarcastic)"] = "QQ_10342",
+		-- emoji:QQ_10343
+		["QQ·we’re stunned"] = "QQ_10343",
+		-- emoji:QQ_10344
+		["QQ·big complainer"] = "QQ_10344",
+		-- emoji:QQ_10345
+		["QQ·lots of red packets"] = "QQ_10345",
+		-- emoji:QQ_10346
+		["QQ·you’re so great"] = "QQ_10346",
+		-- emoji:QQ_251
+		["QQ·poke"] = "QQ_251",
+		-- emoji:QQ_176
+		["QQ·sun"] = "QQ_176",
+		-- emoji:QQ_175
+		["QQ·moon"] = "QQ_175",
+		-- emoji:QQ_10351
+		["QQ·knock knock"] = "QQ_10351",
+		-- emoji:QQ_10349
+		["QQ·strong"] = "QQ_10349",
+		-- emoji:QQ_10350
+		["QQ·stick together"] = "QQ_10350",
+		-- emoji:QQ_10395
+		["QQ·nah nah"] = "QQ_10395",
+		-- emoji:QQ_158
+		["QQ·basketball"] = "QQ_158",
+		-- emoji:QQ_10358
+		["QQ·dice"] = "QQ_10358",
+		-- emoji:QQ_10359
+		["QQ·rock-paper-scissors"] = "QQ_10359",
+		-- emoji:QQ_10326
+		["QQ·angry"] = "QQ_10326",
+		-- emoji:QQ_168
+		["QQ·cake"] = "QQ_168",
+		-- emoji:QQ_178
+		["QQ·hug"] = "QQ_178",
+		-- emoji:QQ_166
+		["QQ·heart"] = "QQ_166",
+		-- emoji:QQ_163
+		["QQ·rose"] = "QQ_163",
+		-- emoji:QQ_164
+		["QQ·wither"] = "QQ_164",
+		-- emoji:QQ_257
+		["QQ·ghost"] = "QQ_257",
+		-- emoji:QQ_121011
+		["QQ·vein pop"] = "QQ_121011",
+		-- emoji:QQ_165
+		["QQ·show love"] = "QQ_165",
+		-- emoji:QQ_167
+		["QQ·heartbroken"] = "QQ_167",
+		-- emoji:QQ_160
+		["QQ·coffee"] = "QQ_160",
+		-- emoji:QQ_255
+		["QQ·alpaca"] = "QQ_255",
+		-- emoji:QQ_121002
+		["QQ·firecracker"] = "QQ_121002",
+		-- emoji:QQ_10333
+		["QQ·firework"] = "QQ_10333",
+		-- emoji:QQ_10415
+		["QQ·dragon boat rowing"] = "QQ_10415",
+		-- emoji:QQ_10416
+		["QQ·medium dragon boat"] = "QQ_10416",
+		-- emoji:QQ_10417
+		["QQ·large dragon boat"] = "QQ_10417",
+		-- emoji:QQ_10392
+		["QQ·happy dragon year"] = "QQ_10392",
+		-- emoji:QQ_10393
+		["QQ·new year medium dragon"] = "QQ_10393",
+		-- emoji:QQ_10394
+		["QQ·new year large dragon"] = "QQ_10394",
+		-- emoji:QQ_179
+		["QQ·like"] = "QQ_179",
+		-- emoji:QQ_189
+		["QQ·ok"] = "QQ_189",
+		-- emoji:QQ_183
+		["QQ·fist salute"] = "QQ_183",
+		-- emoji:QQ_181
+		["QQ·handshake"] = "QQ_181",
+		-- emoji:QQ_184
+		["QQ·tempt"] = "QQ_184",
+		-- emoji:QQ_182
+		["QQ·victory"] = "QQ_182",
+		-- emoji:QQ_185
+		["QQ·fist"] = "QQ_185",
+		-- emoji:QQ_186
+		["QQ·lame"] = "QQ_186",
+		-- emoji:QQ_180
+		["QQ·step on"] = "QQ_180",
+		-- emoji:QQ_188
+		["QQ·no"] = "QQ_188",
+		-- emoji:QQ_271
+		["QQ·thumbs up"] = "QQ_271",
+		-- emoji:QQ_10273
+		["QQ·i’m jealous"] = "QQ_10273",
+		-- emoji:QQ_162
+		["QQ·pig head"] = "QQ_162",
+		-- emoji:QQ_155
+		["QQ·cleaver"] = "QQ_155",
+		-- emoji:QQ_171
+		["QQ·knife"] = "QQ_171",
+		-- emoji:QQ_121034
+		["QQ·gun"] = "QQ_121034",
+		-- emoji:QQ_241
+		["QQ·tea"] = "QQ_241",
+		-- emoji:QQ_174
+		["QQ·poop"] = "QQ_174",
+		-- emoji:QQ_121009
+		["QQ·acclaim"] = "QQ_121009",
+		-- emoji:QQ_121012
+		["QQ·lollipop"] = "QQ_121012",
+		-- emoji:QQ_156
+		["QQ·watermelon"] = "QQ_156",
+		-- emoji:QQ_193
+		["QQ·shiver"] = "QQ_193",
+		-- emoji:QQ_195
+		["QQ·spin"] = "QQ_195",
+		-- emoji:QQ_190
+		["QQ·love"] = "QQ_190",
+		-- emoji:QQ_192
+		["QQ·jump"] = "QQ_192",
+		-- emoji:QQ_194
+		["QQ·seethe"] = "QQ_194",
+		-- emoji:QQ_199
+		["QQ·wave"] = "QQ_199",
+		-- emoji:QQ_191
+		["QQ·blow kiss"] = "QQ_191",
 	},
 
 	-- ====================================================================
@@ -1922,37 +2001,57 @@ local pack = {
 		ShortcodeCount = 235,
 	},
 
-	["10364"] = {
+	["QQ_10364"] = {
 		Name = "super like",
 		Shortcodes = {
 			"QQ·super like",
 		},
+		Keywords = {
+			"superintendent",
+			"super",
+			"ace",
+			"A-one",
+			"crack",
+			"first-rate",
+			"tiptop",
+			"topnotch",
+		},
 	},
-	["10366"] = {
+	["QQ_10366"] = {
 		Name = "mangdog",
 		Shortcodes = {
 			"QQ·mangdog",
 		},
 	},
-	["10362"] = {
+	["QQ_10362"] = {
 		Name = "bro",
 		Shortcodes = {
 			"QQ·bro",
 		},
 	},
-	["10397"] = {
+	["QQ_10397"] = {
 		Name = "flirting glance",
 		Shortcodes = {
 			"QQ·flirting glance",
 		},
+		Keywords = {
+			"flirt",
+			"flirting",
+			"flirtation",
+			"coquetry",
+			"dalliance",
+			"toying",
+			"glance",
+			"glimpse",
+		},
 	},
-	["10396"] = {
+	["QQ_10396"] = {
 		Name = "wolfdog",
 		Shortcodes = {
 			"QQ·wolfdog",
 		},
 	},
-	["10360"] = {
+	["QQ_10360"] = {
 		Name = "kiss",
 		Shortcodes = {
 			"QQ·kiss",
@@ -1963,48 +2062,106 @@ local pack = {
 			"osculation",
 			"candy kiss",
 			"snog",
-			"kiss",
-			"buss",
 			"osculate",
 		},
 	},
-	["10361"] = {
+	["QQ_10361"] = {
 		Name = "dog laugh-cry",
 		Shortcodes = {
 			"QQ·dog laugh-cry",
 		},
+		Keywords = {
+			"dog",
+			"domestic dog",
+			"Canis familiaris",
+			"frump",
+			"cad",
+			"bounder",
+			"blackguard",
+			"hound",
+		},
 	},
-	["10363"] = {
+	["QQ_10363"] = {
 		Name = "dog sadness",
 		Shortcodes = {
 			"QQ·dog sadness",
 		},
+		Keywords = {
+			"dog",
+			"domestic dog",
+			"Canis familiaris",
+			"frump",
+			"cad",
+			"bounder",
+			"blackguard",
+			"hound",
+		},
 	},
-	["10365"] = {
+	["QQ_10365"] = {
 		Name = "dog angry",
 		Shortcodes = {
 			"QQ·dog angry",
 		},
+		Keywords = {
+			"dog",
+			"domestic dog",
+			"Canis familiaris",
+			"frump",
+			"cad",
+			"bounder",
+			"blackguard",
+			"hound",
+		},
 	},
-	["10367"] = {
+	["QQ_10367"] = {
 		Name = "dog confused",
 		Shortcodes = {
 			"QQ·dog confused",
 		},
+		Keywords = {
+			"dog",
+			"domestic dog",
+			"Canis familiaris",
+			"frump",
+			"cad",
+			"bounder",
+			"blackguard",
+			"hound",
+		},
 	},
-	["10399"] = {
+	["QQ_10399"] = {
 		Name = "tui (spit)",
 		Shortcodes = {
 			"QQ·tui (spit)",
 		},
+		Keywords = {
+			"spit",
+			"tongue",
+			"saliva",
+			"spittle",
+			"spitting",
+			"expectoration",
+			"ptyalize",
+			"ptyalise",
+		},
 	},
-	["10398"] = {
+	["QQ_10398"] = {
 		Name = "super OK",
 		Shortcodes = {
 			"QQ·super ok",
 		},
+		Keywords = {
+			"superintendent",
+			"super",
+			"ace",
+			"A-one",
+			"crack",
+			"first-rate",
+			"tiptop",
+			"topnotch",
+		},
 	},
-	["10373"] = {
+	["QQ_10373"] = {
 		Name = "busy",
 		Shortcodes = {
 			"QQ·busy",
@@ -2012,17 +2169,15 @@ local pack = {
 		Keywords = {
 			"busy",
 			"occupy",
-			"busy",
 			"fussy",
 			"interfering",
 			"meddlesome",
 			"meddling",
 			"officious",
 			"busybodied",
-			"engaged",
 		},
 	},
-	["10370"] = {
+	["QQ_10370"] = {
 		Name = "congratulations",
 		Shortcodes = {
 			"QQ·congratulations",
@@ -2034,19 +2189,39 @@ local pack = {
 			"extolment",
 		},
 	},
-	["10375"] = {
+	["QQ_10375"] = {
 		Name = "super applause",
 		Shortcodes = {
 			"QQ·super applause",
 		},
+		Keywords = {
+			"superintendent",
+			"super",
+			"ace",
+			"A-one",
+			"crack",
+			"first-rate",
+			"tiptop",
+			"topnotch",
+		},
 	},
-	["10368"] = {
+	["QQ_10368"] = {
 		Name = "ultraman laugh-cry",
 		Shortcodes = {
 			"QQ·ultraman laugh-cry",
 		},
+		Keywords = {
+			"laugh",
+			"laughter",
+			"joke",
+			"gag",
+			"jest",
+			"jape",
+			"express joy",
+			"express mirth",
+		},
 	},
-	["10369"] = {
+	["QQ_10369"] = {
 		Name = "rainbow",
 		Shortcodes = {
 			"QQ·rainbow",
@@ -2055,7 +2230,7 @@ local pack = {
 			"rainbow",
 		},
 	},
-	["10371"] = {
+	["QQ_10371"] = {
 		Name = "bubbling",
 		Shortcodes = {
 			"QQ·bubbling",
@@ -2071,37 +2246,62 @@ local pack = {
 			"effervescent",
 		},
 	},
-	["10372"] = {
+	["QQ_10372"] = {
 		Name = "fuming",
 		Shortcodes = {
 			"QQ·fuming",
 		},
 	},
-	["10374"] = {
+	["QQ_10374"] = {
 		Name = "bobo tears",
 		Shortcodes = {
 			"QQ·bobo tears",
 		},
+		Keywords = {
+			"crying",
+			"weeping",
+			"tears",
+		},
 	},
-	["10382"] = {
+	["QQ_10382"] = {
 		Name = "emo",
 		Shortcodes = {
 			"QQ·emo",
 		},
 	},
-	["10383"] = {
+	["QQ_10383"] = {
 		Name = "penguin heart",
 		Shortcodes = {
 			"QQ·penguin heart",
 		},
+		Keywords = {
+			"penguin",
+			"heart",
+			"bosom",
+			"pump",
+			"ticker",
+			"mettle",
+			"nerve",
+			"spunk",
+		},
 	},
-	["10401"] = {
+	["QQ_10401"] = {
 		Name = "super spin",
 		Shortcodes = {
 			"QQ·super spin",
 		},
+		Keywords = {
+			"superintendent",
+			"super",
+			"ace",
+			"A-one",
+			"crack",
+			"first-rate",
+			"tiptop",
+			"topnotch",
+		},
 	},
-	["10400"] = {
+	["QQ_10400"] = {
 		Name = "happy",
 		Shortcodes = {
 			"QQ·happy",
@@ -2113,7 +2313,7 @@ local pack = {
 			"well-chosen",
 		},
 	},
-	["10380"] = {
+	["QQ_10380"] = {
 		Name = "awesome",
 		Shortcodes = {
 			"QQ·awesome",
@@ -2126,37 +2326,62 @@ local pack = {
 			"awing",
 		},
 	},
-	["10381"] = {
+	["QQ_10381"] = {
 		Name = "passing by",
 		Shortcodes = {
 			"QQ·passing by",
 		},
+		Keywords = {
+			"pass",
+			"passing play",
+			"passing game",
+			"passing",
+			"loss",
+			"departure",
+			"exit",
+			"expiration",
+		},
 	},
-	["10379"] = {
+	["QQ_10379"] = {
 		Name = "penguin tears",
 		Shortcodes = {
 			"QQ·penguin tears",
 		},
+		Keywords = {
+			"penguin",
+			"crying",
+			"weeping",
+			"tears",
+		},
 	},
-	["10376"] = {
+	["QQ_10376"] = {
 		Name = "stomp",
 		Shortcodes = {
 			"QQ·stomp",
 		},
 		Keywords = {
 			"stomp",
-			"stomp",
 			"stamp",
 			"stump",
 		},
 	},
-	["10378"] = {
+	["QQ_10378"] = {
 		Name = "penguin laugh-cry",
 		Shortcodes = {
 			"QQ·penguin laugh-cry",
 		},
+		Keywords = {
+			"penguin",
+			"laugh",
+			"laughter",
+			"joke",
+			"gag",
+			"jest",
+			"jape",
+			"express joy",
+		},
 	},
-	["10377"] = {
+	["QQ_10377"] = {
 		Name = "hi",
 		Shortcodes = {
 			"QQ·hi",
@@ -2172,22 +2397,23 @@ local pack = {
 			"Aloha State",
 		},
 	},
-	["10403"] = {
+	["QQ_10403"] = {
 		Name = "go out",
 		Shortcodes = {
 			"QQ·go out",
 		},
 		Keywords = {
-			"exit",
-			"go out",
-			"get out",
-			"leave",
-			"go steady",
-			"date",
-			"see",
+			"go",
+			"spell",
+			"tour",
+			"turn",
+			"Adam",
+			"ecstasy",
+			"XTC",
+			"disco biscuit",
 		},
 	},
-	["10402"] = {
+	["QQ_10402"] = {
 		Name = "shush",
 		Shortcodes = {
 			"QQ·shush",
@@ -2196,108 +2422,235 @@ local pack = {
 			"shush",
 		},
 	},
-	["10390"] = {
+	["QQ_10390"] = {
 		Name = "so bald",
 		Shortcodes = {
 			"QQ·so bald",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10391"] = {
+	["QQ_10391"] = {
 		Name = "so weathered",
 		Shortcodes = {
 			"QQ·so weathered",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10388"] = {
+	["QQ_10388"] = {
 		Name = "so headache",
 		Shortcodes = {
 			"QQ·so headache",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10389"] = {
+	["QQ_10389"] = {
 		Name = "so amazing",
 		Shortcodes = {
 			"QQ·so amazing",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10386"] = {
+	["QQ_10386"] = {
 		Name = "wuwuwu (crying)",
 		Shortcodes = {
 			"QQ·wuwuwu (crying)",
 		},
+		Keywords = {
+			"crying",
+			"weeping",
+			"tears",
+			"clamant",
+			"exigent",
+			"insistent",
+			"instant",
+			"egregious",
+		},
 	},
-	["10385"] = {
+	["QQ_10385"] = {
 		Name = "so angry",
 		Shortcodes = {
 			"QQ·so angry",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10384"] = {
+	["QQ_10384"] = {
 		Name = "good night",
 		Shortcodes = {
 			"QQ·good night",
 		},
 		Keywords = {
-			"good night",
+			"good",
+			"goodness",
+			"commodity",
+			"trade good",
+			"full",
+			"estimable",
+			"honorable",
+			"respectable",
 		},
 	},
-	["10387"] = {
+	["QQ_10387"] = {
 		Name = "so funny",
 		Shortcodes = {
 			"QQ·so funny",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10413"] = {
+	["QQ_10413"] = {
 		Name = "shake it",
 		Shortcodes = {
 			"QQ·shake it",
 		},
+		Keywords = {
+			"shingle",
+			"shake",
+			"milkshake",
+			"milk shake",
+			"trill",
+			"handshake",
+			"handshaking",
+			"handclasp",
+		},
 	},
-	["10405"] = {
+	["QQ_10405"] = {
 		Name = "good luck",
 		Shortcodes = {
 			"QQ·good luck",
 		},
 		Keywords = {
-			"good fortune",
-			"luckiness",
-			"good luck",
-			"fluke",
-			"break",
-			"happy chance",
+			"good",
+			"goodness",
+			"commodity",
+			"trade good",
+			"full",
+			"estimable",
+			"honorable",
+			"respectable",
 		},
 	},
-	["10404"] = {
+	["QQ_10404"] = {
 		Name = "shining entrance",
 		Shortcodes = {
 			"QQ·shining entrance",
 		},
+		Keywords = {
+			"shining",
+			"polishing",
+			"bright",
+			"burnished",
+			"lustrous",
+			"shiny",
+			"glistening",
+			"glossy",
+		},
 	},
-	["10406"] = {
+	["QQ_10406"] = {
 		Name = "queen sister",
 		Shortcodes = {
 			"QQ·queen sister",
 		},
+		Keywords = {
+			"queen",
+			"queen regnant",
+			"female monarch",
+			"king",
+			"world-beater",
+			"fagot",
+			"faggot",
+			"fag",
+		},
 	},
-	["10410"] = {
+	["QQ_10410"] = {
 		Name = "mwah",
 		Shortcodes = {
 			"QQ·mwah",
 		},
 	},
-	["10411"] = {
+	["QQ_10411"] = {
 		Name = "party together",
 		Shortcodes = {
 			"QQ·party together",
 		},
+		Keywords = {
+			"party",
+			"political party",
+			"company",
+			"together",
+			"unitedly",
+			"in concert",
+		},
 	},
-	["10407"] = {
+	["QQ_10407"] = {
 		Name = "let me listen",
 		Shortcodes = {
 			"QQ·let me listen",
 		},
+		Keywords = {
+			"Lashkar-e-Taiba",
+			"Lashkar-e-Toiba",
+			"Lashkar-e-Tayyiba",
+			"LET",
+			"Army of the Pure",
+			"Army of the Righteous",
+			"let",
+			"net ball",
+		},
 	},
-	["10408"] = {
+	["QQ_10408"] = {
 		Name = "vain",
 		Shortcodes = {
 			"QQ·vain",
@@ -2313,7 +2666,7 @@ local pack = {
 			"bootless",
 		},
 	},
-	["10412"] = {
+	["QQ_10412"] = {
 		Name = "joyful",
 		Shortcodes = {
 			"QQ·joyful",
@@ -2325,13 +2678,23 @@ local pack = {
 			"jubilant",
 		},
 	},
-	["10409"] = {
+	["QQ_10409"] = {
 		Name = "give you flowers",
 		Shortcodes = {
 			"QQ·give you flowers",
 		},
+		Keywords = {
+			"give",
+			"spring",
+			"springiness",
+			"yield",
+			"afford",
+			"pay",
+			"hold",
+			"throw",
+		},
 	},
-	["100"] = {
+	["QQ_100"] = {
 		Name = "smile",
 		Shortcodes = {
 			"QQ·smile",
@@ -2341,10 +2704,9 @@ local pack = {
 			"smiling",
 			"grin",
 			"grinning",
-			"smile",
 		},
 	},
-	["101"] = {
+	["QQ_101"] = {
 		Name = "pout",
 		Shortcodes = {
 			"QQ·pout",
@@ -2358,13 +2720,9 @@ local pack = {
 			"hornpout",
 			"Ameiurus Melas",
 			"sulk",
-			"pout",
-			"brood",
-			"mop",
-			"mow",
 		},
 	},
-	["102"] = {
+	["QQ_102"] = {
 		Name = "flirtatious",
 		Shortcodes = {
 			"QQ·flirtatious",
@@ -2374,7 +2732,7 @@ local pack = {
 			"flirtatious",
 		},
 	},
-	["103"] = {
+	["QQ_103"] = {
 		Name = "daze",
 		Shortcodes = {
 			"QQ·daze",
@@ -2387,12 +2745,10 @@ local pack = {
 			"haze",
 			"dazzle",
 			"bedazzle",
-			"daze",
 			"stun",
-			"bedaze",
 		},
 	},
-	["104"] = {
+	["QQ_104"] = {
 		Name = "proud",
 		Shortcodes = {
 			"QQ·proud",
@@ -2404,39 +2760,35 @@ local pack = {
 			"majestic",
 		},
 	},
-	["106"] = {
+	["QQ_106"] = {
 		Name = "shy",
 		Shortcodes = {
 			"QQ·shy",
 		},
 		Keywords = {
 			"shy",
-			"shy",
 			"diffident",
-			"shy",
 			"timid",
 			"unsure",
 		},
 	},
-	["107"] = {
+	["QQ_107"] = {
 		Name = "shut up",
 		Shortcodes = {
 			"QQ·shut up",
 		},
 		Keywords = {
-			"close up",
-			"clam up",
-			"dummy up",
-			"shut up",
-			"belt up",
-			"button up",
-			"be quiet",
-			"keep mum",
-			"pent",
-			"shut up",
+			"close",
+			"shut",
+			"exclude",
+			"keep out",
+			"shut out",
+			"unopen",
+			"closed",
+			"up",
 		},
 	},
-	["108"] = {
+	["QQ_108"] = {
 		Name = "sleep",
 		Shortcodes = {
 			"QQ·sleep",
@@ -2450,14 +2802,9 @@ local pack = {
 			"eternal rest",
 			"eternal sleep",
 			"quietus",
-			"sleep",
-			"kip",
-			"slumber",
-			"log Z's",
-			"catch some Z's",
 		},
 	},
-	["109"] = {
+	["QQ_109"] = {
 		Name = "sob",
 		Shortcodes = {
 			"QQ·sob",
@@ -2471,10 +2818,9 @@ local pack = {
 			"cocksucker",
 			"dickhead",
 			"shit",
-			"sob",
 		},
 	},
-	["105"] = {
+	["QQ_105"] = {
 		Name = "tears",
 		Shortcodes = {
 			"QQ·tears",
@@ -2485,7 +2831,7 @@ local pack = {
 			"tears",
 		},
 	},
-	["110"] = {
+	["QQ_110"] = {
 		Name = "awkward",
 		Shortcodes = {
 			"QQ·awkward",
@@ -2501,7 +2847,7 @@ local pack = {
 			"ill-chosen",
 		},
 	},
-	["111"] = {
+	["QQ_111"] = {
 		Name = "furious",
 		Shortcodes = {
 			"QQ·furious",
@@ -2517,7 +2863,7 @@ local pack = {
 			"maddened",
 		},
 	},
-	["112"] = {
+	["QQ_112"] = {
 		Name = "naughty",
 		Shortcodes = {
 			"QQ·naughty",
@@ -2533,7 +2879,7 @@ local pack = {
 			"spicy",
 		},
 	},
-	["113"] = {
+	["QQ_113"] = {
 		Name = "grin",
 		Shortcodes = {
 			"QQ·grin",
@@ -2543,10 +2889,9 @@ local pack = {
 			"smiling",
 			"grin",
 			"grinning",
-			"grin",
 		},
 	},
-	["114"] = {
+	["QQ_114"] = {
 		Name = "surprised",
 		Shortcodes = {
 			"QQ·surprised",
@@ -2555,7 +2900,7 @@ local pack = {
 			"surprised",
 		},
 	},
-	["115"] = {
+	["QQ_115"] = {
 		Name = "sad",
 		Shortcodes = {
 			"QQ·sad",
@@ -2569,7 +2914,7 @@ local pack = {
 			"sorry",
 		},
 	},
-	["116"] = {
+	["QQ_116"] = {
 		Name = "cool",
 		Shortcodes = {
 			"QQ·cool",
@@ -2580,43 +2925,44 @@ local pack = {
 			"assuredness",
 			"poise",
 			"sang-froid",
-			"cool",
 			"chill",
 			"cool down",
 			"cool off",
-			"cool",
-			"coolheaded",
-			"nerveless",
-			"all right",
-			"fine",
-			"o.k.",
-			"ok",
-			"okay",
 		},
 	},
-	["117"] = {
+	["QQ_117"] = {
 		Name = "cold sweat",
 		Shortcodes = {
 			"QQ·cold sweat",
 		},
 		Keywords = {
-			"cold sweat",
+			"cold",
+			"common cold",
+			"coldness",
+			"low temperature",
+			"frigidity",
+			"frigidness",
+			"stale",
+			"dusty",
 		},
 	},
-	["118"] = {
+	["QQ_118"] = {
 		Name = "freak out",
 		Shortcodes = {
 			"QQ·freak out",
 		},
 		Keywords = {
-			"disorientation",
-			"freak out",
-			"freak out",
 			"freak",
-			"gross out",
+			"monster",
+			"monstrosity",
+			"lusus naturae",
+			"addict",
+			"nut",
+			"junkie",
+			"junky",
 		},
 	},
-	["119"] = {
+	["QQ_119"] = {
 		Name = "vomit",
 		Shortcodes = {
 			"QQ·vomit",
@@ -2630,17 +2976,9 @@ local pack = {
 			"vomitive",
 			"nauseant",
 			"vomiting",
-			"vomit",
-			"vomit up",
-			"purge",
-			"cast",
-			"sick",
-			"cat",
-			"be sick",
-			"disgorge",
 		},
 	},
-	["120"] = {
+	["QQ_120"] = {
 		Name = "snicker",
 		Shortcodes = {
 			"QQ·snicker",
@@ -2649,11 +2987,9 @@ local pack = {
 			"snicker",
 			"snort",
 			"snigger",
-			"snicker",
-			"snigger",
 		},
 	},
-	["121"] = {
+	["QQ_121"] = {
 		Name = "cute",
 		Shortcodes = {
 			"QQ·cute",
@@ -2664,13 +3000,23 @@ local pack = {
 			"precious",
 		},
 	},
-	["122"] = {
+	["QQ_122"] = {
 		Name = "eye roll",
 		Shortcodes = {
 			"QQ·eye roll",
 		},
+		Keywords = {
+			"eye",
+			"oculus",
+			"optic",
+			"center",
+			"centre",
+			"middle",
+			"heart",
+			"eyeball",
+		},
 	},
-	["123"] = {
+	["QQ_123"] = {
 		Name = "arrogant",
 		Shortcodes = {
 			"QQ·arrogant",
@@ -2681,7 +3027,7 @@ local pack = {
 			"self-important",
 		},
 	},
-	["124"] = {
+	["QQ_124"] = {
 		Name = "hungry",
 		Shortcodes = {
 			"QQ·hungry",
@@ -2692,7 +3038,7 @@ local pack = {
 			"thirsty",
 		},
 	},
-	["125"] = {
+	["QQ_125"] = {
 		Name = "sleepy",
 		Shortcodes = {
 			"QQ·sleepy",
@@ -2703,7 +3049,7 @@ local pack = {
 			"sleepyheaded",
 		},
 	},
-	["126"] = {
+	["QQ_126"] = {
 		Name = "terrified",
 		Shortcodes = {
 			"QQ·terrified",
@@ -2717,7 +3063,7 @@ local pack = {
 			"frightened",
 		},
 	},
-	["127"] = {
+	["QQ_127"] = {
 		Name = "sweating",
 		Shortcodes = {
 			"QQ·sweating",
@@ -2730,13 +3076,23 @@ local pack = {
 			"hidrosis",
 		},
 	},
-	["128"] = {
+	["QQ_128"] = {
 		Name = "silly smile",
 		Shortcodes = {
 			"QQ·silly smile",
 		},
+		Keywords = {
+			"silly",
+			"goofy",
+			"wacky",
+			"whacky",
+			"zany",
+			"airheaded",
+			"dizzy",
+			"empty-headed",
+		},
 	},
-	["129"] = {
+	["QQ_129"] = {
 		Name = "chill",
 		Shortcodes = {
 			"QQ·chill",
@@ -2750,12 +3106,9 @@ local pack = {
 			"quiver",
 			"shudder",
 			"thrill",
-			"chill",
-			"cool",
-			"cool down",
 		},
 	},
-	["130"] = {
+	["QQ_130"] = {
 		Name = "strive",
 		Shortcodes = {
 			"QQ·strive",
@@ -2768,7 +3121,7 @@ local pack = {
 			"strain",
 		},
 	},
-	["131"] = {
+	["QQ_131"] = {
 		Name = "curse",
 		Shortcodes = {
 			"QQ·curse",
@@ -2782,17 +3135,9 @@ local pack = {
 			"swearword",
 			"cuss",
 			"execration",
-			"curse",
-			"cuss",
-			"blaspheme",
-			"swear",
-			"imprecate",
-			"beshrew",
-			"damn",
-			"bedamn",
 		},
 	},
-	["132"] = {
+	["QQ_132"] = {
 		Name = "question",
 		Shortcodes = {
 			"QQ·question",
@@ -2806,28 +3151,20 @@ local pack = {
 			"head",
 			"interrogative",
 			"interrogative sentence",
-			"question",
-			"oppugn",
-			"call into question",
-			"interrogate",
-			"query",
-			"interview",
-			"wonder",
 		},
 	},
-	["133"] = {
+	["QQ_133"] = {
 		Name = "shh",
 		Shortcodes = {
 			"QQ·shh",
 		},
 	},
-	["134"] = {
+	["QQ_134"] = {
 		Name = "dizzy",
 		Shortcodes = {
 			"QQ·dizzy",
 		},
 		Keywords = {
-			"dizzy",
 			"dizzy",
 			"giddy",
 			"woozy",
@@ -2838,7 +3175,7 @@ local pack = {
 			"light-headed",
 		},
 	},
-	["135"] = {
+	["QQ_135"] = {
 		Name = "torture",
 		Shortcodes = {
 			"QQ·torture",
@@ -2852,13 +3189,9 @@ local pack = {
 			"overrefinement",
 			"straining",
 			"twisting",
-			"torment",
-			"torture",
-			"excruciate",
-			"rack",
 		},
 	},
-	["136"] = {
+	["QQ_136"] = {
 		Name = "unlucky",
 		Shortcodes = {
 			"QQ·unlucky",
@@ -2872,7 +3205,7 @@ local pack = {
 			"ill-starred",
 		},
 	},
-	["137"] = {
+	["QQ_137"] = {
 		Name = "skull",
 		Shortcodes = {
 			"QQ·skull",
@@ -2881,7 +3214,7 @@ local pack = {
 			"skull",
 		},
 	},
-	["138"] = {
+	["QQ_138"] = {
 		Name = "knock",
 		Shortcodes = {
 			"QQ·knock",
@@ -2895,17 +3228,9 @@ local pack = {
 			"smash",
 			"belt",
 			"rap",
-			"knock",
-			"strike hard",
-			"bump",
-			"tap",
-			"rap",
-			"pink",
-			"ping",
-			"criticize",
 		},
 	},
-	["139"] = {
+	["QQ_139"] = {
 		Name = "goodbye",
 		Shortcodes = {
 			"QQ·goodbye",
@@ -2921,19 +3246,39 @@ local pack = {
 			"cheerio",
 		},
 	},
-	["140"] = {
+	["QQ_140"] = {
 		Name = "wipe sweat",
 		Shortcodes = {
 			"QQ·wipe sweat",
 		},
+		Keywords = {
+			"rub",
+			"wipe",
+			"pass over",
+			"perspiration",
+			"sweat",
+			"sudor",
+			"fret",
+			"stew",
+		},
 	},
-	["141"] = {
+	["QQ_141"] = {
 		Name = "pick nose",
 		Shortcodes = {
 			"QQ·pick nose",
 		},
+		Keywords = {
+			"choice",
+			"pick",
+			"selection",
+			"picking",
+			"cream",
+			"woof",
+			"weft",
+			"filling",
+		},
 	},
-	["142"] = {
+	["QQ_142"] = {
 		Name = "clap",
 		Shortcodes = {
 			"QQ·clap",
@@ -2947,37 +3292,73 @@ local pack = {
 			"gonorrhea",
 			"gonorrhoea",
 			"clack",
-			"clap",
-			"applaud",
-			"spat",
-			"acclaim",
 		},
 	},
-	["143"] = {
+	["QQ_143"] = {
 		Name = "epic fail",
 		Shortcodes = {
 			"QQ·epic fail",
 		},
+		Keywords = {
+			"epic poem",
+			"heroic poem",
+			"epic",
+			"epos",
+			"heroic",
+			"larger-than-life",
+			"epical",
+			"fail",
+		},
 	},
-	["144"] = {
+	["QQ_144"] = {
 		Name = "mischievous smile",
 		Shortcodes = {
 			"QQ·mischievous smile",
 		},
+		Keywords = {
+			"arch",
+			"impish",
+			"implike",
+			"mischievous",
+			"pixilated",
+			"prankish",
+			"puckish",
+			"wicked",
+		},
 	},
-	["145"] = {
+	["QQ_145"] = {
 		Name = "left hmph",
 		Shortcodes = {
 			"QQ·left hmph",
 		},
+		Keywords = {
+			"left",
+			"left wing",
+			"left hand",
+			"left field",
+			"leftfield",
+			"leftover",
+			"left over",
+			"odd",
+		},
 	},
-	["146"] = {
+	["QQ_146"] = {
 		Name = "right hmph",
 		Shortcodes = {
 			"QQ·right hmph",
 		},
+		Keywords = {
+			"right",
+			"right field",
+			"rightfield",
+			"right wing",
+			"right hand",
+			"rightfulness",
+			"compensate",
+			"redress",
+		},
 	},
-	["147"] = {
+	["QQ_147"] = {
 		Name = "yawn",
 		Shortcodes = {
 			"QQ·yawn",
@@ -2987,12 +3368,11 @@ local pack = {
 			"yawning",
 			"oscitance",
 			"oscitancy",
-			"yawn",
 			"gape",
 			"yaw",
 		},
 	},
-	["148"] = {
+	["QQ_148"] = {
 		Name = "disdain",
 		Shortcodes = {
 			"QQ·disdain",
@@ -3006,15 +3386,9 @@ local pack = {
 			"patronage",
 			"contemn",
 			"despise",
-			"scorn",
-			"disdain",
-			"reject",
-			"spurn",
-			"freeze off",
-			"pooh-pooh",
 		},
 	},
-	["149"] = {
+	["QQ_149"] = {
 		Name = "grievance",
 		Shortcodes = {
 			"QQ·grievance",
@@ -3025,13 +3399,23 @@ local pack = {
 			"grievance",
 		},
 	},
-	["150"] = {
+	["QQ_150"] = {
 		Name = "almost crying",
 		Shortcodes = {
 			"QQ·almost crying",
 		},
+		Keywords = {
+			"about",
+			"almost",
+			"most",
+			"nearly",
+			"near",
+			"nigh",
+			"virtually",
+			"well-nigh",
+		},
 	},
-	["151"] = {
+	["QQ_151"] = {
 		Name = "sinister",
 		Shortcodes = {
 			"QQ·sinister",
@@ -3047,19 +3431,39 @@ local pack = {
 			"threatening",
 		},
 	},
-	["10305"] = {
+	["QQ_10305"] = {
 		Name = "right kiss",
 		Shortcodes = {
 			"QQ·right kiss",
 		},
+		Keywords = {
+			"right",
+			"right field",
+			"rightfield",
+			"right wing",
+			"right hand",
+			"rightfulness",
+			"compensate",
+			"redress",
+		},
 	},
-	["152"] = {
+	["QQ_152"] = {
 		Name = "left kiss",
 		Shortcodes = {
 			"QQ·left kiss",
 		},
+		Keywords = {
+			"left",
+			"left wing",
+			"left hand",
+			"left field",
+			"leftfield",
+			"leftover",
+			"left over",
+			"odd",
+		},
 	},
-	["153"] = {
+	["QQ_153"] = {
 		Name = "scare",
 		Shortcodes = {
 			"QQ·scare",
@@ -3070,15 +3474,12 @@ local pack = {
 			"panic attack",
 			"frighten",
 			"fright",
-			"scare",
 			"affright",
 			"daunt",
 			"dash",
-			"scare off",
-			"pall",
 		},
 	},
-	["154"] = {
+	["QQ_154"] = {
 		Name = "pitiful",
 		Shortcodes = {
 			"QQ·pitiful",
@@ -3094,7 +3495,7 @@ local pack = {
 			"sorry",
 		},
 	},
-	["242"] = {
+	["QQ_242"] = {
 		Name = "blink",
 		Shortcodes = {
 			"QQ·blink",
@@ -3107,23 +3508,26 @@ local pack = {
 			"winking",
 			"nictitation",
 			"nictation",
-			"blink",
-			"wink",
 			"nictitate",
-			"nictate",
-			"blink away",
-			"flash",
-			"twinkle",
-			"winkle",
 		},
 	},
-	["252"] = {
+	["QQ_252"] = {
 		Name = "laugh-cry",
 		Shortcodes = {
 			"QQ·laugh-cry",
 		},
+		Keywords = {
+			"laugh",
+			"laughter",
+			"joke",
+			"gag",
+			"jest",
+			"jape",
+			"express joy",
+			"express mirth",
+		},
 	},
-	["249"] = {
+	["QQ_249"] = {
 		Name = "Doge",
 		Shortcodes = {
 			"QQ·doge",
@@ -3132,13 +3536,23 @@ local pack = {
 			"doge",
 		},
 	},
-	["243"] = {
+	["QQ_243"] = {
 		Name = "tears running",
 		Shortcodes = {
 			"QQ·tears running",
 		},
+		Keywords = {
+			"crying",
+			"weeping",
+			"tears",
+			"run",
+			"running",
+			"running play",
+			"running game",
+			"track",
+		},
 	},
-	["244"] = {
+	["QQ_244"] = {
 		Name = "helpless",
 		Shortcodes = {
 			"QQ·helpless",
@@ -3149,49 +3563,109 @@ local pack = {
 			"lost",
 		},
 	},
-	["282"] = {
+	["QQ_282"] = {
 		Name = "cheek rest",
 		Shortcodes = {
 			"QQ·cheek rest",
 		},
+		Keywords = {
+			"cheek",
+			"impudence",
+			"impertinence",
+			"buttock",
+			"boldness",
+			"nerve",
+			"brass",
+			"face",
+		},
 	},
-	["245"] = {
+	["QQ_245"] = {
 		Name = "act cute",
 		Shortcodes = {
 			"QQ·act cute",
 		},
+		Keywords = {
+			"act",
+			"enactment",
+			"deed",
+			"human action",
+			"human activity",
+			"routine",
+			"number",
+			"turn",
+		},
 	},
-	["248"] = {
+	["QQ_248"] = {
 		Name = "side-eye smile",
 		Shortcodes = {
 			"QQ·side-eye smile",
 		},
+		Keywords = {
+			"side",
+			"face",
+			"side of meat",
+			"position",
+			"slope",
+			"incline",
+			"English",
+			"smile",
+		},
 	},
-	["247"] = {
+	["QQ_247"] = {
 		Name = "blood spray",
 		Shortcodes = {
 			"QQ·blood spray",
 		},
+		Keywords = {
+			"blood",
+			"rake",
+			"rakehell",
+			"profligate",
+			"rip",
+			"roue",
+			"lineage",
+			"line",
+		},
 	},
-	["246"] = {
+	["QQ_246"] = {
 		Name = "little dilemma",
 		Shortcodes = {
 			"QQ·little dilemma",
 		},
+		Keywords = {
+			"little",
+			"small",
+			"slight",
+			"fiddling",
+			"footling",
+			"lilliputian",
+			"niggling",
+			"piddling",
+		},
 	},
-	["253"] = {
+	["QQ_253"] = {
 		Name = "i’m the prettiest",
 		Shortcodes = {
 			"QQ·i’m the prettiest",
 		},
 	},
-	["10262"] = {
+	["QQ_10262"] = {
 		Name = "brain pain",
 		Shortcodes = {
 			"QQ·brain pain",
 		},
+		Keywords = {
+			"brain",
+			"encephalon",
+			"brainpower",
+			"learning ability",
+			"mental capacity",
+			"mentality",
+			"wit",
+			"mind",
+		},
 	},
-	["10263"] = {
+	["QQ_10263"] = {
 		Name = "weathered",
 		Shortcodes = {
 			"QQ·weathered",
@@ -3202,61 +3676,124 @@ local pack = {
 			"weathered",
 		},
 	},
-	["10264"] = {
+	["QQ_10264"] = {
 		Name = "facepalm",
 		Shortcodes = {
 			"QQ·facepalm",
 		},
 	},
-	["10265"] = {
+	["QQ_10265"] = {
 		Name = "eye burn",
 		Shortcodes = {
 			"QQ·eye burn",
 		},
+		Keywords = {
+			"eye",
+			"oculus",
+			"optic",
+			"center",
+			"centre",
+			"middle",
+			"heart",
+			"eyeball",
+		},
 	},
-	["10266"] = {
+	["QQ_10266"] = {
 		Name = "oh yo",
 		Shortcodes = {
 			"QQ·oh yo",
 		},
+		Keywords = {
+			"Ohio",
+			"Buckeye State",
+			"OH",
+		},
 	},
-	["10267"] = {
+	["QQ_10267"] = {
 		Name = "bald head",
 		Shortcodes = {
 			"QQ·bald head",
 		},
+		Keywords = {
+			"bald",
+			"barefaced",
+			"bald-headed",
+			"bald-pated",
+			"denuded",
+			"denudate",
+			"head",
+			"caput",
+		},
 	},
-	["10268"] = {
+	["QQ_10268"] = {
 		Name = "question mark face",
 		Shortcodes = {
 			"QQ·question mark face",
 		},
+		Keywords = {
+			"question",
+			"inquiry",
+			"enquiry",
+			"query",
+			"interrogation",
+			"head",
+			"interrogative",
+			"interrogative sentence",
+		},
 	},
-	["10269"] = {
+	["QQ_10269"] = {
 		Name = "secretly observing",
 		Shortcodes = {
 			"QQ·secretly observing",
 		},
+		Keywords = {
+			"secretly",
+			"in secret",
+			"on the Q.T.",
+			"on the QT",
+			"observant",
+			"observing",
+		},
 	},
-	["10270"] = {
+	["QQ_10270"] = {
 		Name = "hmm",
 		Shortcodes = {
 			"QQ·hmm",
 		},
 	},
-	["10271"] = {
+	["QQ_10271"] = {
 		Name = "melon munching (gossip)",
 		Shortcodes = {
 			"QQ·melon munching (gossip)",
 		},
+		Keywords = {
+			"melon",
+			"melon vine",
+			"chitchat",
+			"chit-chat",
+			"chit chat",
+			"small talk",
+			"gab",
+			"gabfest",
+		},
 	},
-	["10272"] = {
+	["QQ_10272"] = {
 		Name = "heheda (mocking laugh)",
 		Shortcodes = {
 			"QQ·heheda (mocking laugh)",
 		},
+		Keywords = {
+			"derisive",
+			"gibelike",
+			"jeering",
+			"mocking",
+			"taunting",
+			"teasing",
+			"quizzical",
+			"laugh",
+		},
 	},
-	["10277"] = {
+	["QQ_10277"] = {
 		Name = "woof",
 		Shortcodes = {
 			"QQ·woof",
@@ -3268,7 +3805,7 @@ local pack = {
 			"pick",
 		},
 	},
-	["10307"] = {
+	["QQ_10307"] = {
 		Name = "meow",
 		Shortcodes = {
 			"QQ·meow",
@@ -3279,23 +3816,40 @@ local pack = {
 			"miaou",
 			"miaow",
 			"miaul",
-			"meow",
-			"mew",
 		},
 	},
-	["10306"] = {
+	["QQ_10306"] = {
 		Name = "bullish energy",
 		Shortcodes = {
 			"QQ·bullish energy",
 		},
+		Keywords = {
+			"bullish",
+			"energy",
+			"free energy",
+			"vigor",
+			"vigour",
+			"zip",
+			"push",
+			"get-up-and-go",
+		},
 	},
-	["10281"] = {
+	["QQ_10281"] = {
 		Name = "eyeless smile",
 		Shortcodes = {
 			"QQ·eyeless smile",
 		},
+		Keywords = {
+			"eyeless",
+			"sightless",
+			"unseeing",
+			"smile",
+			"smiling",
+			"grin",
+			"grinning",
+		},
 	},
-	["10282"] = {
+	["QQ_10282"] = {
 		Name = "salute",
 		Shortcodes = {
 			"QQ·salute",
@@ -3307,18 +3861,27 @@ local pack = {
 			"toast",
 			"drink",
 			"pledge",
-			"salute",
 			"wassail",
 			"present",
 		},
 	},
-	["10283"] = {
+	["QQ_10283"] = {
 		Name = "maniacal laugh",
 		Shortcodes = {
 			"QQ·maniacal laugh",
 		},
+		Keywords = {
+			"maniacal",
+			"maniac",
+			"laugh",
+			"laughter",
+			"joke",
+			"gag",
+			"jest",
+			"jape",
+		},
 	},
-	["10284"] = {
+	["QQ_10284"] = {
 		Name = "expressionless",
 		Shortcodes = {
 			"QQ·expressionless",
@@ -3331,32 +3894,55 @@ local pack = {
 			"unexpressive",
 		},
 	},
-	["10285"] = {
+	["QQ_10285"] = {
 		Name = "slack off",
 		Shortcodes = {
 			"QQ·slack off",
 		},
 		Keywords = {
-			"abate",
-			"let up",
-			"slack off",
 			"slack",
-			"die away",
+			"slump",
+			"drop-off",
+			"falloff",
+			"falling off",
+			"slack water",
+			"mire",
+			"quagmire",
 		},
 	},
-	["10293"] = {
+	["QQ_10293"] = {
 		Name = "touch koi",
 		Shortcodes = {
 			"QQ·touch koi",
 		},
+		Keywords = {
+			"touch",
+			"touching",
+			"sense of touch",
+			"skin senses",
+			"touch modality",
+			"cutaneous senses",
+			"trace",
+			"ghost",
+		},
 	},
-	["10286"] = {
+	["QQ_10286"] = {
 		Name = "devil laugh",
 		Shortcodes = {
 			"QQ·devil laugh",
 		},
+		Keywords = {
+			"Satan",
+			"Old Nick",
+			"Devil",
+			"Lucifer",
+			"Beelzebub",
+			"the Tempter",
+			"Prince of Darkness",
+			"devil",
+		},
 	},
-	["10287"] = {
+	["QQ_10287"] = {
 		Name = "oh",
 		Shortcodes = {
 			"QQ·oh",
@@ -3367,13 +3953,23 @@ local pack = {
 			"OH",
 		},
 	},
-	["10289"] = {
+	["QQ_10289"] = {
 		Name = "open eyes",
 		Shortcodes = {
 			"QQ·open eyes",
 		},
+		Keywords = {
+			"open",
+			"clear",
+			"outdoors",
+			"out-of-doors",
+			"open air",
+			"surface",
+			"open up",
+			"unfold",
+		},
 	},
-	["10294"] = {
+	["QQ_10294"] = {
 		Name = "anticipation",
 		Shortcodes = {
 			"QQ·anticipation",
@@ -3386,37 +3982,76 @@ local pack = {
 			"expectation",
 		},
 	},
-	["10297"] = {
+	["QQ_10297"] = {
 		Name = "bow thanks",
 		Shortcodes = {
 			"QQ·bow thanks",
 		},
+		Keywords = {
+			"bow",
+			"bowknot",
+			"fore",
+			"prow",
+			"stem",
+			"arc",
+			"bowing",
+			"obeisance",
+		},
 	},
-	["10298"] = {
+	["QQ_10298"] = {
 		Name = "gold ingot",
 		Shortcodes = {
 			"QQ·gold ingot",
 		},
+		Keywords = {
+			"gold",
+			"amber",
+			"Au",
+			"atomic number 79",
+			"golden",
+			"gilded",
+			"aureate",
+			"gilt",
+		},
 	},
-	["10299"] = {
+	["QQ_10299"] = {
 		Name = "so awesome",
 		Shortcodes = {
 			"QQ·so awesome",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["10300"] = {
+	["QQ_10300"] = {
 		Name = "gained three pounds",
 		Shortcodes = {
 			"QQ·gained three pounds",
 		},
+		Keywords = {
+			"three",
+			"3",
+			"III",
+			"trio",
+			"threesome",
+			"tierce",
+			"leash",
+			"troika",
+		},
 	},
-	["10323"] = {
+	["QQ_10323"] = {
 		Name = "disgust",
 		Shortcodes = {
 			"QQ·disgust",
 		},
 		Keywords = {
-			"disgust",
 			"disgust",
 			"gross out",
 			"revolt",
@@ -3426,19 +4061,39 @@ local pack = {
 			"churn up",
 		},
 	},
-	["10332"] = {
+	["QQ_10332"] = {
 		Name = "hold sign",
 		Shortcodes = {
 			"QQ·hold sign",
 		},
+		Keywords = {
+			"clasp",
+			"clench",
+			"clutch",
+			"clutches",
+			"grasp",
+			"grip",
+			"hold",
+			"appreciation",
+		},
 	},
-	["10336"] = {
+	["QQ_10336"] = {
 		Name = "leopard rich",
 		Shortcodes = {
 			"QQ·leopard rich",
 		},
+		Keywords = {
+			"leopard",
+			"Panthera pardus",
+			"rich people",
+			"rich",
+			"fat",
+			"fertile",
+			"productive",
+			"deep",
+		},
 	},
-	["10353"] = {
+	["QQ_10353"] = {
 		Name = "please",
 		Shortcodes = {
 			"QQ·please",
@@ -3446,10 +4101,9 @@ local pack = {
 		Keywords = {
 			"please",
 			"delight",
-			"please",
 		},
 	},
-	["10355"] = {
+	["QQ_10355"] = {
 		Name = "yeah",
 		Shortcodes = {
 			"QQ·yeah",
@@ -3459,25 +4113,42 @@ local pack = {
 			"yeah",
 		},
 	},
-	["10356"] = {
+	["QQ_10356"] = {
 		Name = "666 (awesome)",
 		Shortcodes = {
 			"QQ·666 (awesome)",
 		},
+		Keywords = {
+			"amazing",
+			"awe-inspiring",
+			"awesome",
+			"awful",
+			"awing",
+		},
 	},
-	["10354"] = {
+	["QQ_10354"] = {
 		Name = "really or fake?",
 		Shortcodes = {
 			"QQ·really or fake?",
 		},
+		Keywords = {
+			"truly",
+			"genuinely",
+			"really",
+			"actually",
+			"in truth",
+			"very",
+			"real",
+			"rattling",
+		},
 	},
-	["10352"] = {
+	["QQ_10352"] = {
 		Name = "huh?",
 		Shortcodes = {
 			"QQ·huh?",
 		},
 	},
-	["10357"] = {
+	["QQ_10357"] = {
 		Name = "cracked",
 		Shortcodes = {
 			"QQ·cracked",
@@ -3493,43 +4164,98 @@ local pack = {
 			"batty",
 		},
 	},
-	["10334"] = {
+	["QQ_10334"] = {
 		Name = "tiger’s might",
 		Shortcodes = {
 			"QQ·tiger’s might",
 		},
+		Keywords = {
+			"might",
+			"mightiness",
+			"power",
+		},
 	},
-	["10347"] = {
+	["QQ_10347"] = {
 		Name = "grand rabbit (ambition)",
 		Shortcodes = {
 			"QQ·grand rabbit (ambition)",
 		},
+		Keywords = {
+			"thousand",
+			"one thousand",
+			"1000",
+			"M",
+			"K",
+			"chiliad",
+			"G",
+			"grand",
+		},
 	},
-	["10303"] = {
+	["QQ_10303"] = {
 		Name = "right new year greeting",
 		Shortcodes = {
 			"QQ·right new year greeting",
 		},
+		Keywords = {
+			"right",
+			"right field",
+			"rightfield",
+			"right wing",
+			"right hand",
+			"rightfulness",
+			"compensate",
+			"redress",
+		},
 	},
-	["10302"] = {
+	["QQ_10302"] = {
 		Name = "left new year greeting",
 		Shortcodes = {
 			"QQ·left new year greeting",
 		},
+		Keywords = {
+			"left",
+			"left wing",
+			"left hand",
+			"left field",
+			"leftfield",
+			"leftover",
+			"left over",
+			"odd",
+		},
 	},
-	["10295"] = {
+	["QQ_10295"] = {
 		Name = "get red packet",
 		Shortcodes = {
 			"QQ·get red packet",
 		},
+		Keywords = {
+			"get",
+			"acquire",
+			"become",
+			"go",
+			"let",
+			"have",
+			"receive",
+			"find",
+		},
 	},
-	["10311"] = {
+	["QQ_10311"] = {
 		Name = "cheer on",
 		Shortcodes = {
 			"QQ·cheer on",
 		},
+		Keywords = {
+			"cheer",
+			"cheerfulness",
+			"sunniness",
+			"sunshine",
+			"hearten",
+			"recreate",
+			"embolden",
+			"cheer up",
+		},
 	},
-	["10312"] = {
+	["QQ_10312"] = {
 		Name = "transform",
 		Shortcodes = {
 			"QQ·transform",
@@ -3542,19 +4268,39 @@ local pack = {
 			"translate",
 		},
 	},
-	["10314"] = {
+	["QQ_10314"] = {
 		Name = "analyze carefully",
 		Shortcodes = {
 			"QQ·analyze carefully",
 		},
+		Keywords = {
+			"analyze",
+			"analyse",
+			"study",
+			"examine",
+			"canvass",
+			"break down",
+			"dissect",
+			"take apart",
+		},
 	},
-	["10317"] = {
+	["QQ_10317"] = {
 		Name = "noob dog",
 		Shortcodes = {
 			"QQ·noob dog",
 		},
+		Keywords = {
+			"dog",
+			"domestic dog",
+			"Canis familiaris",
+			"frump",
+			"cad",
+			"bounder",
+			"blackguard",
+			"hound",
+		},
 	},
-	["10318"] = {
+	["QQ_10318"] = {
 		Name = "worship",
 		Shortcodes = {
 			"QQ·worship",
@@ -3564,18 +4310,27 @@ local pack = {
 			"adoration",
 			"idolize",
 			"idolise",
-			"worship",
 			"hero-worship",
 			"revere",
 		},
 	},
-	["10319"] = {
+	["QQ_10319"] = {
 		Name = "finger heart",
 		Shortcodes = {
 			"QQ·finger heart",
 		},
+		Keywords = {
+			"finger",
+			"fingerbreadth",
+			"finger's breadth",
+			"digit",
+			"thumb",
+			"feel",
+			"heart",
+			"bosom",
+		},
 	},
-	["10320"] = {
+	["QQ_10320"] = {
 		Name = "celebrate",
 		Shortcodes = {
 			"QQ·celebrate",
@@ -3589,13 +4344,23 @@ local pack = {
 			"lionise",
 		},
 	},
-	["10324"] = {
+	["QQ_10324"] = {
 		Name = "eat candy",
 		Shortcodes = {
 			"QQ·eat candy",
 		},
+		Keywords = {
+			"eat",
+			"feed",
+			"eat on",
+			"consume",
+			"eat up",
+			"use up",
+			"deplete",
+			"exhaust",
+		},
 	},
-	["10325"] = {
+	["QQ_10325"] = {
 		Name = "fright",
 		Shortcodes = {
 			"QQ·fright",
@@ -3605,30 +4370,59 @@ local pack = {
 			"fearfulness",
 			"fright",
 			"frighten",
-			"fright",
 			"scare",
 			"affright",
 		},
 	},
-	["10337"] = {
+	["QQ_10337"] = {
 		Name = "flower face",
 		Shortcodes = {
 			"QQ·flower face",
 		},
+		Keywords = {
+			"flower",
+			"bloom",
+			"blossom",
+			"prime",
+			"peak",
+			"heyday",
+			"efflorescence",
+			"flush",
+		},
 	},
-	["10338"] = {
+	["QQ_10338"] = {
 		Name = "i’ve let go",
 		Shortcodes = {
 			"QQ·i’ve let go",
 		},
+		Keywords = {
+			"Lashkar-e-Taiba",
+			"Lashkar-e-Toiba",
+			"Lashkar-e-Tayyiba",
+			"LET",
+			"Army of the Pure",
+			"Army of the Righteous",
+			"let",
+			"net ball",
+		},
 	},
-	["10339"] = {
+	["QQ_10339"] = {
 		Name = "screen lick",
 		Shortcodes = {
 			"QQ·screen lick",
 		},
+		Keywords = {
+			"screen",
+			"silver screen",
+			"projection screen",
+			"blind",
+			"CRT screen",
+			"cover",
+			"covert",
+			"concealment",
+		},
 	},
-	["10341"] = {
+	["QQ_10341"] = {
 		Name = "greeting",
 		Shortcodes = {
 			"QQ·greeting",
@@ -3638,37 +4432,82 @@ local pack = {
 			"salutation",
 		},
 	},
-	["10342"] = {
+	["QQ_10342"] = {
 		Name = "thank you (sarcastic)",
 		Shortcodes = {
 			"QQ·thank you (sarcastic)",
 		},
+		Keywords = {
+			"thank",
+			"give thanks",
+			"sarcastic",
+		},
 	},
-	["10343"] = {
+	["QQ_10343"] = {
 		Name = "we’re stunned",
 		Shortcodes = {
 			"QQ·we’re stunned",
 		},
+		Keywords = {
+			"amazed",
+			"astonied",
+			"astonished",
+			"astounded",
+			"stunned",
+			"knocked out",
+			"kayoed",
+			"KO'd",
+		},
 	},
-	["10344"] = {
+	["QQ_10344"] = {
 		Name = "big complainer",
 		Shortcodes = {
 			"QQ·big complainer",
 		},
+		Keywords = {
+			"large",
+			"big",
+			"bad",
+			"prominent",
+			"heavy",
+			"boastful",
+			"braggart",
+			"bragging",
+		},
 	},
-	["10345"] = {
+	["QQ_10345"] = {
 		Name = "lots of red packets",
 		Shortcodes = {
 			"QQ·lots of red packets",
 		},
+		Keywords = {
+			"tons",
+			"dozens",
+			"heaps",
+			"lots",
+			"piles",
+			"scores",
+			"stacks",
+			"loads",
+		},
 	},
-	["10346"] = {
+	["QQ_10346"] = {
 		Name = "you’re so great",
 		Shortcodes = {
 			"QQ·you’re so great",
 		},
+		Keywords = {
+			"sol",
+			"soh",
+			"so",
+			"thus",
+			"thusly",
+			"then",
+			"and so",
+			"therefore",
+		},
 	},
-	["251"] = {
+	["QQ_251"] = {
 		Name = "poke",
 		Shortcodes = {
 			"QQ·poke",
@@ -3682,17 +4521,9 @@ local pack = {
 			"dawdler",
 			"drone",
 			"laggard",
-			"jab",
-			"prod",
-			"stab",
-			"poke",
-			"dig",
-			"intrude",
-			"horn in",
-			"pry",
 		},
 	},
-	["176"] = {
+	["QQ_176"] = {
 		Name = "sun",
 		Shortcodes = {
 			"QQ·sun",
@@ -3705,14 +4536,10 @@ local pack = {
 			"Sunday",
 			"Lord's Day",
 			"Dominicus",
-			"sun",
 			"sunbathe",
-			"insolate",
-			"solarize",
-			"solarise",
 		},
 	},
-	["175"] = {
+	["QQ_175"] = {
 		Name = "moon",
 		Shortcodes = {
 			"QQ·moon",
@@ -3726,19 +4553,25 @@ local pack = {
 			"moonlight",
 			"moonshine",
 			"Sun Myung Moon",
-			"daydream",
-			"moon",
-			"moon around",
-			"moon on",
 		},
 	},
-	["10351"] = {
+	["QQ_10351"] = {
 		Name = "knock knock",
 		Shortcodes = {
 			"QQ·knock knock",
 		},
+		Keywords = {
+			"knock",
+			"knocking",
+			"roast",
+			"bash",
+			"bang",
+			"smash",
+			"belt",
+			"rap",
+		},
 	},
-	["10349"] = {
+	["QQ_10349"] = {
 		Name = "strong",
 		Shortcodes = {
 			"QQ·strong",
@@ -3754,23 +4587,29 @@ local pack = {
 			"unattackable",
 		},
 	},
-	["10350"] = {
+	["QQ_10350"] = {
 		Name = "stick together",
 		Shortcodes = {
 			"QQ·stick together",
 		},
 		Keywords = {
-			"stick together",
-			"stay together",
+			"stick",
+			"control stick",
+			"joystick",
+			"pin",
+			"peg",
+			"joint",
+			"marijuana cigarette",
+			"reefer",
 		},
 	},
-	["10395"] = {
+	["QQ_10395"] = {
 		Name = "nah nah",
 		Shortcodes = {
 			"QQ·nah nah",
 		},
 	},
-	["158"] = {
+	["QQ_158"] = {
 		Name = "basketball",
 		Shortcodes = {
 			"QQ·basketball",
@@ -3781,7 +4620,7 @@ local pack = {
 			"hoops",
 		},
 	},
-	["10358"] = {
+	["QQ_10358"] = {
 		Name = "dice",
 		Shortcodes = {
 			"QQ·dice",
@@ -3790,16 +4629,25 @@ local pack = {
 			"die",
 			"dice",
 			"cube",
-			"dice",
 		},
 	},
-	["10359"] = {
+	["QQ_10359"] = {
 		Name = "rock-paper-scissors",
 		Shortcodes = {
 			"QQ·rock-paper-scissors",
 		},
+		Keywords = {
+			"rock",
+			"stone",
+			"Rock",
+			"John Rock",
+			"rock candy",
+			"rock 'n' roll",
+			"rock'n'roll",
+			"rock-and-roll",
+		},
 	},
-	["10326"] = {
+	["QQ_10326"] = {
 		Name = "angry",
 		Shortcodes = {
 			"QQ·angry",
@@ -3812,7 +4660,7 @@ local pack = {
 			"wild",
 		},
 	},
-	["168"] = {
+	["QQ_168"] = {
 		Name = "cake",
 		Shortcodes = {
 			"QQ·cake",
@@ -3822,10 +4670,9 @@ local pack = {
 			"bar",
 			"patty",
 			"coat",
-			"cake",
 		},
 	},
-	["178"] = {
+	["QQ_178"] = {
 		Name = "hug",
 		Shortcodes = {
 			"QQ·hug",
@@ -3835,12 +4682,10 @@ local pack = {
 			"clinch",
 			"squeeze",
 			"embrace",
-			"hug",
 			"bosom",
-			"squeeze",
 		},
 	},
-	["166"] = {
+	["QQ_166"] = {
 		Name = "heart",
 		Shortcodes = {
 			"QQ·heart",
@@ -3856,7 +4701,7 @@ local pack = {
 			"center",
 		},
 	},
-	["163"] = {
+	["QQ_163"] = {
 		Name = "rose",
 		Shortcodes = {
 			"QQ·rose",
@@ -3868,12 +4713,11 @@ local pack = {
 			"pink wine",
 			"rose wine",
 			"rosiness",
-			"rose",
 			"roseate",
 			"rosaceous",
 		},
 	},
-	["164"] = {
+	["QQ_164"] = {
 		Name = "wither",
 		Shortcodes = {
 			"QQ·wither",
@@ -3886,7 +4730,7 @@ local pack = {
 			"fade",
 		},
 	},
-	["257"] = {
+	["QQ_257"] = {
 		Name = "ghost",
 		Shortcodes = {
 			"QQ·ghost",
@@ -3900,25 +4744,41 @@ local pack = {
 			"spectre",
 			"ghostwriter",
 			"touch",
-			"ghost",
-			"haunt",
-			"obsess",
-			"ghostwrite",
 		},
 	},
-	["121011"] = {
+	["QQ_121011"] = {
 		Name = "vein pop",
 		Shortcodes = {
 			"QQ·vein pop",
 		},
+		Keywords = {
+			"vein",
+			"vena",
+			"venous blood vessel",
+			"nervure",
+			"mineral vein",
+			"dad",
+			"dada",
+			"daddy",
+		},
 	},
-	["165"] = {
+	["QQ_165"] = {
 		Name = "show love",
 		Shortcodes = {
 			"QQ·show love",
 		},
+		Keywords = {
+			"show",
+			"display",
+			"appearance",
+			"demo",
+			"exhibit",
+			"present",
+			"demonstrate",
+			"prove",
+		},
 	},
-	["167"] = {
+	["QQ_167"] = {
 		Name = "heartbroken",
 		Shortcodes = {
 			"QQ·heartbroken",
@@ -3929,7 +4789,7 @@ local pack = {
 			"heartsick",
 		},
 	},
-	["160"] = {
+	["QQ_160"] = {
 		Name = "coffee",
 		Shortcodes = {
 			"QQ·coffee",
@@ -3945,7 +4805,7 @@ local pack = {
 			"umber",
 		},
 	},
-	["255"] = {
+	["QQ_255"] = {
 		Name = "alpaca",
 		Shortcodes = {
 			"QQ·alpaca",
@@ -3955,7 +4815,7 @@ local pack = {
 			"Lama pacos",
 		},
 	},
-	["121002"] = {
+	["QQ_121002"] = {
 		Name = "firecracker",
 		Shortcodes = {
 			"QQ·firecracker",
@@ -3966,7 +4826,7 @@ local pack = {
 			"banger",
 		},
 	},
-	["10333"] = {
+	["QQ_10333"] = {
 		Name = "firework",
 		Shortcodes = {
 			"QQ·firework",
@@ -3976,43 +4836,103 @@ local pack = {
 			"pyrotechnic",
 		},
 	},
-	["10415"] = {
+	["QQ_10415"] = {
 		Name = "dragon boat rowing",
 		Shortcodes = {
 			"QQ·dragon boat rowing",
 		},
+		Keywords = {
+			"dragon",
+			"firedrake",
+			"tartar",
+			"Draco",
+			"Dragon",
+			"flying dragon",
+			"flying lizard",
+			"boat",
+		},
 	},
-	["10416"] = {
+	["QQ_10416"] = {
 		Name = "medium dragon boat",
 		Shortcodes = {
 			"QQ·medium dragon boat",
 		},
+		Keywords = {
+			"medium",
+			"culture medium",
+			"spiritualist",
+			"sensitive",
+			"mass medium",
+			"metier",
+			"average",
+			"intermediate",
+		},
 	},
-	["10417"] = {
+	["QQ_10417"] = {
 		Name = "large dragon boat",
 		Shortcodes = {
 			"QQ·large dragon boat",
 		},
+		Keywords = {
+			"large",
+			"big",
+			"bombastic",
+			"declamatory",
+			"orotund",
+			"tumid",
+			"turgid",
+			"magnanimous",
+		},
 	},
-	["10392"] = {
+	["QQ_10392"] = {
 		Name = "happy dragon year",
 		Shortcodes = {
 			"QQ·happy dragon year",
 		},
+		Keywords = {
+			"happy",
+			"felicitous",
+			"glad",
+			"well-chosen",
+			"dragon",
+			"firedrake",
+			"tartar",
+			"Draco",
+		},
 	},
-	["10393"] = {
+	["QQ_10393"] = {
 		Name = "new year medium dragon",
 		Shortcodes = {
 			"QQ·new year medium dragon",
 		},
+		Keywords = {
+			"new",
+			"fresh",
+			"novel",
+			"raw",
+			"unexampled",
+			"New",
+			"Modern",
+			"young",
+		},
 	},
-	["10394"] = {
+	["QQ_10394"] = {
 		Name = "new year large dragon",
 		Shortcodes = {
 			"QQ·new year large dragon",
 		},
+		Keywords = {
+			"new",
+			"fresh",
+			"novel",
+			"raw",
+			"unexampled",
+			"New",
+			"Modern",
+			"young",
+		},
 	},
-	["179"] = {
+	["QQ_179"] = {
 		Name = "like",
 		Shortcodes = {
 			"QQ·like",
@@ -4024,16 +4944,11 @@ local pack = {
 			"ilk",
 			"wish",
 			"care",
-			"like",
-			"like",
 			"similar",
 			"same",
-			"alike",
-			"comparable",
-			"corresponding",
 		},
 	},
-	["189"] = {
+	["QQ_189"] = {
 		Name = "OK",
 		Shortcodes = {
 			"QQ·ok",
@@ -4047,27 +4962,25 @@ local pack = {
 			"okay",
 			"okey",
 			"okeh",
-			"all right",
-			"fine",
-			"o.k.",
-			"ok",
-			"okay",
-			"hunky-dory",
-			"cool",
-			"very well",
-			"fine",
-			"alright",
-			"all right",
-			"OK",
 		},
 	},
-	["183"] = {
+	["QQ_183"] = {
 		Name = "fist salute",
 		Shortcodes = {
 			"QQ·fist salute",
 		},
+		Keywords = {
+			"fist",
+			"clenched fist",
+			"salute",
+			"salutation",
+			"military greeting",
+			"toast",
+			"drink",
+			"pledge",
+		},
 	},
-	["181"] = {
+	["QQ_181"] = {
 		Name = "handshake",
 		Shortcodes = {
 			"QQ·handshake",
@@ -4079,7 +4992,7 @@ local pack = {
 			"handclasp",
 		},
 	},
-	["184"] = {
+	["QQ_184"] = {
 		Name = "tempt",
 		Shortcodes = {
 			"QQ·tempt",
@@ -4094,7 +5007,7 @@ local pack = {
 			"influence",
 		},
 	},
-	["182"] = {
+	["QQ_182"] = {
 		Name = "victory",
 		Shortcodes = {
 			"QQ·victory",
@@ -4104,7 +5017,7 @@ local pack = {
 			"triumph",
 		},
 	},
-	["185"] = {
+	["QQ_185"] = {
 		Name = "fist",
 		Shortcodes = {
 			"QQ·fist",
@@ -4114,7 +5027,7 @@ local pack = {
 			"clenched fist",
 		},
 	},
-	["186"] = {
+	["QQ_186"] = {
 		Name = "lame",
 		Shortcodes = {
 			"QQ·lame",
@@ -4123,27 +5036,30 @@ local pack = {
 			"square",
 			"lame",
 			"cripple",
-			"lame",
 			"feeble",
-			"lame",
 			"crippled",
 			"halt",
 			"halting",
 			"gimpy",
-			"game",
 		},
 	},
-	["180"] = {
+	["QQ_180"] = {
 		Name = "step on",
 		Shortcodes = {
 			"QQ·step on",
 		},
 		Keywords = {
-			"step on",
-			"tread on",
+			"measure",
+			"step",
+			"footstep",
+			"pace",
+			"stride",
+			"stair",
+			"gradation",
+			"stone's throw",
 		},
 	},
-	["188"] = {
+	["QQ_188"] = {
 		Name = "NO",
 		Shortcodes = {
 			"QQ·no",
@@ -4153,30 +5069,53 @@ local pack = {
 			"nobelium",
 			"No",
 			"atomic number 102",
-			"no",
-			"no",
 			"no more",
 		},
 	},
-	["271"] = {
+	["QQ_271"] = {
 		Name = "thumbs up",
 		Shortcodes = {
 			"QQ·thumbs up",
 		},
+		Keywords = {
+			"up",
+			"astir",
+			"improving",
+			"upward",
+			"upwards",
+			"upwardly",
+		},
 	},
-	["10273"] = {
+	["QQ_10273"] = {
 		Name = "i’m jealous",
 		Shortcodes = {
 			"QQ·i’m jealous",
 		},
+		Keywords = {
+			"covetous",
+			"envious",
+			"jealous",
+			"green-eyed",
+			"overjealous",
+		},
 	},
-	["162"] = {
+	["QQ_162"] = {
 		Name = "pig head",
 		Shortcodes = {
 			"QQ·pig head",
 		},
+		Keywords = {
+			"hog",
+			"pig",
+			"grunter",
+			"squealer",
+			"Sus scrofa",
+			"slob",
+			"sloven",
+			"slovenly person",
+		},
 	},
-	["155"] = {
+	["QQ_155"] = {
 		Name = "cleaver",
 		Shortcodes = {
 			"QQ·cleaver",
@@ -4187,7 +5126,7 @@ local pack = {
 			"chopper",
 		},
 	},
-	["171"] = {
+	["QQ_171"] = {
 		Name = "knife",
 		Shortcodes = {
 			"QQ·knife",
@@ -4195,11 +5134,10 @@ local pack = {
 		Keywords = {
 			"knife",
 			"tongue",
-			"knife",
 			"stab",
 		},
 	},
-	["121034"] = {
+	["QQ_121034"] = {
 		Name = "gun",
 		Shortcodes = {
 			"QQ·gun",
@@ -4213,10 +5151,9 @@ local pack = {
 			"gunslinger",
 			"hired gun",
 			"gun for hire",
-			"gun",
 		},
 	},
-	["241"] = {
+	["QQ_241"] = {
 		Name = "tea",
 		Shortcodes = {
 			"QQ·tea",
@@ -4229,7 +5166,7 @@ local pack = {
 			"tea leaf",
 		},
 	},
-	["174"] = {
+	["QQ_174"] = {
 		Name = "poop",
 		Shortcodes = {
 			"QQ·poop",
@@ -4245,7 +5182,7 @@ local pack = {
 			"ninny",
 		},
 	},
-	["121009"] = {
+	["QQ_121009"] = {
 		Name = "acclaim",
 		Shortcodes = {
 			"QQ·acclaim",
@@ -4256,15 +5193,12 @@ local pack = {
 			"plaudits",
 			"plaudit",
 			"eclat",
-			"acclaim",
 			"hail",
 			"herald",
 			"applaud",
-			"clap",
-			"spat",
 		},
 	},
-	["121012"] = {
+	["QQ_121012"] = {
 		Name = "lollipop",
 		Shortcodes = {
 			"QQ·lollipop",
@@ -4278,7 +5212,7 @@ local pack = {
 			"all-day sucker",
 		},
 	},
-	["156"] = {
+	["QQ_156"] = {
 		Name = "watermelon",
 		Shortcodes = {
 			"QQ·watermelon",
@@ -4289,7 +5223,7 @@ local pack = {
 			"Citrullus vulgaris",
 		},
 	},
-	["193"] = {
+	["QQ_193"] = {
 		Name = "shiver",
 		Shortcodes = {
 			"QQ·shiver",
@@ -4303,13 +5237,9 @@ local pack = {
 			"quiver",
 			"shudder",
 			"thrill",
-			"shudder",
-			"shiver",
-			"throb",
-			"thrill",
 		},
 	},
-	["195"] = {
+	["QQ_195"] = {
 		Name = "spin",
 		Shortcodes = {
 			"QQ·spin",
@@ -4321,17 +5251,11 @@ local pack = {
 			"twisting",
 			"whirl",
 			"tailspin",
-			"spin",
 			"spin around",
-			"whirl",
 			"reel",
-			"gyrate",
-			"birl",
-			"twirl",
-			"spin out",
 		},
 	},
-	["190"] = {
+	["QQ_190"] = {
 		Name = "love",
 		Shortcodes = {
 			"QQ·love",
@@ -4345,17 +5269,9 @@ local pack = {
 			"honey",
 			"sexual love",
 			"erotic love",
-			"love",
-			"enjoy",
-			"sleep together",
-			"roll in the hay",
-			"make out",
-			"make love",
-			"sleep with",
-			"get laid",
 		},
 	},
-	["192"] = {
+	["QQ_192"] = {
 		Name = "jump",
 		Shortcodes = {
 			"QQ·jump",
@@ -4368,17 +5284,10 @@ local pack = {
 			"start",
 			"parachuting",
 			"jumping",
-			"jump",
-			"leap",
 			"bound",
-			"spring",
-			"startle",
-			"start",
-			"leap out",
-			"jump out",
 		},
 	},
-	["194"] = {
+	["QQ_194"] = {
 		Name = "seethe",
 		Shortcodes = {
 			"QQ·seethe",
@@ -4391,7 +5300,7 @@ local pack = {
 			"roll",
 		},
 	},
-	["199"] = {
+	["QQ_199"] = {
 		Name = "wave",
 		Shortcodes = {
 			"QQ·wave",
@@ -4404,3891 +5313,6433 @@ local pack = {
 			"wafture",
 			"Wave",
 			"beckon",
-			"wave",
 			"brandish",
-			"flourish",
-			"roll",
-			"undulate",
-			"flap",
-			"curl",
 		},
 	},
-	["191"] = {
+	["QQ_191"] = {
 		Name = "blow kiss",
 		Shortcodes = {
 			"QQ·blow kiss",
+		},
+		Keywords = {
+			"blow",
+			"bump",
+			"reverse",
+			"reversal",
+			"setback",
+			"black eye",
+			"shock",
+			"gust",
 		},
 	},
 
 	KeywordList = {
 		"effervescent",
-		"dearest",
-		"be quiet",
+		"get-up-and-go",
 		"transubstantiate",
-		"greeting",
+		"analyse",
 		"awful",
+		"braggart",
 		"frothy",
 		"yeah",
-		"kiss",
-		"bam",
 		"anguish",
 		"score",
 		"tea",
-		"bar",
+		"overjealous",
 		"poop",
 		"pick",
+		"human action",
 		"scorn",
-		"no more",
-		"cube",
+		"near",
 		"inept",
-		"jump",
+		"energy",
 		"rap",
-		"pooh-pooh",
 		"banger",
-		"solarize",
-		"shrink",
-		"shock",
-		"nictitate",
+		"thus",
+		"upwardly",
+		"virtually",
+		"raw",
 		"weft",
-		"angry",
-		"keep mum",
-		"sleep together",
-		"panic",
-		"patty",
-		"garget",
-		"firework",
 		"cool down",
-		"gamy",
+		"3",
+		"selection",
+		"flirt",
+		"left",
+		"clutch",
+		"flying lizard",
 		"emetic",
 		"wink",
 		"the like",
-		"enquiry",
+		"fagot",
 		"snort",
-		"self-important",
 		"iciness",
+		"ptyalise",
+		"commodity",
 		"minatory",
 		"poise",
+		"troika",
 		"lionise",
-		"strong",
-		"throb",
-		"spectre",
 		"turd",
+		"glossy",
 		"daze",
-		"Oklahoma",
-		"shiver",
+		"buttock",
+		"G",
+		"1000",
 		"roll",
 		"synodic month",
-		"empty-headed",
-		"ghostwriter",
+		"turn",
 		"vertiginous",
-		"make out",
-		"blaspheme",
+		"the Tempter",
+		"K",
+		"M",
+		"orotund",
+		"Dragon",
 		"sleep",
+		"gold",
 		"hungry",
-		"freeze off",
 		"pitiable",
-		"see",
 		"sang-froid",
-		"call into question",
 		"same",
+		"Au",
 		"sicken",
 		"umber",
-		"firecracker",
+		"bowing",
+		"polishing",
+		"boldness",
+		"eyeless",
+		"unseeing",
 		"stump",
 		"naughty",
-		"dear",
-		"nictate",
+		"close",
+		"secretly",
+		"pass over",
+		"rightfulness",
 		"clenched fist",
 		"weeping",
 		"parachuting",
-		"log Z's",
+		"mightiness",
 		"candy kiss",
 		"maddened",
-		"blast",
+		"blood",
 		"disdain",
-		"awesome",
+		"wipe",
 		"halt",
-		"repel",
+		"fingerbreadth",
 		"wraith",
 		"blue",
-		"dummy up",
+		"outdoors",
+		"throw",
 		"bubbling",
+		"dissect",
 		"spin",
 		"moving ridge",
+		"thank",
+		"arch",
 		"eternal rest",
-		"interview",
-		"gape",
-		"panic-struck",
+		"leash",
+		"spit",
+		"novel",
 		"straining",
-		"die",
-		"dig",
-		"haunt",
+		"niggling",
+		"ace",
+		"open up",
 		"chill",
-		"scare",
+		"nervure",
 		"infuriated",
 		"acclaim",
 		"stun",
-		"observe",
-		"undulate",
-		"be sick",
+		"good",
 		"adios",
+		"spring",
 		"wish",
 		"acclamation",
-		"spring",
 		"ill-fated",
-		"step on",
+		"act",
 		"snicker",
-		"leave",
 		"roseate",
 		"patronage",
 		"grievance",
-		"impregnable",
+		"melon",
+		"laugh",
+		"give thanks",
 		"artillery",
 		"weather-beaten",
 		"wry face",
+		"heroic poem",
 		"shite",
 		"risque",
 		"adoration",
 		"forbidding",
 		"nincompoop",
 		"shade",
+		"pay",
+		"stone's throw",
 		"helpless",
-		"minacious",
-		"popsicle",
-		"lolly",
 		"toast",
-		"knife",
 		"afternoon tea",
-		"insolate",
-		"pink wine",
+		"threesome",
+		"keep out",
+		"therefore",
+		"frigidity",
 		"salutation",
-		"fog",
-		"nerveless",
-		"squeeze",
-		"tears",
-		"winkle",
-		"shy",
-		"oppugn",
+		"wacky",
+		"left hand",
+		"mass medium",
 		"raging",
-		"catch some Z's",
-		"vomit up",
-		"batty",
-		"solarise",
-		"lamentable",
-		"expectation",
-		"beshrew",
-		"salute",
-		"let up",
+		"young",
+		"blackguard",
+		"medium",
 		"overrefinement",
-		"shrivel up",
 		"erotic love",
 		"sleepy-eyed",
 		"sorry",
 		"anticipation",
 		"interrogation",
-		"woozy",
 		"light-headed",
-		"conceited",
+		"left wing",
 		"hidrosis",
 		"miaou",
 		"expectancy",
-		"Aloha State",
-		"diffident",
 		"miaow",
 		"pyrotechnic",
-		"applaud",
-		"close up",
 		"ticker",
-		"arrogant",
-		"contemn",
+		"side of meat",
 		"aplomb",
 		"embrace",
 		"teatime",
+		"cheek",
 		"victory",
-		"bound",
-		"get out",
+		"rich",
 		"pout",
 		"coquettish",
-		"panic attack",
+		"larger-than-life",
+		"peak",
 		"quietus",
-		"jump out",
+		"jest",
 		"praise",
-		"birl",
+		"cheer",
 		"crap",
 		"contempt",
+		"bald-headed",
 		"coffee",
 		"hornpout",
-		"unlucky",
-		"strike hard",
+		"sweat",
 		"pledge",
-		"Ohio",
-		"hug",
-		"swear",
 		"sopor",
-		"hi",
 		"winking",
-		"hum",
+		"cheerfulness",
 		"howdy",
-		"deplorable",
 		"effervescing",
-		"sick",
-		"shut up",
-		"flourish",
-		"agony",
+		"springiness",
+		"number",
+		"break down",
+		"peg",
 		"spin around",
 		"fierce",
 		"slack",
+		"rip",
 		"bump",
+		"barefaced",
 		"nap",
-		"fear",
 		"similar",
 		"ninny",
-		"belt",
 		"lionize",
-		"vain",
 		"timid",
 		"alligatored",
+		"joystick",
+		"shut out",
 		"weathered",
-		"drink",
-		"alright",
-		"handclasp",
+		"mental capacity",
 		"exit",
+		"leopard",
 		"assuredness",
 		"chapped",
-		"halting",
+		"analyze",
 		"tea leaf",
-		"curse",
-		"hello",
-		"roll in the hay",
-		"imprecate",
-		"engaged",
+		"Sus scrofa",
 		"gun",
-		"pink",
 		"expressionless",
 		"Lord's Day",
-		"gonorrhea",
-		"hero-worship",
+		"queen",
 		"snog",
-		"ping",
+		"lustrous",
 		"affright",
-		"stamp",
-		"stupor",
-		"majestic",
-		"luckiness",
-		"lure",
-		"wassail",
-		"whirl",
-		"gunslinger",
-		"inquiry",
+		"mineral vein",
+		"instant",
 		"military greeting",
 		"Okla.",
-		"bedamn",
-		"grudge",
+		"yield",
+		"have",
 		"Sooner State",
-		"herald",
-		"featherbrained",
-		"osculate",
-		"delight",
+		"maniacal",
+		"jape",
+		"frump",
 		"roast",
 		"question",
-		"break",
 		"SOB",
-		"barmy",
-		"nictitation",
+		"boat",
+		"sarcastic",
+		"A-one",
+		"milkshake",
+		"milk shake",
 		"Camellia sinensis",
+		"reversal",
 		"deep brown",
+		"Prince of Darkness",
 		"bubbly",
+		"shingle",
+		"burnished",
 		"rose",
-		"breathlessness",
 		"officious",
-		"idolize",
-		"comparable",
-		"meat cleaver",
+		"thousand",
+		"chiliad",
+		"skin senses",
+		"New",
 		"shake",
 		"kudos",
-		"happy chance",
-		"sob",
+		"almost",
+		"eat up",
+		"reefer",
 		"interrogative",
 		"spook",
-		"horn in",
-		"thrill",
-		"get laid",
-		"smile",
-		"shush",
-		"fine",
+		"screen",
+		"pig",
+		"gabfest",
+		"pin",
+		"faggot",
+		"coquetry",
 		"twirl",
 		"revere",
-		"make love",
 		"laggard",
 		"perspiration",
 		"twisting",
-		"moon around",
-		"felicitous",
-		"hoops",
-		"dirt",
+		"on the Q.T.",
+		"new",
+		"female monarch",
+		"heroic",
 		"touch",
-		"sexual love",
 		"spicy",
+		"brass",
+		"real",
+		"clamant",
 		"miaul",
-		"brood",
+		"squealer",
+		"ptyalize",
 		"sunbathe",
-		"heart",
 		"cleaver",
-		"horned pout",
-		"unexpressive",
-		"coat",
+		"Army of the Pure",
 		"tempt",
 		"gleeful",
 		"thirsty",
-		"meow",
 		"foamy",
+		"tons",
 		"Sunday",
-		"prediction",
-		"present",
+		"trade good",
+		"shining",
+		"roue",
 		"twist",
-		"no",
+		"dusty",
+		"black eye",
+		"rich people",
 		"jumping",
 		"interfering",
 		"condescension",
-		"blinking",
-		"panic-stricken",
+		"frigidness",
+		"rock 'n' roll",
 		"quiver",
 		"despise",
-		"hunky-dory",
+		"slack water",
+		"green-eyed",
 		"plaudit",
-		"sleep with",
-		"head",
-		"transform",
+		"running",
 		"haze",
 		"shortness of breath",
 		"busy",
 		"OH",
+		"slob",
+		"gilt",
 		"skull",
-		"savage",
-		"ok",
 		"OK",
 		"buss",
-		"mew",
-		"cripple",
-		"unassailable",
 		"No",
-		"disorientation",
+		"blossom",
 		"endeavor",
-		"waving",
-		"brandish",
+		"vigour",
 		"despite",
-		"fright",
-		"go out",
-		"ill-starred",
-		"eclat",
-		"all right",
-		"coffee berry",
+		"super",
+		"saliva",
+		"English",
+		"productive",
+		"cheer up",
+		"epic poem",
+		"small talk",
+		"use up",
+		"honorable",
 		"clumsy",
 		"lame",
-		"transmute",
-		"cunning",
-		"all-day sucker",
-		"curl",
 		"meddling",
-		"coolheaded",
-		"inviolable",
-		"threatening",
-		"jab",
-		"giddy",
 		"tailspin",
 		"awe-inspiring",
-		"cold sweat",
 		"java",
-		"Ameiurus Melas",
-		"bang",
 		"cake",
+		"let",
+		"quagmire",
+		"expectoration",
 		"boil",
+		"goodness",
 		"joyful",
-		"good fortune",
-		"oscitance",
-		"die away",
-		"how-do-you-do",
-		"idolise",
 		"clack",
+		"pace",
+		"concealment",
 		"angered",
-		"puke",
-		"Sun",
-		"prevision",
+		"one thousand",
 		"reel",
-		"Lama pacos",
+		"eye",
+		"monstrosity",
 		"pathetic",
-		"meddlesome",
-		"flash",
+		"puckish",
 		"impassive",
-		"nictation",
+		"gilded",
+		"goofy",
 		"athirst",
-		"fist",
-		"vomit",
-		"cute",
+		"devil",
 		"sleepyheaded",
-		"sun",
-		"pent",
-		"good night",
-		"adieu",
-		"fade",
-		"oscitancy",
-		"metamorphose",
+		"acquire",
+		"fertile",
+		"routine",
+		"arc",
 		"mettle",
-		"watermelon vine",
-		"crippled",
-		"panicky",
 		"nauseant",
 		"watermelon",
-		"auf wiedersehen",
-		"pump",
-		"spin out",
-		"surprised",
+		"boastful",
 		"diaphoresis",
 		"sudation",
+		"receive",
 		"awing",
-		"twinkle",
-		"stiff",
 		"triumph",
 		"slumber",
-		"dickhead",
-		"jubilant",
-		"vomitus",
-		"Hawaii",
-		"shudder",
-		"curse word",
-		"expletive",
-		"beloved",
+		"learning ability",
+		"silly",
+		"tour",
 		"yaw",
-		"extolment",
+		"running play",
 		"torture",
 		"filling",
-		"handshaking",
-		"gyrate",
-		"stab",
 		"charm",
-		"cocksucker",
+		"first-rate",
 		"shit",
 		"ordnance",
 		"clap",
 		"deadpan",
-		"rosiness",
-		"invite",
-		"cuss",
 		"gunman",
+		"rub",
+		"sightless",
 		"dazzle",
-		"ill-omened",
-		"daydream",
-		"heartsick",
+		"firedrake",
 		"doge",
 		"chopper",
+		"and so",
+		"genuinely",
 		"hired gun",
-		"stay together",
-		"incapacitated",
+		"Lashkar-e-Toiba",
+		"run",
 		"secure",
-		"undulation",
-		"amazing",
+		"CRT screen",
 		"weatherworn",
 		"sinister",
-		"woof",
-		"awkward",
-		"arrivederci",
 		"menacing",
-		"clam up",
-		"barf",
-		"frisson",
-		"passion",
-		"smiling",
-		"celebrate",
-		"query",
-		"please",
-		"sucker",
-		"ghostwrite",
+		"bounder",
+		"deplete",
+		"tartar",
+		"egregious",
+		"might",
+		"astir",
+		"derisive",
 		"drone",
-		"pry",
-		"yawning",
-		"frightened",
-		"gonorrhoea",
-		"seethe",
-		"knock",
+		"prankish",
+		"improving",
+		"measure",
+		"well-nigh",
+		"tumid",
+		"full",
+		"blind",
 		"occupy",
-		"intrude",
+		"nearly",
+		"show",
 		"gimpy",
-		"purge",
 		"blink",
+		"Satan",
 		"wave",
 		"cracked",
 		"specter",
 		"racy",
-		"bats",
 		"freak",
-		"egotistical",
-		"kip",
 		"yea",
 		"crying",
-		"honey",
-		"moonshine",
-		"stomp",
-		"wonder",
-		"sleepy",
-		"moon on",
+		"Beelzebub",
 		"snigger",
-		"rack",
+		"mischievous",
 		"vomitive",
-		"button up",
 		"rose wine",
-		"basketball game",
 		"center",
+		"basketball game",
 		"start",
+		"Draco",
 		"blush wine",
-		"bunglesome",
-		"cumbersome",
-		"bye",
-		"damn",
-		"daunt",
+		"footling",
 		"rosaceous",
 		"cracker",
-		"alike",
+		"marijuana cigarette",
+		"dalliance",
 		"pitiful",
-		"bash",
-		"revolt",
+		"in concert",
+		"observing",
 		"doomed",
-		"disgust",
+		"thusly",
 		"pigeon berry",
 		"wither",
 		"buzz",
-		"blink away",
-		"slack off",
-		"leap out",
-		"torment",
-		"pall",
-		"sunshine",
-		"Moon",
-		"reach",
 		"happy",
-		"ungainly",
-		"potent",
-		"tempestuous",
 		"nobelium",
 		"busybodied",
-		"excruciate",
-		"cheerio",
-		"mop",
-		"wafture",
-		"cast",
-		"mow",
-		"lost",
+		"Canis familiaris",
+		"fag",
+		"three",
+		"mocking",
 		"alpaca",
 		"panicked",
+		"golden",
+		"fat",
+		"bowknot",
 		"inapt",
-		"gamey",
+		"incline",
+		"truly",
 		"vomiting",
-		"coffee tree",
-		"okay",
 		"clinch",
+		"okay",
 		"egotistic",
-		"swearing",
+		"give",
+		"superintendent",
 		"atomic number 102",
-		"ominous",
-		"very well",
-		"dizzy",
-		"self-conceited",
+		"running game",
+		"III",
+		"epic",
+		"impertinence",
+		"spittle",
+		"slope",
 		"well-chosen",
 		"lofty",
 		"au revoir",
-		"Wave",
-		"o.k.",
 		"hullo",
 		"moon",
 		"gross out",
 		"nauseate",
-		"stick together",
 		"scoke",
-		"Dominicus",
 		"the likes of",
+		"junky",
 		"worship",
-		"fussy",
 		"asshole",
-		"plaudits",
 		"swearword",
 		"chocolate",
 		"care",
 		"elated",
 		"bastard",
-		"chesty",
 		"roughened",
-		"love",
+		"study",
+		"epical",
 		"ill-chosen",
-		"tongue",
-		"enjoy",
+		"astonied",
+		"bright",
+		"consume",
 		"lollipop",
 		"okeh",
 		"cool off",
-		"swollen-headed",
 		"airheaded",
-		"baleful",
 		"enraged",
-		"ghost",
-		"abate",
 		"sulk",
-		"leap",
-		"flap",
 		"smash",
+		"profligate",
 		"entice",
-		"heavy weapon",
-		"fete",
+		"prow",
 		"grin",
-		"precious",
-		"prod",
+		"grip",
 		"osculation",
+		"unitedly",
 		"terrified",
-		"spat",
-		"scare off",
-		"O.K.",
-		"cool",
-		"freak out",
-		"tremble",
+		"touching",
+		"display",
+		"hound",
+		"centre",
 		"lunation",
 		"unattackable",
 		"distressing",
-		"sunlight",
-		"belt up",
-		"criticize",
-		"juicy",
+		"reverse",
+		"redress",
 		"eruption",
-		"spurn",
-		"ice lolly",
-		"date",
+		"choice",
+		"small",
 		"moue",
 		"gallant",
-		"obsess",
+		"shut",
 		"bedazzle",
-		"heartbroken",
+		"dad",
 		"dice",
-		"grinning",
-		"go steady",
+		"nut",
 		"bootless",
 		"shrivel",
-		"allure",
-		"translate",
 		"influence",
-		"basketball",
-		"knocking",
+		"bloom",
 		"gelidity",
 		"execration",
 		"Phytolacca americana",
-		"disgorge",
-		"furious",
 		"strain",
 		"poker-faced",
 		"foaming",
-		"tap",
-		"proud",
-		"rosebush",
+		"Rock",
 		"okey",
-		"like",
-		"ilk",
-		"good luck",
-		"poke",
-		"startle",
+		"king",
+		"exigent",
+		"implike",
+		"most",
+		"glimpse",
 		"rainbow",
 		"square",
-		"keep",
+		"flirtation",
+		"footstep",
 		"nerve",
-		"dash",
-		"bosom",
+		"keep",
 		"distortion",
-		"brokenhearted",
-		"handshake",
-		"game",
 		"flirtatious",
-		"ferocious",
-		"moonlight",
 		"unsure",
-		"Buckeye State",
-		"congratulations",
-		"Hawai'i",
-		"bye-bye",
 		"lunar month",
-		"bedaze",
 		"strive",
-		"reject",
 		"sad",
-		"cat",
 		"frighten",
-		"tread on",
-		"fluke",
-		"feeble",
-		"endeavour",
-		"eye blink",
+		"piles",
+		"passing play",
+		"silver screen",
+		"epos",
 		"rest",
-		"coffee bean",
+		"wit",
 		"yawn",
-		"eternal sleep",
+		"clear",
 		"gun for hire",
-		"balmy",
-		"hail",
 		"spumy",
 		"saltation",
 		"fearfulness",
-		"Citrullus vulgaris",
-		"interrogative sentence",
-		"beckon",
 		"churn up",
-		"interrogate",
 		"luckless",
-		"oath",
-		"Sun Myung Moon",
-		"corresponding",
 		"glad",
-		"swollen",
+		"shiny",
 		"spunk",
-		"sweating",
-		"wild",
+		"rake",
 		"dawdler",
 		"eelpout",
-		KeywordCount = 725
+		"unfold",
+		"dearest",
+		"hearten",
+		"bad",
+		"rock-and-roll",
+		"greeting",
+		"kiss",
+		"stride",
+		"efflorescence",
+		"bam",
+		"crack",
+		"trio",
+		"bar",
+		"no more",
+		"cube",
+		"jump",
+		"prime",
+		"vein",
+		"pass",
+		"shrink",
+		"stacks",
+		"shock",
+		"nictitate",
+		"angry",
+		"panic",
+		"patty",
+		"garget",
+		"firework",
+		"Devil",
+		"gamy",
+		"intermediate",
+		"enquiry",
+		"self-important",
+		"heyday",
+		"average",
+		"hog",
+		"strong",
+		"prove",
+		"spectre",
+		"Oklahoma",
+		"shiver",
+		"empty-headed",
+		"ghostwriter",
+		"caput",
+		"impish",
+		"grasp",
+		"firecracker",
+		"oculus",
+		"gradation",
+		"dear",
+		"mind",
+		"right",
+		"blast",
+		"recreate",
+		"awesome",
+		"repel",
+		"denuded",
+		"astonished",
+		"penguin",
+		"gape",
+		"panic-struck",
+		"die",
+		"scare",
+		"fiddling",
+		"turgid",
+		"fore",
+		"observe",
+		"hold",
+		"pixilated",
+		"vena",
+		"passing game",
+		"exclude",
+		"on the QT",
+		"impregnable",
+		"digit",
+		"enactment",
+		"brainpower",
+		"teasing",
+		"exhaust",
+		"denudate",
+		"kayoed",
+		"minacious",
+		"quizzical",
+		"upwards",
+		"popsicle",
+		"lolly",
+		"knife",
+		"free energy",
+		"pink wine",
+		"expiration",
+		"eyeball",
+		"party",
+		"fog",
+		"little",
+		"metier",
+		"Lucifer",
+		"deep",
+		"squeeze",
+		"tears",
+		"shy",
+		"XTC",
+		"world-beater",
+		"batty",
+		"lamentable",
+		"sloven",
+		"expectation",
+		"astounded",
+		"John Rock",
+		"in truth",
+		"deed",
+		"salute",
+		"clasp",
+		"shrivel up",
+		"woozy",
+		"conceited",
+		"company",
+		"Aloha State",
+		"glistening",
+		"diffident",
+		"applaud",
+		"covert",
+		"junkie",
+		"arrogant",
+		"contemn",
+		"ecstasy",
+		"bound",
+		"go",
+		"political party",
+		"panic attack",
+		"grand",
+		"chitchat",
+		"Panthera pardus",
+		"unlucky",
+		"Ohio",
+		"hug",
+		"flying dragon",
+		"observant",
+		"mire",
+		"fresh",
+		"hi",
+		"very",
+		"big",
+		"rock candy",
+		"hum",
+		"deplorable",
+		"stale",
+		"agony",
+		"grunter",
+		"left over",
+		"fear",
+		"surface",
+		"large",
+		"belt",
+		"vain",
+		"appreciation",
+		"cream",
+		"knocked out",
+		"sensitive",
+		"sudor",
+		"odd",
+		"drink",
+		"heavy",
+		"handclasp",
+		"afford",
+		"tiptop",
+		"halting",
+		"curse",
+		"hello",
+		"maniac",
+		"dog",
+		"become",
+		"rock'n'roll",
+		"gonorrhea",
+		"hero-worship",
+		"stamp",
+		"stupor",
+		"majestic",
+		"lure",
+		"wassail",
+		"whirl",
+		"gunslinger",
+		"inquiry",
+		"grudge",
+		"slump",
+		"herald",
+		"optic",
+		"featherbrained",
+		"osculate",
+		"together",
+		"delight",
+		"flirting",
+		"Lashkar-e-Taiba",
+		"leftfield",
+		"side",
+		"mentality",
+		"amber",
+		"chit chat",
+		"barmy",
+		"joke",
+		"addict",
+		"nictitation",
+		"express joy",
+		"breathlessness",
+		"compensate",
+		"idolize",
+		"topnotch",
+		"toying",
+		"meat cleaver",
+		"express mirth",
+		"feel",
+		"unopen",
+		"thrill",
+		"bragging",
+		"envious",
+		"soh",
+		"smile",
+		"shush",
+		"sol",
+		"sense of touch",
+		"dada",
+		"find",
+		"encephalon",
+		"lusus naturae",
+		"upward",
+		"Army of the Righteous",
+		"KO'd",
+		"impudence",
+		"felicitous",
+		"clench",
+		"hoops",
+		"dirt",
+		"sexual love",
+		"magnanimous",
+		"control stick",
+		"picking",
+		"heart",
+		"horned pout",
+		"unexpressive",
+		"feed",
+		"coat",
+		"meow",
+		"prediction",
+		"position",
+		"present",
+		"laughter",
+		"no",
+		"dozens",
+		"stair",
+		"scores",
+		"blinking",
+		"panic-stricken",
+		"bow",
+		"demo",
+		"left field",
+		"head",
+		"transform",
+		"Old Nick",
+		"bald",
+		"savage",
+		"mew",
+		"cripple",
+		"wicked",
+		"unassailable",
+		"waving",
+		"brandish",
+		"heaps",
+		"fright",
+		"rightfield",
+		"LET",
+		"ill-starred",
+		"eclat",
+		"coffee berry",
+		"lineage",
+		"transmute",
+		"cunning",
+		"all-day sucker",
+		"inviolable",
+		"threatening",
+		"about",
+		"spiritualist",
+		"giddy",
+		"human activity",
+		"cover",
+		"Ameiurus Melas",
+		"bang",
+		"out-of-doors",
+		"stick",
+		"exhibit",
+		"bombastic",
+		"setback",
+		"oscitance",
+		"projection screen",
+		"how-do-you-do",
+		"idolise",
+		"then",
+		"puke",
+		"finger's breadth",
+		"tierce",
+		"Sun",
+		"prevision",
+		"melon vine",
+		"Lama pacos",
+		"meddlesome",
+		"common cold",
+		"right hand",
+		"right field",
+		"nictation",
+		"eat on",
+		"prominent",
+		"examine",
+		"vigor",
+		"respectable",
+		"fret",
+		"fist",
+		"vomit",
+		"cute",
+		"sun",
+		"chit-chat",
+		"disco biscuit",
+		"adieu",
+		"fade",
+		"oscitancy",
+		"metamorphose",
+		"watermelon vine",
+		"glance",
+		"crippled",
+		"panicky",
+		"pump",
+		"so",
+		"auf wiedersehen",
+		"right wing",
+		"surprised",
+		"stiff",
+		"middle",
+		"dickhead",
+		"jubilant",
+		"vomitus",
+		"Hawaii",
+		"loads",
+		"shudder",
+		"curse word",
+		"expletive",
+		"beloved",
+		"monster",
+		"flower",
+		"actually",
+		"extolment",
+		"face",
+		"handshaking",
+		"stab",
+		"cocksucker",
+		"insistent",
+		"rosiness",
+		"closed",
+		"invite",
+		"cuss",
+		"open",
+		"joint",
+		"taunting",
+		"ill-omened",
+		"heartsick",
+		"obeisance",
+		"incapacitated",
+		"undulation",
+		"Modern",
+		"stunned",
+		"amazing",
+		"aureate",
+		"woof",
+		"awkward",
+		"arrivederci",
+		"up",
+		"sunniness",
+		"barf",
+		"frisson",
+		"passion",
+		"lilliputian",
+		"smiling",
+		"celebrate",
+		"query",
+		"please",
+		"sucker",
+		"low temperature",
+		"gibelike",
+		"yawning",
+		"demonstrate",
+		"frightened",
+		"gonorrhoea",
+		"seethe",
+		"knock",
+		"domestic dog",
+		"jeering",
+		"gab",
+		"cold",
+		"gag",
+		"canvass",
+		"bats",
+		"egotistical",
+		"coldness",
+		"flush",
+		"honey",
+		"moonshine",
+		"stomp",
+		"sleepy",
+		"slight",
+		"stew",
+		"piddling",
+		"bunglesome",
+		"cumbersome",
+		"bye",
+		"stone",
+		"daunt",
+		"trill",
+		"falling off",
+		"bash",
+		"step",
+		"passing",
+		"revolt",
+		"cutaneous senses",
+		"disgust",
+		"stem",
+		"torment",
+		"sunshine",
+		"Moon",
+		"reach",
+		"ungainly",
+		"potent",
+		"tempestuous",
+		"zany",
+		"dragon",
+		"cheerio",
+		"wafture",
+		"loss",
+		"lost",
+		"atomic number 79",
+		"gamey",
+		"coffee tree",
+		"zip",
+		"swearing",
+		"leftover",
+		"ominous",
+		"dizzy",
+		"self-conceited",
+		"slovenly person",
+		"push",
+		"Wave",
+		"fail",
+		"bald-pated",
+		"Dominicus",
+		"fussy",
+		"plaudits",
+		"chesty",
+		"love",
+		"tongue",
+		"thumb",
+		"swollen-headed",
+		"baleful",
+		"estimable",
+		"rock",
+		"ghost",
+		"get",
+		"eat",
+		"leap",
+		"power",
+		"heavy weapon",
+		"rakehell",
+		"fete",
+		"finger",
+		"precious",
+		"bullish",
+		"O.K.",
+		"cool",
+		"tremble",
+		"brain",
+		"rattling",
+		"amazed",
+		"lots",
+		"falloff",
+		"sunlight",
+		"appearance",
+		"juicy",
+		"ice lolly",
+		"heartbroken",
+		"culture medium",
+		"grinning",
+		"allure",
+		"translate",
+		"spitting",
+		"basketball",
+		"knocking",
+		"touch modality",
+		"whacky",
+		"blow",
+		"furious",
+		"in secret",
+		"spell",
+		"proud",
+		"rosebush",
+		"like",
+		"unexampled",
+		"open air",
+		"ilk",
+		"poke",
+		"Adam",
+		"startle",
+		"take apart",
+		"drop-off",
+		"departure",
+		"dash",
+		"bosom",
+		"brokenhearted",
+		"handshake",
+		"declamatory",
+		"ferocious",
+		"moonlight",
+		"line",
+		"Buckeye State",
+		"cad",
+		"congratulations",
+		"Hawai'i",
+		"bye-bye",
+		"jealous",
+		"queen regnant",
+		"trace",
+		"venous blood vessel",
+		"feeble",
+		"endeavour",
+		"net ball",
+		"eye blink",
+		"track",
+		"Lashkar-e-Tayyiba",
+		"coffee bean",
+		"eternal sleep",
+		"balmy",
+		"hail",
+		"really",
+		"nigh",
+		"embolden",
+		"Citrullus vulgaris",
+		"interrogative sentence",
+		"daddy",
+		"beckon",
+		"oath",
+		"Sun Myung Moon",
+		"clutches",
+		"swollen",
+		"sweating",
+		"wild",
+		"covetous",
+		"gust",
+		KeywordCount = 1151
 	},
 
 	KeywordIndexes = {
 		["effervescent"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
 		},
-		["dearest"] = {
-			-- emoji: 190 name: love
-			"190",
-		},
-		["be quiet"] = {
-			-- emoji: 107 name: shut up
-			"107",
+		["get-up-and-go"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
 		},
 		["transubstantiate"] = {
-			-- emoji: 10312 name: transform
-			"10312",
+			-- emoji: QQ_10312 name: transform
+			"QQ_10312",
 		},
-		["greeting"] = {
-			-- emoji: 10341 name: greeting
-			"10341",
+		["analyse"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
 		},
 		["awful"] = {
-			-- emoji: 10380 name: awesome
-			"10380",
+			-- emoji: QQ_10380 name: awesome
+			"QQ_10380",
+			-- emoji: QQ_10356 name: 666 (awesome)
+			"QQ_10356",
+		},
+		["braggart"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
 		},
 		["frothy"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
 		},
 		["yeah"] = {
-			-- emoji: 10355 name: yeah
-			"10355",
-		},
-		["kiss"] = {
-			-- emoji: 10360 name: kiss
-			"10360",
-			-- emoji: 10360 name: kiss
-			"10360",
-		},
-		["bam"] = {
-			-- emoji: 142 name: clap
-			"142",
+			-- emoji: QQ_10355 name: yeah
+			"QQ_10355",
 		},
 		["anguish"] = {
-			-- emoji: 135 name: torture
-			"135",
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
 		},
 		["score"] = {
-			-- emoji: 149 name: grievance
-			"149",
+			-- emoji: QQ_149 name: grievance
+			"QQ_149",
 		},
 		["tea"] = {
-			-- emoji: 241 name: tea
-			"241",
+			-- emoji: QQ_241 name: tea
+			"QQ_241",
 		},
-		["bar"] = {
-			-- emoji: 168 name: cake
-			"168",
+		["overjealous"] = {
+			-- emoji: QQ_10273 name: i’m jealous
+			"QQ_10273",
 		},
 		["poop"] = {
-			-- emoji: 174 name: poop
-			"174",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
 		},
 		["pick"] = {
-			-- emoji: 10277 name: woof
-			"10277",
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+			-- emoji: QQ_10277 name: woof
+			"QQ_10277",
+		},
+		["human action"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
 		},
 		["scorn"] = {
-			-- emoji: 148 name: disdain
-			"148",
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
 		},
-		["no more"] = {
-			-- emoji: 188 name: NO
-			"188",
-		},
-		["cube"] = {
-			-- emoji: 10358 name: dice
-			"10358",
+		["near"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
 		},
 		["inept"] = {
-			-- emoji: 110 name: awkward
-			"110",
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
 		},
-		["jump"] = {
-			-- emoji: 192 name: jump
-			"192",
-			-- emoji: 192 name: jump
-			"192",
+		["energy"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
 		},
 		["rap"] = {
-			-- emoji: 138 name: knock
-			"138",
-			-- emoji: 138 name: knock
-			"138",
-		},
-		["pooh-pooh"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
 		},
 		["banger"] = {
-			-- emoji: 121002 name: firecracker
-			"121002",
+			-- emoji: QQ_121002 name: firecracker
+			"QQ_121002",
 		},
-		["solarize"] = {
-			-- emoji: 176 name: sun
-			"176",
+		["thus"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
 		},
-		["shrink"] = {
-			-- emoji: 164 name: wither
-			"164",
+		["upwardly"] = {
+			-- emoji: QQ_271 name: thumbs up
+			"QQ_271",
 		},
-		["shock"] = {
-			-- emoji: 103 name: daze
-			"103",
+		["virtually"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
 		},
-		["nictitate"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["raw"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
 		},
 		["weft"] = {
-			-- emoji: 10277 name: woof
-			"10277",
-		},
-		["angry"] = {
-			-- emoji: 10326 name: angry
-			"10326",
-		},
-		["keep mum"] = {
-			-- emoji: 107 name: shut up
-			"107",
-		},
-		["sleep together"] = {
-			-- emoji: 190 name: love
-			"190",
-		},
-		["panic"] = {
-			-- emoji: 153 name: scare
-			"153",
-		},
-		["patty"] = {
-			-- emoji: 168 name: cake
-			"168",
-		},
-		["garget"] = {
-			-- emoji: 251 name: poke
-			"251",
-		},
-		["firework"] = {
-			-- emoji: 10333 name: firework
-			"10333",
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+			-- emoji: QQ_10277 name: woof
+			"QQ_10277",
 		},
 		["cool down"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 129 name: chill
-			"129",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
 		},
-		["gamy"] = {
-			-- emoji: 112 name: naughty
-			"112",
+		["3"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
+		},
+		["selection"] = {
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+		},
+		["flirt"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
+		},
+		["left"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
+		},
+		["clutch"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["flying lizard"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
 		},
 		["emetic"] = {
-			-- emoji: 119 name: vomit
-			"119",
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
 		},
 		["wink"] = {
-			-- emoji: 242 name: blink
-			"242",
-			-- emoji: 242 name: blink
-			"242",
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
 		},
 		["the like"] = {
-			-- emoji: 179 name: like
-			"179",
+			-- emoji: QQ_179 name: like
+			"QQ_179",
 		},
-		["enquiry"] = {
-			-- emoji: 132 name: question
-			"132",
+		["fagot"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
 		},
 		["snort"] = {
-			-- emoji: 120 name: snicker
-			"120",
-		},
-		["self-important"] = {
-			-- emoji: 123 name: arrogant
-			"123",
+			-- emoji: QQ_120 name: snicker
+			"QQ_120",
 		},
 		["iciness"] = {
-			-- emoji: 129 name: chill
-			"129",
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+		},
+		["ptyalise"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
+		},
+		["commodity"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
 		},
 		["minatory"] = {
-			-- emoji: 151 name: sinister
-			"151",
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
 		},
 		["poise"] = {
-			-- emoji: 116 name: cool
-			"116",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
+		},
+		["troika"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
 		},
 		["lionise"] = {
-			-- emoji: 10320 name: celebrate
-			"10320",
-		},
-		["strong"] = {
-			-- emoji: 10349 name: strong
-			"10349",
-		},
-		["throb"] = {
-			-- emoji: 193 name: shiver
-			"193",
-		},
-		["spectre"] = {
-			-- emoji: 257 name: ghost
-			"257",
+			-- emoji: QQ_10320 name: celebrate
+			"QQ_10320",
 		},
 		["turd"] = {
-			-- emoji: 174 name: poop
-			"174",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
+		},
+		["glossy"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
 		},
 		["daze"] = {
-			-- emoji: 103 name: daze
-			"103",
-			-- emoji: 103 name: daze
-			"103",
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
 		},
-		["Oklahoma"] = {
-			-- emoji: 189 name: OK
-			"189",
+		["buttock"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
 		},
-		["shiver"] = {
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 193 name: shiver
-			"193",
-			-- emoji: 193 name: shiver
-			"193",
+		["G"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
+		},
+		["1000"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
 		},
 		["roll"] = {
-			-- emoji: 194 name: seethe
-			"194",
-			-- emoji: 199 name: wave
-			"199",
+			-- emoji: QQ_194 name: seethe
+			"QQ_194",
 		},
 		["synodic month"] = {
-			-- emoji: 175 name: moon
-			"175",
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
 		},
-		["empty-headed"] = {
-			-- emoji: 134 name: dizzy
-			"134",
-		},
-		["ghostwriter"] = {
-			-- emoji: 257 name: ghost
-			"257",
+		["turn"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
 		},
 		["vertiginous"] = {
-			-- emoji: 134 name: dizzy
-			"134",
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
 		},
-		["make out"] = {
-			-- emoji: 190 name: love
-			"190",
+		["the Tempter"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
 		},
-		["blaspheme"] = {
-			-- emoji: 131 name: curse
-			"131",
+		["K"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
+		},
+		["M"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
+		},
+		["orotund"] = {
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["Dragon"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
 		},
 		["sleep"] = {
-			-- emoji: 108 name: sleep
-			"108",
-			-- emoji: 108 name: sleep
-			"108",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
+		},
+		["gold"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
 		},
 		["hungry"] = {
-			-- emoji: 124 name: hungry
-			"124",
-		},
-		["freeze off"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_124 name: hungry
+			"QQ_124",
 		},
 		["pitiable"] = {
-			-- emoji: 154 name: pitiful
-			"154",
-		},
-		["see"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
 		},
 		["sang-froid"] = {
-			-- emoji: 116 name: cool
-			"116",
-		},
-		["call into question"] = {
-			-- emoji: 132 name: question
-			"132",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
 		},
 		["same"] = {
-			-- emoji: 179 name: like
-			"179",
+			-- emoji: QQ_179 name: like
+			"QQ_179",
+		},
+		["Au"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
 		},
 		["sicken"] = {
-			-- emoji: 10323 name: disgust
-			"10323",
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
 		},
 		["umber"] = {
-			-- emoji: 160 name: coffee
-			"160",
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
 		},
-		["firecracker"] = {
-			-- emoji: 121002 name: firecracker
-			"121002",
+		["bowing"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
+		},
+		["polishing"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
+		},
+		["boldness"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
+		},
+		["eyeless"] = {
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
+		},
+		["unseeing"] = {
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
 		},
 		["stump"] = {
-			-- emoji: 10376 name: stomp
-			"10376",
+			-- emoji: QQ_10376 name: stomp
+			"QQ_10376",
 		},
 		["naughty"] = {
-			-- emoji: 112 name: naughty
-			"112",
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
 		},
-		["dear"] = {
-			-- emoji: 190 name: love
-			"190",
+		["close"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
 		},
-		["nictate"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["secretly"] = {
+			-- emoji: QQ_10269 name: secretly observing
+			"QQ_10269",
+		},
+		["pass over"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
+		},
+		["rightfulness"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
 		},
 		["clenched fist"] = {
-			-- emoji: 185 name: fist
-			"185",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
+			-- emoji: QQ_185 name: fist
+			"QQ_185",
 		},
 		["weeping"] = {
-			-- emoji: 105 name: tears
-			"105",
+			-- emoji: QQ_10374 name: bobo tears
+			"QQ_10374",
+			-- emoji: QQ_10379 name: penguin tears
+			"QQ_10379",
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
+			-- emoji: QQ_105 name: tears
+			"QQ_105",
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
 		},
 		["parachuting"] = {
-			-- emoji: 192 name: jump
-			"192",
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
 		},
-		["log Z's"] = {
-			-- emoji: 108 name: sleep
-			"108",
+		["mightiness"] = {
+			-- emoji: QQ_10334 name: tiger’s might
+			"QQ_10334",
 		},
 		["candy kiss"] = {
-			-- emoji: 10360 name: kiss
-			"10360",
+			-- emoji: QQ_10360 name: kiss
+			"QQ_10360",
 		},
 		["maddened"] = {
-			-- emoji: 111 name: furious
-			"111",
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
 		},
-		["blast"] = {
-			-- emoji: 142 name: clap
-			"142",
+		["blood"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
 		},
 		["disdain"] = {
-			-- emoji: 148 name: disdain
-			"148",
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
 		},
-		["awesome"] = {
-			-- emoji: 10380 name: awesome
-			"10380",
+		["wipe"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
 		},
 		["halt"] = {
-			-- emoji: 186 name: lame
-			"186",
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
 		},
-		["repel"] = {
-			-- emoji: 10323 name: disgust
-			"10323",
+		["fingerbreadth"] = {
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
 		},
 		["wraith"] = {
-			-- emoji: 257 name: ghost
-			"257",
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
 		},
 		["blue"] = {
-			-- emoji: 112 name: naughty
-			"112",
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
 		},
-		["dummy up"] = {
-			-- emoji: 107 name: shut up
-			"107",
+		["outdoors"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
+		},
+		["throw"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
 		},
 		["bubbling"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
+		},
+		["dissect"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
 		},
 		["spin"] = {
-			-- emoji: 195 name: spin
-			"195",
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
 		["moving ridge"] = {
-			-- emoji: 199 name: wave
-			"199",
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["thank"] = {
+			-- emoji: QQ_10342 name: thank you (sarcastic)
+			"QQ_10342",
+		},
+		["arch"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
 		},
 		["eternal rest"] = {
-			-- emoji: 108 name: sleep
-			"108",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
 		},
-		["interview"] = {
-			-- emoji: 132 name: question
-			"132",
+		["leash"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
 		},
-		["gape"] = {
-			-- emoji: 147 name: yawn
-			"147",
+		["spit"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
 		},
-		["panic-struck"] = {
-			-- emoji: 126 name: terrified
-			"126",
+		["novel"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
 		},
 		["straining"] = {
-			-- emoji: 135 name: torture
-			"135",
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
 		},
-		["die"] = {
-			-- emoji: 10358 name: dice
-			"10358",
+		["niggling"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
 		},
-		["dig"] = {
-			-- emoji: 251 name: poke
-			"251",
+		["ace"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
 		},
-		["haunt"] = {
-			-- emoji: 257 name: ghost
-			"257",
+		["open up"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
 		},
 		["chill"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 193 name: shiver
-			"193",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
 		},
-		["scare"] = {
-			-- emoji: 153 name: scare
-			"153",
-			-- emoji: 153 name: scare
-			"153",
-			-- emoji: 10325 name: fright
-			"10325",
+		["nervure"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
 		},
 		["infuriated"] = {
-			-- emoji: 111 name: furious
-			"111",
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
 		},
 		["acclaim"] = {
-			-- emoji: 142 name: clap
-			"142",
-			-- emoji: 121009 name: acclaim
-			"121009",
-			-- emoji: 121009 name: acclaim
-			"121009",
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
 		},
 		["stun"] = {
-			-- emoji: 103 name: daze
-			"103",
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
 		},
-		["observe"] = {
-			-- emoji: 10320 name: celebrate
-			"10320",
-		},
-		["undulate"] = {
-			-- emoji: 199 name: wave
-			"199",
-		},
-		["be sick"] = {
-			-- emoji: 119 name: vomit
-			"119",
+		["good"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
 		},
 		["adios"] = {
-			-- emoji: 139 name: goodbye
-			"139",
-		},
-		["wish"] = {
-			-- emoji: 179 name: like
-			"179",
-		},
-		["acclamation"] = {
-			-- emoji: 121009 name: acclaim
-			"121009",
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
 		},
 		["spring"] = {
-			-- emoji: 192 name: jump
-			"192",
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
+		},
+		["wish"] = {
+			-- emoji: QQ_179 name: like
+			"QQ_179",
+		},
+		["acclamation"] = {
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
 		},
 		["ill-fated"] = {
-			-- emoji: 136 name: unlucky
-			"136",
+			-- emoji: QQ_136 name: unlucky
+			"QQ_136",
 		},
-		["step on"] = {
-			-- emoji: 180 name: step on
-			"180",
+		["act"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
 		},
 		["snicker"] = {
-			-- emoji: 120 name: snicker
-			"120",
-			-- emoji: 120 name: snicker
-			"120",
-		},
-		["leave"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+			-- emoji: QQ_120 name: snicker
+			"QQ_120",
 		},
 		["roseate"] = {
-			-- emoji: 163 name: rose
-			"163",
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
 		},
 		["patronage"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
 		},
 		["grievance"] = {
-			-- emoji: 149 name: grievance
-			"149",
+			-- emoji: QQ_149 name: grievance
+			"QQ_149",
 		},
-		["impregnable"] = {
-			-- emoji: 10349 name: strong
-			"10349",
+		["melon"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["laugh"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
+		},
+		["give thanks"] = {
+			-- emoji: QQ_10342 name: thank you (sarcastic)
+			"QQ_10342",
 		},
 		["artillery"] = {
-			-- emoji: 121034 name: gun
-			"121034",
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
 		},
 		["weather-beaten"] = {
-			-- emoji: 10263 name: weathered
-			"10263",
+			-- emoji: QQ_10263 name: weathered
+			"QQ_10263",
 		},
 		["wry face"] = {
-			-- emoji: 101 name: pout
-			"101",
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
+		},
+		["heroic poem"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
 		},
 		["shite"] = {
-			-- emoji: 174 name: poop
-			"174",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
 		},
 		["risque"] = {
-			-- emoji: 112 name: naughty
-			"112",
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
 		},
 		["adoration"] = {
-			-- emoji: 10318 name: worship
-			"10318",
+			-- emoji: QQ_10318 name: worship
+			"QQ_10318",
 		},
 		["forbidding"] = {
-			-- emoji: 151 name: sinister
-			"151",
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
 		},
 		["nincompoop"] = {
-			-- emoji: 174 name: poop
-			"174",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
 		},
 		["shade"] = {
-			-- emoji: 257 name: ghost
-			"257",
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
+		},
+		["pay"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
+		},
+		["stone's throw"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
 		},
 		["helpless"] = {
-			-- emoji: 244 name: helpless
-			"244",
-		},
-		["minacious"] = {
-			-- emoji: 151 name: sinister
-			"151",
-		},
-		["popsicle"] = {
-			-- emoji: 121012 name: lollipop
-			"121012",
-		},
-		["lolly"] = {
-			-- emoji: 121012 name: lollipop
-			"121012",
+			-- emoji: QQ_244 name: helpless
+			"QQ_244",
 		},
 		["toast"] = {
-			-- emoji: 10282 name: salute
-			"10282",
-		},
-		["knife"] = {
-			-- emoji: 171 name: knife
-			"171",
-			-- emoji: 171 name: knife
-			"171",
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
 		},
 		["afternoon tea"] = {
-			-- emoji: 241 name: tea
-			"241",
+			-- emoji: QQ_241 name: tea
+			"QQ_241",
 		},
-		["insolate"] = {
-			-- emoji: 176 name: sun
-			"176",
+		["threesome"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
 		},
-		["pink wine"] = {
-			-- emoji: 163 name: rose
-			"163",
+		["keep out"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
+		},
+		["therefore"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
+		},
+		["frigidity"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
 		},
 		["salutation"] = {
-			-- emoji: 10282 name: salute
-			"10282",
-			-- emoji: 10341 name: greeting
-			"10341",
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_10341 name: greeting
+			"QQ_10341",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
 		},
-		["fog"] = {
-			-- emoji: 103 name: daze
-			"103",
+		["wacky"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
 		},
-		["nerveless"] = {
-			-- emoji: 116 name: cool
-			"116",
+		["left hand"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
 		},
-		["squeeze"] = {
-			-- emoji: 178 name: hug
-			"178",
-			-- emoji: 178 name: hug
-			"178",
-		},
-		["tears"] = {
-			-- emoji: 105 name: tears
-			"105",
-		},
-		["winkle"] = {
-			-- emoji: 242 name: blink
-			"242",
-		},
-		["shy"] = {
-			-- emoji: 106 name: shy
-			"106",
-			-- emoji: 106 name: shy
-			"106",
-			-- emoji: 106 name: shy
-			"106",
-		},
-		["oppugn"] = {
-			-- emoji: 132 name: question
-			"132",
+		["mass medium"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
 		},
 		["raging"] = {
-			-- emoji: 10326 name: angry
-			"10326",
+			-- emoji: QQ_10326 name: angry
+			"QQ_10326",
 		},
-		["catch some Z's"] = {
-			-- emoji: 108 name: sleep
-			"108",
+		["young"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
 		},
-		["vomit up"] = {
-			-- emoji: 119 name: vomit
-			"119",
+		["blackguard"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
 		},
-		["batty"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
-		},
-		["solarise"] = {
-			-- emoji: 176 name: sun
-			"176",
-		},
-		["lamentable"] = {
-			-- emoji: 115 name: sad
-			"115",
-			-- emoji: 154 name: pitiful
-			"154",
-		},
-		["expectation"] = {
-			-- emoji: 10294 name: anticipation
-			"10294",
-		},
-		["beshrew"] = {
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["salute"] = {
-			-- emoji: 10282 name: salute
-			"10282",
-			-- emoji: 10282 name: salute
-			"10282",
-		},
-		["let up"] = {
-			-- emoji: 10285 name: slack off
-			"10285",
+		["medium"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
 		},
 		["overrefinement"] = {
-			-- emoji: 135 name: torture
-			"135",
-		},
-		["shrivel up"] = {
-			-- emoji: 164 name: wither
-			"164",
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
 		},
 		["erotic love"] = {
-			-- emoji: 190 name: love
-			"190",
+			-- emoji: QQ_190 name: love
+			"QQ_190",
 		},
 		["sleepy-eyed"] = {
-			-- emoji: 125 name: sleepy
-			"125",
+			-- emoji: QQ_125 name: sleepy
+			"QQ_125",
 		},
 		["sorry"] = {
-			-- emoji: 115 name: sad
-			"115",
-			-- emoji: 154 name: pitiful
-			"154",
+			-- emoji: QQ_115 name: sad
+			"QQ_115",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
 		},
 		["anticipation"] = {
-			-- emoji: 10294 name: anticipation
-			"10294",
+			-- emoji: QQ_10294 name: anticipation
+			"QQ_10294",
 		},
 		["interrogation"] = {
-			-- emoji: 132 name: question
-			"132",
-		},
-		["woozy"] = {
-			-- emoji: 134 name: dizzy
-			"134",
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
 		},
 		["light-headed"] = {
-			-- emoji: 134 name: dizzy
-			"134",
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
 		},
-		["conceited"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+		["left wing"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
 		},
 		["hidrosis"] = {
-			-- emoji: 127 name: sweating
-			"127",
+			-- emoji: QQ_127 name: sweating
+			"QQ_127",
 		},
 		["miaou"] = {
-			-- emoji: 10307 name: meow
-			"10307",
+			-- emoji: QQ_10307 name: meow
+			"QQ_10307",
 		},
 		["expectancy"] = {
-			-- emoji: 10294 name: anticipation
-			"10294",
-		},
-		["Aloha State"] = {
-			-- emoji: 10377 name: hi
-			"10377",
-		},
-		["diffident"] = {
-			-- emoji: 106 name: shy
-			"106",
+			-- emoji: QQ_10294 name: anticipation
+			"QQ_10294",
 		},
 		["miaow"] = {
-			-- emoji: 10307 name: meow
-			"10307",
+			-- emoji: QQ_10307 name: meow
+			"QQ_10307",
 		},
 		["pyrotechnic"] = {
-			-- emoji: 10333 name: firework
-			"10333",
-		},
-		["applaud"] = {
-			-- emoji: 142 name: clap
-			"142",
-			-- emoji: 121009 name: acclaim
-			"121009",
-		},
-		["close up"] = {
-			-- emoji: 107 name: shut up
-			"107",
+			-- emoji: QQ_10333 name: firework
+			"QQ_10333",
 		},
 		["ticker"] = {
-			-- emoji: 166 name: heart
-			"166",
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
 		},
-		["arrogant"] = {
-			-- emoji: 123 name: arrogant
-			"123",
-		},
-		["contemn"] = {
-			-- emoji: 148 name: disdain
-			"148",
+		["side of meat"] = {
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
 		},
 		["aplomb"] = {
-			-- emoji: 116 name: cool
-			"116",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
 		},
 		["embrace"] = {
-			-- emoji: 178 name: hug
-			"178",
+			-- emoji: QQ_178 name: hug
+			"QQ_178",
 		},
 		["teatime"] = {
-			-- emoji: 241 name: tea
-			"241",
+			-- emoji: QQ_241 name: tea
+			"QQ_241",
+		},
+		["cheek"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
 		},
 		["victory"] = {
-			-- emoji: 182 name: victory
-			"182",
+			-- emoji: QQ_182 name: victory
+			"QQ_182",
 		},
-		["bound"] = {
-			-- emoji: 192 name: jump
-			"192",
-		},
-		["get out"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+		["rich"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
 		},
 		["pout"] = {
-			-- emoji: 101 name: pout
-			"101",
-			-- emoji: 101 name: pout
-			"101",
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
 		},
 		["coquettish"] = {
-			-- emoji: 102 name: flirtatious
-			"102",
+			-- emoji: QQ_102 name: flirtatious
+			"QQ_102",
 		},
-		["panic attack"] = {
-			-- emoji: 153 name: scare
-			"153",
+		["larger-than-life"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
+		},
+		["peak"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
 		},
 		["quietus"] = {
-			-- emoji: 108 name: sleep
-			"108",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
 		},
-		["jump out"] = {
-			-- emoji: 192 name: jump
-			"192",
+		["jest"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
 		},
 		["praise"] = {
-			-- emoji: 10370 name: congratulations
-			"10370",
+			-- emoji: QQ_10370 name: congratulations
+			"QQ_10370",
 		},
-		["birl"] = {
-			-- emoji: 195 name: spin
-			"195",
+		["cheer"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
 		},
 		["crap"] = {
-			-- emoji: 174 name: poop
-			"174",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
 		},
 		["contempt"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
+		},
+		["bald-headed"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
 		},
 		["coffee"] = {
-			-- emoji: 160 name: coffee
-			"160",
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
 		},
 		["hornpout"] = {
-			-- emoji: 101 name: pout
-			"101",
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
 		},
-		["unlucky"] = {
-			-- emoji: 136 name: unlucky
-			"136",
-		},
-		["strike hard"] = {
-			-- emoji: 138 name: knock
-			"138",
+		["sweat"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
 		},
 		["pledge"] = {
-			-- emoji: 10282 name: salute
-			"10282",
-		},
-		["Ohio"] = {
-			-- emoji: 10287 name: oh
-			"10287",
-		},
-		["hug"] = {
-			-- emoji: 178 name: hug
-			"178",
-			-- emoji: 178 name: hug
-			"178",
-		},
-		["swear"] = {
-			-- emoji: 131 name: curse
-			"131",
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
 		},
 		["sopor"] = {
-			-- emoji: 108 name: sleep
-			"108",
-		},
-		["hi"] = {
-			-- emoji: 10377 name: hi
-			"10377",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
 		},
 		["winking"] = {
-			-- emoji: 242 name: blink
-			"242",
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
 		},
-		["hum"] = {
-			-- emoji: 194 name: seethe
-			"194",
+		["cheerfulness"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
 		},
 		["howdy"] = {
-			-- emoji: 10377 name: hi
-			"10377",
-		},
-		["deplorable"] = {
-			-- emoji: 115 name: sad
-			"115",
-			-- emoji: 154 name: pitiful
-			"154",
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
 		},
 		["effervescing"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
 		},
-		["sick"] = {
-			-- emoji: 119 name: vomit
-			"119",
+		["springiness"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
 		},
-		["shut up"] = {
-			-- emoji: 107 name: shut up
-			"107",
-			-- emoji: 107 name: shut up
-			"107",
+		["number"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
 		},
-		["flourish"] = {
-			-- emoji: 199 name: wave
-			"199",
+		["break down"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
 		},
-		["agony"] = {
-			-- emoji: 135 name: torture
-			"135",
+		["peg"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
 		},
 		["spin around"] = {
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
 		["fierce"] = {
-			-- emoji: 111 name: furious
-			"111",
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
 		},
 		["slack"] = {
-			-- emoji: 10285 name: slack off
-			"10285",
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["rip"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
 		},
 		["bump"] = {
-			-- emoji: 138 name: knock
-			"138",
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
+		},
+		["barefaced"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
 		},
 		["nap"] = {
-			-- emoji: 108 name: sleep
-			"108",
-		},
-		["fear"] = {
-			-- emoji: 10325 name: fright
-			"10325",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
 		},
 		["similar"] = {
-			-- emoji: 179 name: like
-			"179",
+			-- emoji: QQ_179 name: like
+			"QQ_179",
 		},
 		["ninny"] = {
-			-- emoji: 174 name: poop
-			"174",
-		},
-		["belt"] = {
-			-- emoji: 138 name: knock
-			"138",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
 		},
 		["lionize"] = {
-			-- emoji: 10320 name: celebrate
-			"10320",
-		},
-		["vain"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+			-- emoji: QQ_10320 name: celebrate
+			"QQ_10320",
 		},
 		["timid"] = {
-			-- emoji: 106 name: shy
-			"106",
+			-- emoji: QQ_106 name: shy
+			"QQ_106",
 		},
 		["alligatored"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
+		},
+		["joystick"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
+		},
+		["shut out"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
 		},
 		["weathered"] = {
-			-- emoji: 10263 name: weathered
-			"10263",
+			-- emoji: QQ_10263 name: weathered
+			"QQ_10263",
 		},
-		["drink"] = {
-			-- emoji: 10282 name: salute
-			"10282",
-		},
-		["alright"] = {
-			-- emoji: 189 name: OK
-			"189",
-		},
-		["handclasp"] = {
-			-- emoji: 181 name: handshake
-			"181",
+		["mental capacity"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
 		},
 		["exit"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["leopard"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
 		},
 		["assuredness"] = {
-			-- emoji: 116 name: cool
-			"116",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
 		},
 		["chapped"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
 		},
-		["halting"] = {
-			-- emoji: 186 name: lame
-			"186",
+		["analyze"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
 		},
 		["tea leaf"] = {
-			-- emoji: 241 name: tea
-			"241",
+			-- emoji: QQ_241 name: tea
+			"QQ_241",
 		},
-		["curse"] = {
-			-- emoji: 131 name: curse
-			"131",
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["hello"] = {
-			-- emoji: 10377 name: hi
-			"10377",
-		},
-		["roll in the hay"] = {
-			-- emoji: 190 name: love
-			"190",
-		},
-		["imprecate"] = {
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["engaged"] = {
-			-- emoji: 10373 name: busy
-			"10373",
+		["Sus scrofa"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
 		},
 		["gun"] = {
-			-- emoji: 121034 name: gun
-			"121034",
-			-- emoji: 121034 name: gun
-			"121034",
-		},
-		["pink"] = {
-			-- emoji: 138 name: knock
-			"138",
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
 		},
 		["expressionless"] = {
-			-- emoji: 10284 name: expressionless
-			"10284",
+			-- emoji: QQ_10284 name: expressionless
+			"QQ_10284",
 		},
 		["Lord's Day"] = {
-			-- emoji: 176 name: sun
-			"176",
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
 		},
-		["gonorrhea"] = {
-			-- emoji: 142 name: clap
-			"142",
-		},
-		["hero-worship"] = {
-			-- emoji: 10318 name: worship
-			"10318",
+		["queen"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
 		},
 		["snog"] = {
-			-- emoji: 10360 name: kiss
-			"10360",
+			-- emoji: QQ_10360 name: kiss
+			"QQ_10360",
 		},
-		["ping"] = {
-			-- emoji: 138 name: knock
-			"138",
+		["lustrous"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
 		},
 		["affright"] = {
-			-- emoji: 153 name: scare
-			"153",
-			-- emoji: 10325 name: fright
-			"10325",
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+			-- emoji: QQ_10325 name: fright
+			"QQ_10325",
 		},
-		["stamp"] = {
-			-- emoji: 10376 name: stomp
-			"10376",
+		["mineral vein"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
 		},
-		["stupor"] = {
-			-- emoji: 103 name: daze
-			"103",
-		},
-		["majestic"] = {
-			-- emoji: 104 name: proud
-			"104",
-		},
-		["luckiness"] = {
-			-- emoji: 10405 name: good luck
-			"10405",
-		},
-		["lure"] = {
-			-- emoji: 184 name: tempt
-			"184",
-		},
-		["wassail"] = {
-			-- emoji: 10282 name: salute
-			"10282",
-		},
-		["whirl"] = {
-			-- emoji: 195 name: spin
-			"195",
-			-- emoji: 195 name: spin
-			"195",
-		},
-		["gunslinger"] = {
-			-- emoji: 121034 name: gun
-			"121034",
-		},
-		["inquiry"] = {
-			-- emoji: 132 name: question
-			"132",
+		["instant"] = {
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
 		},
 		["military greeting"] = {
-			-- emoji: 10282 name: salute
-			"10282",
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
 		},
 		["Okla."] = {
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
 		},
-		["bedamn"] = {
-			-- emoji: 131 name: curse
-			"131",
+		["yield"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
 		},
-		["grudge"] = {
-			-- emoji: 149 name: grievance
-			"149",
+		["have"] = {
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
 		},
 		["Sooner State"] = {
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
 		},
-		["herald"] = {
-			-- emoji: 121009 name: acclaim
-			"121009",
+		["maniacal"] = {
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
 		},
-		["featherbrained"] = {
-			-- emoji: 134 name: dizzy
-			"134",
+		["jape"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
 		},
-		["osculate"] = {
-			-- emoji: 10360 name: kiss
-			"10360",
-		},
-		["delight"] = {
-			-- emoji: 10353 name: please
-			"10353",
+		["frump"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
 		},
 		["roast"] = {
-			-- emoji: 138 name: knock
-			"138",
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
 		},
 		["question"] = {
-			-- emoji: 132 name: question
-			"132",
-			-- emoji: 132 name: question
-			"132",
-		},
-		["break"] = {
-			-- emoji: 10405 name: good luck
-			"10405",
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
 		},
 		["SOB"] = {
-			-- emoji: 109 name: sob
-			"109",
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
 		},
-		["barmy"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
+		["boat"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
 		},
-		["nictitation"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["sarcastic"] = {
+			-- emoji: QQ_10342 name: thank you (sarcastic)
+			"QQ_10342",
+		},
+		["A-one"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
+		},
+		["milkshake"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+		},
+		["milk shake"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
 		},
 		["Camellia sinensis"] = {
-			-- emoji: 241 name: tea
-			"241",
+			-- emoji: QQ_241 name: tea
+			"QQ_241",
+		},
+		["reversal"] = {
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
 		},
 		["deep brown"] = {
-			-- emoji: 160 name: coffee
-			"160",
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
+		},
+		["Prince of Darkness"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
 		},
 		["bubbly"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
+		},
+		["shingle"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+		},
+		["burnished"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
 		},
 		["rose"] = {
-			-- emoji: 163 name: rose
-			"163",
-			-- emoji: 163 name: rose
-			"163",
-		},
-		["breathlessness"] = {
-			-- emoji: 109 name: sob
-			"109",
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
 		},
 		["officious"] = {
-			-- emoji: 10373 name: busy
-			"10373",
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
 		},
-		["idolize"] = {
-			-- emoji: 10318 name: worship
-			"10318",
+		["thousand"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
 		},
-		["comparable"] = {
-			-- emoji: 179 name: like
-			"179",
+		["chiliad"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
 		},
-		["meat cleaver"] = {
-			-- emoji: 155 name: cleaver
-			"155",
+		["skin senses"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+		},
+		["New"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
 		},
 		["shake"] = {
-			-- emoji: 181 name: handshake
-			"181",
-			-- emoji: 193 name: shiver
-			"193",
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+			-- emoji: QQ_181 name: handshake
+			"QQ_181",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
 		},
 		["kudos"] = {
-			-- emoji: 10370 name: congratulations
-			"10370",
+			-- emoji: QQ_10370 name: congratulations
+			"QQ_10370",
 		},
-		["happy chance"] = {
-			-- emoji: 10405 name: good luck
-			"10405",
+		["almost"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
 		},
-		["sob"] = {
-			-- emoji: 109 name: sob
-			"109",
+		["eat up"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
+		},
+		["reefer"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
 		},
 		["interrogative"] = {
-			-- emoji: 132 name: question
-			"132",
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
 		},
 		["spook"] = {
-			-- emoji: 257 name: ghost
-			"257",
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
 		},
-		["horn in"] = {
-			-- emoji: 251 name: poke
-			"251",
+		["screen"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
 		},
-		["thrill"] = {
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 193 name: shiver
-			"193",
-			-- emoji: 193 name: shiver
-			"193",
+		["pig"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
 		},
-		["get laid"] = {
-			-- emoji: 190 name: love
-			"190",
+		["gabfest"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
 		},
-		["smile"] = {
-			-- emoji: 100 name: smile
-			"100",
-			-- emoji: 100 name: smile
-			"100",
-			-- emoji: 113 name: grin
-			"113",
+		["pin"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
 		},
-		["shush"] = {
-			-- emoji: 10402 name: shush
-			"10402",
+		["faggot"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
 		},
-		["fine"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 189 name: OK
-			"189",
-			-- emoji: 189 name: OK
-			"189",
+		["coquetry"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
 		},
 		["twirl"] = {
-			-- emoji: 195 name: spin
-			"195",
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
 		["revere"] = {
-			-- emoji: 10318 name: worship
-			"10318",
-		},
-		["make love"] = {
-			-- emoji: 190 name: love
-			"190",
+			-- emoji: QQ_10318 name: worship
+			"QQ_10318",
 		},
 		["laggard"] = {
-			-- emoji: 251 name: poke
-			"251",
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
 		},
 		["perspiration"] = {
-			-- emoji: 127 name: sweating
-			"127",
+			-- emoji: QQ_127 name: sweating
+			"QQ_127",
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
 		},
 		["twisting"] = {
-			-- emoji: 135 name: torture
-			"135",
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
-		["moon around"] = {
-			-- emoji: 175 name: moon
-			"175",
+		["on the Q.T."] = {
+			-- emoji: QQ_10269 name: secretly observing
+			"QQ_10269",
 		},
-		["felicitous"] = {
-			-- emoji: 10400 name: happy
-			"10400",
+		["new"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
 		},
-		["hoops"] = {
-			-- emoji: 158 name: basketball
-			"158",
+		["female monarch"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
 		},
-		["dirt"] = {
-			-- emoji: 174 name: poop
-			"174",
+		["heroic"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
 		},
 		["touch"] = {
-			-- emoji: 257 name: ghost
-			"257",
-		},
-		["sexual love"] = {
-			-- emoji: 190 name: love
-			"190",
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
 		},
 		["spicy"] = {
-			-- emoji: 112 name: naughty
-			"112",
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
+		},
+		["brass"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
+		},
+		["real"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
+		},
+		["clamant"] = {
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
 		},
 		["miaul"] = {
-			-- emoji: 10307 name: meow
-			"10307",
+			-- emoji: QQ_10307 name: meow
+			"QQ_10307",
 		},
-		["brood"] = {
-			-- emoji: 101 name: pout
-			"101",
+		["squealer"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
+		},
+		["ptyalize"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
 		},
 		["sunbathe"] = {
-			-- emoji: 176 name: sun
-			"176",
-		},
-		["heart"] = {
-			-- emoji: 166 name: heart
-			"166",
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
 		},
 		["cleaver"] = {
-			-- emoji: 155 name: cleaver
-			"155",
+			-- emoji: QQ_155 name: cleaver
+			"QQ_155",
 		},
-		["horned pout"] = {
-			-- emoji: 101 name: pout
-			"101",
-		},
-		["unexpressive"] = {
-			-- emoji: 10284 name: expressionless
-			"10284",
-		},
-		["coat"] = {
-			-- emoji: 168 name: cake
-			"168",
+		["Army of the Pure"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
 		},
 		["tempt"] = {
-			-- emoji: 184 name: tempt
-			"184",
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
 		},
 		["gleeful"] = {
-			-- emoji: 10412 name: joyful
-			"10412",
+			-- emoji: QQ_10412 name: joyful
+			"QQ_10412",
 		},
 		["thirsty"] = {
-			-- emoji: 124 name: hungry
-			"124",
-		},
-		["meow"] = {
-			-- emoji: 10307 name: meow
-			"10307",
-			-- emoji: 10307 name: meow
-			"10307",
+			-- emoji: QQ_124 name: hungry
+			"QQ_124",
 		},
 		["foamy"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
+		},
+		["tons"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
 		},
 		["Sunday"] = {
-			-- emoji: 176 name: sun
-			"176",
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
 		},
-		["prediction"] = {
-			-- emoji: 10294 name: anticipation
-			"10294",
+		["trade good"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
 		},
-		["present"] = {
-			-- emoji: 10282 name: salute
-			"10282",
+		["shining"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
+		},
+		["roue"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
 		},
 		["twist"] = {
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
-		["no"] = {
-			-- emoji: 188 name: NO
-			"188",
-			-- emoji: 188 name: NO
-			"188",
-			-- emoji: 188 name: NO
-			"188",
+		["dusty"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
+		},
+		["black eye"] = {
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
+		},
+		["rich people"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
 		},
 		["jumping"] = {
-			-- emoji: 192 name: jump
-			"192",
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
 		},
 		["interfering"] = {
-			-- emoji: 10373 name: busy
-			"10373",
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
 		},
 		["condescension"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
 		},
-		["blinking"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["frigidness"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
 		},
-		["panic-stricken"] = {
-			-- emoji: 126 name: terrified
-			"126",
+		["rock 'n' roll"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
 		},
 		["quiver"] = {
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 193 name: shiver
-			"193",
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
 		},
 		["despise"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
 		},
-		["hunky-dory"] = {
-			-- emoji: 189 name: OK
-			"189",
+		["slack water"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["green-eyed"] = {
+			-- emoji: QQ_10273 name: i’m jealous
+			"QQ_10273",
 		},
 		["plaudit"] = {
-			-- emoji: 121009 name: acclaim
-			"121009",
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
 		},
-		["sleep with"] = {
-			-- emoji: 190 name: love
-			"190",
-		},
-		["head"] = {
-			-- emoji: 132 name: question
-			"132",
-		},
-		["transform"] = {
-			-- emoji: 10312 name: transform
-			"10312",
+		["running"] = {
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
 		},
 		["haze"] = {
-			-- emoji: 103 name: daze
-			"103",
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
 		},
 		["shortness of breath"] = {
-			-- emoji: 109 name: sob
-			"109",
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
 		},
 		["busy"] = {
-			-- emoji: 10373 name: busy
-			"10373",
-			-- emoji: 10373 name: busy
-			"10373",
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
 		},
 		["OH"] = {
-			-- emoji: 10287 name: oh
-			"10287",
+			-- emoji: QQ_10266 name: oh yo
+			"QQ_10266",
+			-- emoji: QQ_10287 name: oh
+			"QQ_10287",
+		},
+		["slob"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
+		},
+		["gilt"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
 		},
 		["skull"] = {
-			-- emoji: 137 name: skull
-			"137",
-		},
-		["savage"] = {
-			-- emoji: 111 name: furious
-			"111",
-		},
-		["ok"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_137 name: skull
+			"QQ_137",
 		},
 		["OK"] = {
-			-- emoji: 189 name: OK
-			"189",
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
 		},
 		["buss"] = {
-			-- emoji: 10360 name: kiss
-			"10360",
-			-- emoji: 10360 name: kiss
-			"10360",
-		},
-		["mew"] = {
-			-- emoji: 10307 name: meow
-			"10307",
-			-- emoji: 10307 name: meow
-			"10307",
-		},
-		["cripple"] = {
-			-- emoji: 186 name: lame
-			"186",
-		},
-		["unassailable"] = {
-			-- emoji: 10349 name: strong
-			"10349",
+			-- emoji: QQ_10360 name: kiss
+			"QQ_10360",
 		},
 		["No"] = {
-			-- emoji: 188 name: NO
-			"188",
+			-- emoji: QQ_188 name: NO
+			"QQ_188",
 		},
-		["disorientation"] = {
-			-- emoji: 118 name: freak out
-			"118",
+		["blossom"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
 		},
 		["endeavor"] = {
-			-- emoji: 130 name: strive
-			"130",
+			-- emoji: QQ_130 name: strive
+			"QQ_130",
 		},
-		["waving"] = {
-			-- emoji: 199 name: wave
-			"199",
-		},
-		["brandish"] = {
-			-- emoji: 199 name: wave
-			"199",
+		["vigour"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
 		},
 		["despite"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
 		},
-		["fright"] = {
-			-- emoji: 153 name: scare
-			"153",
-			-- emoji: 10325 name: fright
-			"10325",
-			-- emoji: 10325 name: fright
-			"10325",
+		["super"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
 		},
-		["go out"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+		["saliva"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
 		},
-		["ill-starred"] = {
-			-- emoji: 136 name: unlucky
-			"136",
+		["English"] = {
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
 		},
-		["eclat"] = {
-			-- emoji: 121009 name: acclaim
-			"121009",
+		["productive"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
 		},
-		["all right"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 189 name: OK
-			"189",
-			-- emoji: 189 name: OK
-			"189",
+		["cheer up"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
 		},
-		["coffee berry"] = {
-			-- emoji: 160 name: coffee
-			"160",
+		["epic poem"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
+		},
+		["small talk"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["use up"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
+		},
+		["honorable"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
 		},
 		["clumsy"] = {
-			-- emoji: 110 name: awkward
-			"110",
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
 		},
 		["lame"] = {
-			-- emoji: 186 name: lame
-			"186",
-			-- emoji: 186 name: lame
-			"186",
-			-- emoji: 186 name: lame
-			"186",
-		},
-		["transmute"] = {
-			-- emoji: 10312 name: transform
-			"10312",
-		},
-		["cunning"] = {
-			-- emoji: 121 name: cute
-			"121",
-		},
-		["all-day sucker"] = {
-			-- emoji: 121012 name: lollipop
-			"121012",
-		},
-		["curl"] = {
-			-- emoji: 199 name: wave
-			"199",
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
 		},
 		["meddling"] = {
-			-- emoji: 10373 name: busy
-			"10373",
-		},
-		["coolheaded"] = {
-			-- emoji: 116 name: cool
-			"116",
-		},
-		["inviolable"] = {
-			-- emoji: 10349 name: strong
-			"10349",
-		},
-		["threatening"] = {
-			-- emoji: 151 name: sinister
-			"151",
-		},
-		["jab"] = {
-			-- emoji: 251 name: poke
-			"251",
-		},
-		["giddy"] = {
-			-- emoji: 134 name: dizzy
-			"134",
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
 		},
 		["tailspin"] = {
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
 		["awe-inspiring"] = {
-			-- emoji: 10380 name: awesome
-			"10380",
-		},
-		["cold sweat"] = {
-			-- emoji: 117 name: cold sweat
-			"117",
+			-- emoji: QQ_10380 name: awesome
+			"QQ_10380",
+			-- emoji: QQ_10356 name: 666 (awesome)
+			"QQ_10356",
 		},
 		["java"] = {
-			-- emoji: 160 name: coffee
-			"160",
-		},
-		["Ameiurus Melas"] = {
-			-- emoji: 101 name: pout
-			"101",
-		},
-		["bang"] = {
-			-- emoji: 138 name: knock
-			"138",
-			-- emoji: 142 name: clap
-			"142",
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
 		},
 		["cake"] = {
-			-- emoji: 168 name: cake
-			"168",
-			-- emoji: 168 name: cake
-			"168",
+			-- emoji: QQ_168 name: cake
+			"QQ_168",
+		},
+		["let"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
+		},
+		["quagmire"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["expectoration"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
 		},
 		["boil"] = {
-			-- emoji: 194 name: seethe
-			"194",
+			-- emoji: QQ_194 name: seethe
+			"QQ_194",
+		},
+		["goodness"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
 		},
 		["joyful"] = {
-			-- emoji: 10412 name: joyful
-			"10412",
-		},
-		["good fortune"] = {
-			-- emoji: 10405 name: good luck
-			"10405",
-		},
-		["oscitance"] = {
-			-- emoji: 147 name: yawn
-			"147",
-		},
-		["die away"] = {
-			-- emoji: 10285 name: slack off
-			"10285",
-		},
-		["how-do-you-do"] = {
-			-- emoji: 10377 name: hi
-			"10377",
-		},
-		["idolise"] = {
-			-- emoji: 10318 name: worship
-			"10318",
+			-- emoji: QQ_10412 name: joyful
+			"QQ_10412",
 		},
 		["clack"] = {
-			-- emoji: 142 name: clap
-			"142",
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
+		},
+		["pace"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
+		},
+		["concealment"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
 		},
 		["angered"] = {
-			-- emoji: 111 name: furious
-			"111",
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
 		},
-		["puke"] = {
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["Sun"] = {
-			-- emoji: 176 name: sun
-			"176",
-		},
-		["prevision"] = {
-			-- emoji: 10294 name: anticipation
-			"10294",
+		["one thousand"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
 		},
 		["reel"] = {
-			-- emoji: 195 name: spin
-			"195",
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
 		},
-		["Lama pacos"] = {
-			-- emoji: 255 name: alpaca
-			"255",
+		["eye"] = {
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+		},
+		["monstrosity"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
 		},
 		["pathetic"] = {
-			-- emoji: 154 name: pitiful
-			"154",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
 		},
-		["meddlesome"] = {
-			-- emoji: 10373 name: busy
-			"10373",
-		},
-		["flash"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["puckish"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
 		},
 		["impassive"] = {
-			-- emoji: 10284 name: expressionless
-			"10284",
+			-- emoji: QQ_10284 name: expressionless
+			"QQ_10284",
 		},
-		["nictation"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["gilded"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
+		},
+		["goofy"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
 		},
 		["athirst"] = {
-			-- emoji: 124 name: hungry
-			"124",
+			-- emoji: QQ_124 name: hungry
+			"QQ_124",
 		},
-		["fist"] = {
-			-- emoji: 185 name: fist
-			"185",
-		},
-		["vomit"] = {
-			-- emoji: 119 name: vomit
-			"119",
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["cute"] = {
-			-- emoji: 121 name: cute
-			"121",
+		["devil"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
 		},
 		["sleepyheaded"] = {
-			-- emoji: 125 name: sleepy
-			"125",
+			-- emoji: QQ_125 name: sleepy
+			"QQ_125",
 		},
-		["sun"] = {
-			-- emoji: 176 name: sun
-			"176",
-			-- emoji: 176 name: sun
-			"176",
+		["acquire"] = {
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
 		},
-		["pent"] = {
-			-- emoji: 107 name: shut up
-			"107",
+		["fertile"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
 		},
-		["good night"] = {
-			-- emoji: 10384 name: good night
-			"10384",
+		["routine"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
 		},
-		["adieu"] = {
-			-- emoji: 139 name: goodbye
-			"139",
-		},
-		["fade"] = {
-			-- emoji: 164 name: wither
-			"164",
-		},
-		["oscitancy"] = {
-			-- emoji: 147 name: yawn
-			"147",
-		},
-		["metamorphose"] = {
-			-- emoji: 10312 name: transform
-			"10312",
+		["arc"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
 		},
 		["mettle"] = {
-			-- emoji: 166 name: heart
-			"166",
-		},
-		["watermelon vine"] = {
-			-- emoji: 156 name: watermelon
-			"156",
-		},
-		["crippled"] = {
-			-- emoji: 186 name: lame
-			"186",
-		},
-		["panicky"] = {
-			-- emoji: 126 name: terrified
-			"126",
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
 		},
 		["nauseant"] = {
-			-- emoji: 119 name: vomit
-			"119",
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
 		},
 		["watermelon"] = {
-			-- emoji: 156 name: watermelon
-			"156",
+			-- emoji: QQ_156 name: watermelon
+			"QQ_156",
 		},
-		["auf wiedersehen"] = {
-			-- emoji: 139 name: goodbye
-			"139",
-		},
-		["pump"] = {
-			-- emoji: 166 name: heart
-			"166",
-		},
-		["spin out"] = {
-			-- emoji: 195 name: spin
-			"195",
-		},
-		["surprised"] = {
-			-- emoji: 114 name: surprised
-			"114",
+		["boastful"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
 		},
 		["diaphoresis"] = {
-			-- emoji: 127 name: sweating
-			"127",
+			-- emoji: QQ_127 name: sweating
+			"QQ_127",
 		},
 		["sudation"] = {
-			-- emoji: 127 name: sweating
-			"127",
+			-- emoji: QQ_127 name: sweating
+			"QQ_127",
+		},
+		["receive"] = {
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
 		},
 		["awing"] = {
-			-- emoji: 10380 name: awesome
-			"10380",
-		},
-		["twinkle"] = {
-			-- emoji: 242 name: blink
-			"242",
-		},
-		["stiff"] = {
-			-- emoji: 10349 name: strong
-			"10349",
+			-- emoji: QQ_10380 name: awesome
+			"QQ_10380",
+			-- emoji: QQ_10356 name: 666 (awesome)
+			"QQ_10356",
 		},
 		["triumph"] = {
-			-- emoji: 182 name: victory
-			"182",
+			-- emoji: QQ_182 name: victory
+			"QQ_182",
 		},
 		["slumber"] = {
-			-- emoji: 108 name: sleep
-			"108",
-			-- emoji: 108 name: sleep
-			"108",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
 		},
-		["dickhead"] = {
-			-- emoji: 109 name: sob
-			"109",
+		["learning ability"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
 		},
-		["jubilant"] = {
-			-- emoji: 10412 name: joyful
-			"10412",
+		["silly"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
 		},
-		["vomitus"] = {
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["Hawaii"] = {
-			-- emoji: 10377 name: hi
-			"10377",
-		},
-		["shudder"] = {
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 193 name: shiver
-			"193",
-			-- emoji: 193 name: shiver
-			"193",
-		},
-		["curse word"] = {
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["expletive"] = {
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["beloved"] = {
-			-- emoji: 190 name: love
-			"190",
+		["tour"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
 		},
 		["yaw"] = {
-			-- emoji: 147 name: yawn
-			"147",
+			-- emoji: QQ_147 name: yawn
+			"QQ_147",
 		},
-		["extolment"] = {
-			-- emoji: 10370 name: congratulations
-			"10370",
+		["running play"] = {
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
 		},
 		["torture"] = {
-			-- emoji: 135 name: torture
-			"135",
-			-- emoji: 135 name: torture
-			"135",
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
 		},
 		["filling"] = {
-			-- emoji: 10277 name: woof
-			"10277",
-		},
-		["handshaking"] = {
-			-- emoji: 181 name: handshake
-			"181",
-		},
-		["gyrate"] = {
-			-- emoji: 195 name: spin
-			"195",
-		},
-		["stab"] = {
-			-- emoji: 251 name: poke
-			"251",
-			-- emoji: 171 name: knife
-			"171",
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+			-- emoji: QQ_10277 name: woof
+			"QQ_10277",
 		},
 		["charm"] = {
-			-- emoji: 184 name: tempt
-			"184",
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
 		},
-		["cocksucker"] = {
-			-- emoji: 109 name: sob
-			"109",
+		["first-rate"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
 		},
 		["shit"] = {
-			-- emoji: 109 name: sob
-			"109",
-			-- emoji: 174 name: poop
-			"174",
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
 		},
 		["ordnance"] = {
-			-- emoji: 121034 name: gun
-			"121034",
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
 		},
 		["clap"] = {
-			-- emoji: 142 name: clap
-			"142",
-			-- emoji: 142 name: clap
-			"142",
-			-- emoji: 121009 name: acclaim
-			"121009",
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
 		},
 		["deadpan"] = {
-			-- emoji: 10284 name: expressionless
-			"10284",
-		},
-		["rosiness"] = {
-			-- emoji: 163 name: rose
-			"163",
-		},
-		["invite"] = {
-			-- emoji: 184 name: tempt
-			"184",
-		},
-		["cuss"] = {
-			-- emoji: 131 name: curse
-			"131",
-			-- emoji: 131 name: curse
-			"131",
+			-- emoji: QQ_10284 name: expressionless
+			"QQ_10284",
 		},
 		["gunman"] = {
-			-- emoji: 121034 name: gun
-			"121034",
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
+		},
+		["rub"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
+		},
+		["sightless"] = {
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
 		},
 		["dazzle"] = {
-			-- emoji: 103 name: daze
-			"103",
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
 		},
-		["ill-omened"] = {
-			-- emoji: 136 name: unlucky
-			"136",
-		},
-		["daydream"] = {
-			-- emoji: 175 name: moon
-			"175",
-		},
-		["heartsick"] = {
-			-- emoji: 167 name: heartbroken
-			"167",
+		["firedrake"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
 		},
 		["doge"] = {
-			-- emoji: 249 name: Doge
-			"249",
+			-- emoji: QQ_249 name: Doge
+			"QQ_249",
 		},
 		["chopper"] = {
-			-- emoji: 155 name: cleaver
-			"155",
+			-- emoji: QQ_155 name: cleaver
+			"QQ_155",
+		},
+		["and so"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
+		},
+		["genuinely"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
 		},
 		["hired gun"] = {
-			-- emoji: 121034 name: gun
-			"121034",
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
 		},
-		["stay together"] = {
-			-- emoji: 10350 name: stick together
-			"10350",
+		["Lashkar-e-Toiba"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
 		},
-		["incapacitated"] = {
-			-- emoji: 244 name: helpless
-			"244",
+		["run"] = {
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
 		},
 		["secure"] = {
-			-- emoji: 10349 name: strong
-			"10349",
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
 		},
-		["undulation"] = {
-			-- emoji: 199 name: wave
-			"199",
-		},
-		["amazing"] = {
-			-- emoji: 10380 name: awesome
-			"10380",
+		["CRT screen"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
 		},
 		["weatherworn"] = {
-			-- emoji: 10263 name: weathered
-			"10263",
+			-- emoji: QQ_10263 name: weathered
+			"QQ_10263",
 		},
 		["sinister"] = {
-			-- emoji: 151 name: sinister
-			"151",
-		},
-		["woof"] = {
-			-- emoji: 10277 name: woof
-			"10277",
-		},
-		["awkward"] = {
-			-- emoji: 110 name: awkward
-			"110",
-		},
-		["arrivederci"] = {
-			-- emoji: 139 name: goodbye
-			"139",
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
 		},
 		["menacing"] = {
-			-- emoji: 151 name: sinister
-			"151",
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
 		},
-		["clam up"] = {
-			-- emoji: 107 name: shut up
-			"107",
+		["bounder"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
 		},
-		["barf"] = {
-			-- emoji: 119 name: vomit
-			"119",
+		["deplete"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
 		},
-		["frisson"] = {
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 193 name: shiver
-			"193",
+		["tartar"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
 		},
-		["passion"] = {
-			-- emoji: 190 name: love
-			"190",
+		["egregious"] = {
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
 		},
-		["smiling"] = {
-			-- emoji: 100 name: smile
-			"100",
-			-- emoji: 113 name: grin
-			"113",
+		["might"] = {
+			-- emoji: QQ_10334 name: tiger’s might
+			"QQ_10334",
 		},
-		["celebrate"] = {
-			-- emoji: 10320 name: celebrate
-			"10320",
+		["astir"] = {
+			-- emoji: QQ_271 name: thumbs up
+			"QQ_271",
 		},
-		["query"] = {
-			-- emoji: 132 name: question
-			"132",
-			-- emoji: 132 name: question
-			"132",
-		},
-		["please"] = {
-			-- emoji: 10353 name: please
-			"10353",
-			-- emoji: 10353 name: please
-			"10353",
-		},
-		["sucker"] = {
-			-- emoji: 121012 name: lollipop
-			"121012",
-		},
-		["ghostwrite"] = {
-			-- emoji: 257 name: ghost
-			"257",
+		["derisive"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
 		},
 		["drone"] = {
-			-- emoji: 251 name: poke
-			"251",
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
 		},
-		["pry"] = {
-			-- emoji: 251 name: poke
-			"251",
+		["prankish"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
 		},
-		["yawning"] = {
-			-- emoji: 147 name: yawn
-			"147",
+		["improving"] = {
+			-- emoji: QQ_271 name: thumbs up
+			"QQ_271",
 		},
-		["frightened"] = {
-			-- emoji: 126 name: terrified
-			"126",
+		["measure"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
 		},
-		["gonorrhoea"] = {
-			-- emoji: 142 name: clap
-			"142",
+		["well-nigh"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
 		},
-		["seethe"] = {
-			-- emoji: 194 name: seethe
-			"194",
+		["tumid"] = {
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
 		},
-		["knock"] = {
-			-- emoji: 138 name: knock
-			"138",
-			-- emoji: 138 name: knock
-			"138",
+		["full"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
+		},
+		["blind"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
 		},
 		["occupy"] = {
-			-- emoji: 10373 name: busy
-			"10373",
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
 		},
-		["intrude"] = {
-			-- emoji: 251 name: poke
-			"251",
+		["nearly"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
+		},
+		["show"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
 		},
 		["gimpy"] = {
-			-- emoji: 186 name: lame
-			"186",
-		},
-		["purge"] = {
-			-- emoji: 119 name: vomit
-			"119",
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
 		},
 		["blink"] = {
-			-- emoji: 242 name: blink
-			"242",
-			-- emoji: 242 name: blink
-			"242",
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
+		},
+		["Satan"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
 		},
 		["wave"] = {
-			-- emoji: 199 name: wave
-			"199",
-			-- emoji: 199 name: wave
-			"199",
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
 		},
 		["cracked"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
 		},
 		["specter"] = {
-			-- emoji: 257 name: ghost
-			"257",
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
 		},
 		["racy"] = {
-			-- emoji: 112 name: naughty
-			"112",
-		},
-		["bats"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
 		},
 		["freak"] = {
-			-- emoji: 118 name: freak out
-			"118",
-		},
-		["egotistical"] = {
-			-- emoji: 10408 name: vain
-			"10408",
-		},
-		["kip"] = {
-			-- emoji: 108 name: sleep
-			"108",
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
 		},
 		["yea"] = {
-			-- emoji: 10355 name: yeah
-			"10355",
+			-- emoji: QQ_10355 name: yeah
+			"QQ_10355",
 		},
 		["crying"] = {
-			-- emoji: 105 name: tears
-			"105",
+			-- emoji: QQ_10374 name: bobo tears
+			"QQ_10374",
+			-- emoji: QQ_10379 name: penguin tears
+			"QQ_10379",
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
+			-- emoji: QQ_105 name: tears
+			"QQ_105",
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
 		},
-		["honey"] = {
-			-- emoji: 190 name: love
-			"190",
-		},
-		["moonshine"] = {
-			-- emoji: 175 name: moon
-			"175",
-		},
-		["stomp"] = {
-			-- emoji: 10376 name: stomp
-			"10376",
-			-- emoji: 10376 name: stomp
-			"10376",
-		},
-		["wonder"] = {
-			-- emoji: 132 name: question
-			"132",
-		},
-		["sleepy"] = {
-			-- emoji: 125 name: sleepy
-			"125",
-		},
-		["moon on"] = {
-			-- emoji: 175 name: moon
-			"175",
+		["Beelzebub"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
 		},
 		["snigger"] = {
-			-- emoji: 120 name: snicker
-			"120",
-			-- emoji: 120 name: snicker
-			"120",
+			-- emoji: QQ_120 name: snicker
+			"QQ_120",
 		},
-		["rack"] = {
-			-- emoji: 135 name: torture
-			"135",
+		["mischievous"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
 		},
 		["vomitive"] = {
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["button up"] = {
-			-- emoji: 107 name: shut up
-			"107",
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
 		},
 		["rose wine"] = {
-			-- emoji: 163 name: rose
-			"163",
-		},
-		["basketball game"] = {
-			-- emoji: 158 name: basketball
-			"158",
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
 		},
 		["center"] = {
-			-- emoji: 166 name: heart
-			"166",
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
+		},
+		["basketball game"] = {
+			-- emoji: QQ_158 name: basketball
+			"QQ_158",
 		},
 		["start"] = {
-			-- emoji: 192 name: jump
-			"192",
-			-- emoji: 192 name: jump
-			"192",
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
+		},
+		["Draco"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
 		},
 		["blush wine"] = {
-			-- emoji: 163 name: rose
-			"163",
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
 		},
-		["bunglesome"] = {
-			-- emoji: 110 name: awkward
-			"110",
-		},
-		["cumbersome"] = {
-			-- emoji: 110 name: awkward
-			"110",
-		},
-		["bye"] = {
-			-- emoji: 139 name: goodbye
-			"139",
-		},
-		["damn"] = {
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["daunt"] = {
-			-- emoji: 153 name: scare
-			"153",
+		["footling"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
 		},
 		["rosaceous"] = {
-			-- emoji: 163 name: rose
-			"163",
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
 		},
 		["cracker"] = {
-			-- emoji: 121002 name: firecracker
-			"121002",
+			-- emoji: QQ_121002 name: firecracker
+			"QQ_121002",
 		},
-		["alike"] = {
-			-- emoji: 179 name: like
-			"179",
+		["marijuana cigarette"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
+		},
+		["dalliance"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
 		},
 		["pitiful"] = {
-			-- emoji: 115 name: sad
-			"115",
-			-- emoji: 154 name: pitiful
-			"154",
+			-- emoji: QQ_115 name: sad
+			"QQ_115",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
 		},
-		["bash"] = {
-			-- emoji: 138 name: knock
-			"138",
+		["in concert"] = {
+			-- emoji: QQ_10411 name: party together
+			"QQ_10411",
 		},
-		["revolt"] = {
-			-- emoji: 10323 name: disgust
-			"10323",
+		["observing"] = {
+			-- emoji: QQ_10269 name: secretly observing
+			"QQ_10269",
 		},
 		["doomed"] = {
-			-- emoji: 136 name: unlucky
-			"136",
+			-- emoji: QQ_136 name: unlucky
+			"QQ_136",
 		},
-		["disgust"] = {
-			-- emoji: 10323 name: disgust
-			"10323",
-			-- emoji: 10323 name: disgust
-			"10323",
+		["thusly"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
 		},
 		["pigeon berry"] = {
-			-- emoji: 251 name: poke
-			"251",
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
 		},
 		["wither"] = {
-			-- emoji: 164 name: wither
-			"164",
+			-- emoji: QQ_164 name: wither
+			"QQ_164",
 		},
 		["buzz"] = {
-			-- emoji: 194 name: seethe
-			"194",
-		},
-		["blink away"] = {
-			-- emoji: 242 name: blink
-			"242",
-		},
-		["slack off"] = {
-			-- emoji: 10285 name: slack off
-			"10285",
-		},
-		["leap out"] = {
-			-- emoji: 192 name: jump
-			"192",
-		},
-		["torment"] = {
-			-- emoji: 135 name: torture
-			"135",
-			-- emoji: 135 name: torture
-			"135",
-		},
-		["pall"] = {
-			-- emoji: 153 name: scare
-			"153",
-		},
-		["sunshine"] = {
-			-- emoji: 176 name: sun
-			"176",
-		},
-		["Moon"] = {
-			-- emoji: 175 name: moon
-			"175",
-		},
-		["reach"] = {
-			-- emoji: 130 name: strive
-			"130",
+			-- emoji: QQ_194 name: seethe
+			"QQ_194",
 		},
 		["happy"] = {
-			-- emoji: 10400 name: happy
-			"10400",
-		},
-		["ungainly"] = {
-			-- emoji: 110 name: awkward
-			"110",
-		},
-		["potent"] = {
-			-- emoji: 10349 name: strong
-			"10349",
-		},
-		["tempestuous"] = {
-			-- emoji: 10326 name: angry
-			"10326",
+			-- emoji: QQ_10400 name: happy
+			"QQ_10400",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
 		},
 		["nobelium"] = {
-			-- emoji: 188 name: NO
-			"188",
+			-- emoji: QQ_188 name: NO
+			"QQ_188",
 		},
 		["busybodied"] = {
-			-- emoji: 10373 name: busy
-			"10373",
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
 		},
-		["excruciate"] = {
-			-- emoji: 135 name: torture
-			"135",
+		["Canis familiaris"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
 		},
-		["cheerio"] = {
-			-- emoji: 139 name: goodbye
-			"139",
+		["fag"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
 		},
-		["mop"] = {
-			-- emoji: 101 name: pout
-			"101",
+		["three"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
 		},
-		["wafture"] = {
-			-- emoji: 199 name: wave
-			"199",
-		},
-		["cast"] = {
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["mow"] = {
-			-- emoji: 101 name: pout
-			"101",
-		},
-		["lost"] = {
-			-- emoji: 244 name: helpless
-			"244",
+		["mocking"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
 		},
 		["alpaca"] = {
-			-- emoji: 255 name: alpaca
-			"255",
+			-- emoji: QQ_255 name: alpaca
+			"QQ_255",
 		},
 		["panicked"] = {
-			-- emoji: 126 name: terrified
-			"126",
+			-- emoji: QQ_126 name: terrified
+			"QQ_126",
+		},
+		["golden"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
+		},
+		["fat"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
+		},
+		["bowknot"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
 		},
 		["inapt"] = {
-			-- emoji: 110 name: awkward
-			"110",
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
 		},
-		["gamey"] = {
-			-- emoji: 112 name: naughty
-			"112",
+		["incline"] = {
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
+		},
+		["truly"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
 		},
 		["vomiting"] = {
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["coffee tree"] = {
-			-- emoji: 160 name: coffee
-			"160",
-		},
-		["okay"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 189 name: OK
-			"189",
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
 		},
 		["clinch"] = {
-			-- emoji: 178 name: hug
-			"178",
+			-- emoji: QQ_178 name: hug
+			"QQ_178",
+		},
+		["okay"] = {
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
 		},
 		["egotistic"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
 		},
-		["swearing"] = {
-			-- emoji: 131 name: curse
-			"131",
+		["give"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
+		},
+		["superintendent"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
 		},
 		["atomic number 102"] = {
-			-- emoji: 188 name: NO
-			"188",
+			-- emoji: QQ_188 name: NO
+			"QQ_188",
 		},
-		["ominous"] = {
-			-- emoji: 151 name: sinister
-			"151",
+		["running game"] = {
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
 		},
-		["very well"] = {
-			-- emoji: 189 name: OK
-			"189",
+		["III"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
 		},
-		["dizzy"] = {
-			-- emoji: 134 name: dizzy
-			"134",
-			-- emoji: 134 name: dizzy
-			"134",
+		["epic"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
 		},
-		["self-conceited"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+		["impertinence"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
+		},
+		["spittle"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
+		},
+		["slope"] = {
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
 		},
 		["well-chosen"] = {
-			-- emoji: 10400 name: happy
-			"10400",
+			-- emoji: QQ_10400 name: happy
+			"QQ_10400",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
 		},
 		["lofty"] = {
-			-- emoji: 104 name: proud
-			"104",
+			-- emoji: QQ_104 name: proud
+			"QQ_104",
 		},
 		["au revoir"] = {
-			-- emoji: 139 name: goodbye
-			"139",
-		},
-		["Wave"] = {
-			-- emoji: 199 name: wave
-			"199",
-		},
-		["o.k."] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
 		},
 		["hullo"] = {
-			-- emoji: 10377 name: hi
-			"10377",
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
 		},
 		["moon"] = {
-			-- emoji: 175 name: moon
-			"175",
-			-- emoji: 175 name: moon
-			"175",
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
 		},
 		["gross out"] = {
-			-- emoji: 118 name: freak out
-			"118",
-			-- emoji: 10323 name: disgust
-			"10323",
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
 		},
 		["nauseate"] = {
-			-- emoji: 10323 name: disgust
-			"10323",
-		},
-		["stick together"] = {
-			-- emoji: 10350 name: stick together
-			"10350",
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
 		},
 		["scoke"] = {
-			-- emoji: 251 name: poke
-			"251",
-		},
-		["Dominicus"] = {
-			-- emoji: 176 name: sun
-			"176",
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
 		},
 		["the likes of"] = {
-			-- emoji: 179 name: like
-			"179",
+			-- emoji: QQ_179 name: like
+			"QQ_179",
+		},
+		["junky"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
 		},
 		["worship"] = {
-			-- emoji: 10318 name: worship
-			"10318",
-			-- emoji: 10318 name: worship
-			"10318",
-		},
-		["fussy"] = {
-			-- emoji: 10373 name: busy
-			"10373",
+			-- emoji: QQ_10318 name: worship
+			"QQ_10318",
 		},
 		["asshole"] = {
-			-- emoji: 109 name: sob
-			"109",
-		},
-		["plaudits"] = {
-			-- emoji: 121009 name: acclaim
-			"121009",
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
 		},
 		["swearword"] = {
-			-- emoji: 131 name: curse
-			"131",
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
 		},
 		["chocolate"] = {
-			-- emoji: 160 name: coffee
-			"160",
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
 		},
 		["care"] = {
-			-- emoji: 179 name: like
-			"179",
+			-- emoji: QQ_179 name: like
+			"QQ_179",
 		},
 		["elated"] = {
-			-- emoji: 10412 name: joyful
-			"10412",
+			-- emoji: QQ_10412 name: joyful
+			"QQ_10412",
 		},
 		["bastard"] = {
-			-- emoji: 109 name: sob
-			"109",
-		},
-		["chesty"] = {
-			-- emoji: 123 name: arrogant
-			"123",
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
 		},
 		["roughened"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
 		},
-		["love"] = {
-			-- emoji: 190 name: love
-			"190",
-			-- emoji: 190 name: love
-			"190",
+		["study"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
+		},
+		["epical"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
 		},
 		["ill-chosen"] = {
-			-- emoji: 110 name: awkward
-			"110",
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
 		},
-		["tongue"] = {
-			-- emoji: 171 name: knife
-			"171",
+		["astonied"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
 		},
-		["enjoy"] = {
-			-- emoji: 190 name: love
-			"190",
+		["bright"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
+		},
+		["consume"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
 		},
 		["lollipop"] = {
-			-- emoji: 121012 name: lollipop
-			"121012",
+			-- emoji: QQ_121012 name: lollipop
+			"QQ_121012",
 		},
 		["okeh"] = {
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
 		},
 		["cool off"] = {
-			-- emoji: 116 name: cool
-			"116",
-		},
-		["swollen-headed"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
 		},
 		["airheaded"] = {
-			-- emoji: 134 name: dizzy
-			"134",
-		},
-		["baleful"] = {
-			-- emoji: 151 name: sinister
-			"151",
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
 		},
 		["enraged"] = {
-			-- emoji: 111 name: furious
-			"111",
-		},
-		["ghost"] = {
-			-- emoji: 257 name: ghost
-			"257",
-			-- emoji: 257 name: ghost
-			"257",
-		},
-		["abate"] = {
-			-- emoji: 10285 name: slack off
-			"10285",
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
 		},
 		["sulk"] = {
-			-- emoji: 101 name: pout
-			"101",
-		},
-		["leap"] = {
-			-- emoji: 192 name: jump
-			"192",
-			-- emoji: 192 name: jump
-			"192",
-		},
-		["flap"] = {
-			-- emoji: 199 name: wave
-			"199",
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
 		},
 		["smash"] = {
-			-- emoji: 138 name: knock
-			"138",
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
+		},
+		["profligate"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
 		},
 		["entice"] = {
-			-- emoji: 184 name: tempt
-			"184",
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
 		},
-		["heavy weapon"] = {
-			-- emoji: 121034 name: gun
-			"121034",
-		},
-		["fete"] = {
-			-- emoji: 10320 name: celebrate
-			"10320",
+		["prow"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
 		},
 		["grin"] = {
-			-- emoji: 100 name: smile
-			"100",
-			-- emoji: 113 name: grin
-			"113",
-			-- emoji: 113 name: grin
-			"113",
+			-- emoji: QQ_100 name: smile
+			"QQ_100",
+			-- emoji: QQ_113 name: grin
+			"QQ_113",
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
 		},
-		["precious"] = {
-			-- emoji: 121 name: cute
-			"121",
-		},
-		["prod"] = {
-			-- emoji: 251 name: poke
-			"251",
+		["grip"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
 		},
 		["osculation"] = {
-			-- emoji: 10360 name: kiss
-			"10360",
+			-- emoji: QQ_10360 name: kiss
+			"QQ_10360",
+		},
+		["unitedly"] = {
+			-- emoji: QQ_10411 name: party together
+			"QQ_10411",
 		},
 		["terrified"] = {
-			-- emoji: 126 name: terrified
-			"126",
+			-- emoji: QQ_126 name: terrified
+			"QQ_126",
 		},
-		["spat"] = {
-			-- emoji: 142 name: clap
-			"142",
-			-- emoji: 121009 name: acclaim
-			"121009",
+		["touching"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
 		},
-		["scare off"] = {
-			-- emoji: 153 name: scare
-			"153",
+		["display"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
 		},
-		["O.K."] = {
-			-- emoji: 189 name: OK
-			"189",
+		["hound"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
 		},
-		["cool"] = {
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 116 name: cool
-			"116",
-			-- emoji: 129 name: chill
-			"129",
-			-- emoji: 189 name: OK
-			"189",
-		},
-		["freak out"] = {
-			-- emoji: 118 name: freak out
-			"118",
-			-- emoji: 118 name: freak out
-			"118",
-		},
-		["tremble"] = {
-			-- emoji: 193 name: shiver
-			"193",
+		["centre"] = {
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
 		},
 		["lunation"] = {
-			-- emoji: 175 name: moon
-			"175",
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
 		},
 		["unattackable"] = {
-			-- emoji: 10349 name: strong
-			"10349",
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
 		},
 		["distressing"] = {
-			-- emoji: 115 name: sad
-			"115",
-			-- emoji: 154 name: pitiful
-			"154",
+			-- emoji: QQ_115 name: sad
+			"QQ_115",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
 		},
-		["sunlight"] = {
-			-- emoji: 176 name: sun
-			"176",
+		["reverse"] = {
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
 		},
-		["belt up"] = {
-			-- emoji: 107 name: shut up
-			"107",
-		},
-		["criticize"] = {
-			-- emoji: 138 name: knock
-			"138",
-		},
-		["juicy"] = {
-			-- emoji: 112 name: naughty
-			"112",
+		["redress"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
 		},
 		["eruption"] = {
-			-- emoji: 142 name: clap
-			"142",
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
 		},
-		["spurn"] = {
-			-- emoji: 148 name: disdain
-			"148",
+		["choice"] = {
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
 		},
-		["ice lolly"] = {
-			-- emoji: 121012 name: lollipop
-			"121012",
-		},
-		["date"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+		["small"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
 		},
 		["moue"] = {
-			-- emoji: 101 name: pout
-			"101",
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
 		},
 		["gallant"] = {
-			-- emoji: 104 name: proud
-			"104",
+			-- emoji: QQ_104 name: proud
+			"QQ_104",
 		},
-		["obsess"] = {
-			-- emoji: 257 name: ghost
-			"257",
+		["shut"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
 		},
 		["bedazzle"] = {
-			-- emoji: 103 name: daze
-			"103",
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
 		},
-		["heartbroken"] = {
-			-- emoji: 167 name: heartbroken
-			"167",
+		["dad"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
 		},
 		["dice"] = {
-			-- emoji: 10358 name: dice
-			"10358",
-			-- emoji: 10358 name: dice
-			"10358",
+			-- emoji: QQ_10358 name: dice
+			"QQ_10358",
 		},
-		["grinning"] = {
-			-- emoji: 100 name: smile
-			"100",
-			-- emoji: 113 name: grin
-			"113",
-		},
-		["go steady"] = {
-			-- emoji: 10403 name: go out
-			"10403",
+		["nut"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
 		},
 		["bootless"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
 		},
 		["shrivel"] = {
-			-- emoji: 164 name: wither
-			"164",
-		},
-		["allure"] = {
-			-- emoji: 184 name: tempt
-			"184",
-		},
-		["translate"] = {
-			-- emoji: 10312 name: transform
-			"10312",
+			-- emoji: QQ_164 name: wither
+			"QQ_164",
 		},
 		["influence"] = {
-			-- emoji: 184 name: tempt
-			"184",
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
 		},
-		["basketball"] = {
-			-- emoji: 158 name: basketball
-			"158",
-		},
-		["knocking"] = {
-			-- emoji: 138 name: knock
-			"138",
+		["bloom"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
 		},
 		["gelidity"] = {
-			-- emoji: 129 name: chill
-			"129",
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
 		},
 		["execration"] = {
-			-- emoji: 131 name: curse
-			"131",
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
 		},
 		["Phytolacca americana"] = {
-			-- emoji: 251 name: poke
-			"251",
-		},
-		["disgorge"] = {
-			-- emoji: 119 name: vomit
-			"119",
-		},
-		["furious"] = {
-			-- emoji: 111 name: furious
-			"111",
-			-- emoji: 10326 name: angry
-			"10326",
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
 		},
 		["strain"] = {
-			-- emoji: 130 name: strive
-			"130",
+			-- emoji: QQ_130 name: strive
+			"QQ_130",
 		},
 		["poker-faced"] = {
-			-- emoji: 10284 name: expressionless
-			"10284",
+			-- emoji: QQ_10284 name: expressionless
+			"QQ_10284",
 		},
 		["foaming"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
 		},
-		["tap"] = {
-			-- emoji: 138 name: knock
-			"138",
-		},
-		["proud"] = {
-			-- emoji: 104 name: proud
-			"104",
-		},
-		["rosebush"] = {
-			-- emoji: 163 name: rose
-			"163",
+		["Rock"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
 		},
 		["okey"] = {
-			-- emoji: 189 name: OK
-			"189",
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
 		},
-		["like"] = {
-			-- emoji: 179 name: like
-			"179",
-			-- emoji: 179 name: like
-			"179",
-			-- emoji: 179 name: like
-			"179",
+		["king"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
 		},
-		["ilk"] = {
-			-- emoji: 179 name: like
-			"179",
+		["exigent"] = {
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
 		},
-		["good luck"] = {
-			-- emoji: 10405 name: good luck
-			"10405",
+		["implike"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
 		},
-		["poke"] = {
-			-- emoji: 251 name: poke
-			"251",
-			-- emoji: 251 name: poke
-			"251",
+		["most"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
 		},
-		["startle"] = {
-			-- emoji: 192 name: jump
-			"192",
-			-- emoji: 192 name: jump
-			"192",
+		["glimpse"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
 		},
 		["rainbow"] = {
-			-- emoji: 10369 name: rainbow
-			"10369",
+			-- emoji: QQ_10369 name: rainbow
+			"QQ_10369",
 		},
 		["square"] = {
-			-- emoji: 186 name: lame
-			"186",
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
 		},
-		["keep"] = {
-			-- emoji: 10320 name: celebrate
-			"10320",
+		["flirtation"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
+		},
+		["footstep"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
 		},
 		["nerve"] = {
-			-- emoji: 166 name: heart
-			"166",
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
 		},
-		["dash"] = {
-			-- emoji: 153 name: scare
-			"153",
-		},
-		["bosom"] = {
-			-- emoji: 178 name: hug
-			"178",
-			-- emoji: 166 name: heart
-			"166",
+		["keep"] = {
+			-- emoji: QQ_10320 name: celebrate
+			"QQ_10320",
 		},
 		["distortion"] = {
-			-- emoji: 135 name: torture
-			"135",
-		},
-		["brokenhearted"] = {
-			-- emoji: 167 name: heartbroken
-			"167",
-		},
-		["handshake"] = {
-			-- emoji: 181 name: handshake
-			"181",
-		},
-		["game"] = {
-			-- emoji: 186 name: lame
-			"186",
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
 		},
 		["flirtatious"] = {
-			-- emoji: 102 name: flirtatious
-			"102",
-		},
-		["ferocious"] = {
-			-- emoji: 111 name: furious
-			"111",
-		},
-		["moonlight"] = {
-			-- emoji: 175 name: moon
-			"175",
+			-- emoji: QQ_102 name: flirtatious
+			"QQ_102",
 		},
 		["unsure"] = {
-			-- emoji: 106 name: shy
-			"106",
-		},
-		["Buckeye State"] = {
-			-- emoji: 10287 name: oh
-			"10287",
-		},
-		["congratulations"] = {
-			-- emoji: 10370 name: congratulations
-			"10370",
-		},
-		["Hawai'i"] = {
-			-- emoji: 10377 name: hi
-			"10377",
-		},
-		["bye-bye"] = {
-			-- emoji: 139 name: goodbye
-			"139",
+			-- emoji: QQ_106 name: shy
+			"QQ_106",
 		},
 		["lunar month"] = {
-			-- emoji: 175 name: moon
-			"175",
-		},
-		["bedaze"] = {
-			-- emoji: 103 name: daze
-			"103",
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
 		},
 		["strive"] = {
-			-- emoji: 130 name: strive
-			"130",
-		},
-		["reject"] = {
-			-- emoji: 148 name: disdain
-			"148",
+			-- emoji: QQ_130 name: strive
+			"QQ_130",
 		},
 		["sad"] = {
-			-- emoji: 115 name: sad
-			"115",
-			-- emoji: 154 name: pitiful
-			"154",
-		},
-		["cat"] = {
-			-- emoji: 119 name: vomit
-			"119",
+			-- emoji: QQ_115 name: sad
+			"QQ_115",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
 		},
 		["frighten"] = {
-			-- emoji: 153 name: scare
-			"153",
-			-- emoji: 10325 name: fright
-			"10325",
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+			-- emoji: QQ_10325 name: fright
+			"QQ_10325",
 		},
-		["tread on"] = {
-			-- emoji: 180 name: step on
-			"180",
+		["piles"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
 		},
-		["fluke"] = {
-			-- emoji: 10405 name: good luck
-			"10405",
+		["passing play"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
 		},
-		["feeble"] = {
-			-- emoji: 186 name: lame
-			"186",
+		["silver screen"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
 		},
-		["endeavour"] = {
-			-- emoji: 130 name: strive
-			"130",
-		},
-		["eye blink"] = {
-			-- emoji: 242 name: blink
-			"242",
+		["epos"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
 		},
 		["rest"] = {
-			-- emoji: 108 name: sleep
-			"108",
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
 		},
-		["coffee bean"] = {
-			-- emoji: 160 name: coffee
-			"160",
+		["wit"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
 		},
 		["yawn"] = {
-			-- emoji: 147 name: yawn
-			"147",
-			-- emoji: 147 name: yawn
-			"147",
+			-- emoji: QQ_147 name: yawn
+			"QQ_147",
 		},
-		["eternal sleep"] = {
-			-- emoji: 108 name: sleep
-			"108",
+		["clear"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
 		},
 		["gun for hire"] = {
-			-- emoji: 121034 name: gun
-			"121034",
-		},
-		["balmy"] = {
-			-- emoji: 10357 name: cracked
-			"10357",
-		},
-		["hail"] = {
-			-- emoji: 121009 name: acclaim
-			"121009",
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
 		},
 		["spumy"] = {
-			-- emoji: 10371 name: bubbling
-			"10371",
+			-- emoji: QQ_10371 name: bubbling
+			"QQ_10371",
 		},
 		["saltation"] = {
-			-- emoji: 192 name: jump
-			"192",
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
 		},
 		["fearfulness"] = {
-			-- emoji: 10325 name: fright
-			"10325",
-		},
-		["Citrullus vulgaris"] = {
-			-- emoji: 156 name: watermelon
-			"156",
-		},
-		["interrogative sentence"] = {
-			-- emoji: 132 name: question
-			"132",
-		},
-		["beckon"] = {
-			-- emoji: 199 name: wave
-			"199",
+			-- emoji: QQ_10325 name: fright
+			"QQ_10325",
 		},
 		["churn up"] = {
-			-- emoji: 10323 name: disgust
-			"10323",
-		},
-		["interrogate"] = {
-			-- emoji: 132 name: question
-			"132",
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
 		},
 		["luckless"] = {
-			-- emoji: 136 name: unlucky
-			"136",
-		},
-		["oath"] = {
-			-- emoji: 131 name: curse
-			"131",
-		},
-		["Sun Myung Moon"] = {
-			-- emoji: 175 name: moon
-			"175",
-		},
-		["corresponding"] = {
-			-- emoji: 179 name: like
-			"179",
+			-- emoji: QQ_136 name: unlucky
+			"QQ_136",
 		},
 		["glad"] = {
-			-- emoji: 10400 name: happy
-			"10400",
+			-- emoji: QQ_10400 name: happy
+			"QQ_10400",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
 		},
-		["swollen"] = {
-			-- emoji: 10408 name: vain
-			"10408",
+		["shiny"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
 		},
 		["spunk"] = {
-			-- emoji: 166 name: heart
-			"166",
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
 		},
-		["sweating"] = {
-			-- emoji: 127 name: sweating
-			"127",
-		},
-		["wild"] = {
-			-- emoji: 10326 name: angry
-			"10326",
+		["rake"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
 		},
 		["dawdler"] = {
-			-- emoji: 251 name: poke
-			"251",
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
 		},
 		["eelpout"] = {
-			-- emoji: 101 name: pout
-			"101",
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
+		},
+		["unfold"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
+		},
+		["dearest"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["hearten"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
+		},
+		["bad"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
+		},
+		["rock-and-roll"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
+		},
+		["greeting"] = {
+			-- emoji: QQ_10341 name: greeting
+			"QQ_10341",
+		},
+		["kiss"] = {
+			-- emoji: QQ_10360 name: kiss
+			"QQ_10360",
+		},
+		["stride"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
+		},
+		["efflorescence"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
+		},
+		["bam"] = {
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
+		},
+		["crack"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
+		},
+		["trio"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
+		},
+		["bar"] = {
+			-- emoji: QQ_168 name: cake
+			"QQ_168",
+		},
+		["no more"] = {
+			-- emoji: QQ_188 name: NO
+			"QQ_188",
+		},
+		["cube"] = {
+			-- emoji: QQ_10358 name: dice
+			"QQ_10358",
+		},
+		["jump"] = {
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
+		},
+		["prime"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
+		},
+		["vein"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
+		},
+		["pass"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["shrink"] = {
+			-- emoji: QQ_164 name: wither
+			"QQ_164",
+		},
+		["stacks"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
+		},
+		["shock"] = {
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
+		},
+		["nictitate"] = {
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
+		},
+		["angry"] = {
+			-- emoji: QQ_10326 name: angry
+			"QQ_10326",
+		},
+		["panic"] = {
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+		},
+		["patty"] = {
+			-- emoji: QQ_168 name: cake
+			"QQ_168",
+		},
+		["garget"] = {
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
+		},
+		["firework"] = {
+			-- emoji: QQ_10333 name: firework
+			"QQ_10333",
+		},
+		["Devil"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
+		},
+		["gamy"] = {
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
+		},
+		["intermediate"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
+		},
+		["enquiry"] = {
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
+		},
+		["self-important"] = {
+			-- emoji: QQ_123 name: arrogant
+			"QQ_123",
+		},
+		["heyday"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
+		},
+		["average"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
+		},
+		["hog"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
+		},
+		["strong"] = {
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
+		},
+		["prove"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
+		},
+		["spectre"] = {
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
+		},
+		["Oklahoma"] = {
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
+		},
+		["shiver"] = {
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
+		},
+		["empty-headed"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
+		},
+		["ghostwriter"] = {
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
+		},
+		["caput"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
+		},
+		["impish"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
+		},
+		["grasp"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["firecracker"] = {
+			-- emoji: QQ_121002 name: firecracker
+			"QQ_121002",
+		},
+		["oculus"] = {
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+		},
+		["gradation"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
+		},
+		["dear"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["mind"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
+		},
+		["right"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
+		},
+		["blast"] = {
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
+		},
+		["recreate"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
+		},
+		["awesome"] = {
+			-- emoji: QQ_10380 name: awesome
+			"QQ_10380",
+			-- emoji: QQ_10356 name: 666 (awesome)
+			"QQ_10356",
+		},
+		["repel"] = {
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
+		},
+		["denuded"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
+		},
+		["astonished"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["penguin"] = {
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_10379 name: penguin tears
+			"QQ_10379",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+		},
+		["gape"] = {
+			-- emoji: QQ_147 name: yawn
+			"QQ_147",
+		},
+		["panic-struck"] = {
+			-- emoji: QQ_126 name: terrified
+			"QQ_126",
+		},
+		["die"] = {
+			-- emoji: QQ_10358 name: dice
+			"QQ_10358",
+		},
+		["scare"] = {
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+			-- emoji: QQ_10325 name: fright
+			"QQ_10325",
+		},
+		["fiddling"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
+		},
+		["turgid"] = {
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["fore"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
+		},
+		["observe"] = {
+			-- emoji: QQ_10320 name: celebrate
+			"QQ_10320",
+		},
+		["hold"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["pixilated"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
+		},
+		["vena"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
+		},
+		["passing game"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["exclude"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
+		},
+		["on the QT"] = {
+			-- emoji: QQ_10269 name: secretly observing
+			"QQ_10269",
+		},
+		["impregnable"] = {
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
+		},
+		["digit"] = {
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+		},
+		["enactment"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
+		},
+		["brainpower"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
+		},
+		["teasing"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
+		},
+		["exhaust"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
+		},
+		["denudate"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
+		},
+		["kayoed"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["minacious"] = {
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
+		},
+		["quizzical"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
+		},
+		["upwards"] = {
+			-- emoji: QQ_271 name: thumbs up
+			"QQ_271",
+		},
+		["popsicle"] = {
+			-- emoji: QQ_121012 name: lollipop
+			"QQ_121012",
+		},
+		["lolly"] = {
+			-- emoji: QQ_121012 name: lollipop
+			"QQ_121012",
+		},
+		["knife"] = {
+			-- emoji: QQ_171 name: knife
+			"QQ_171",
+		},
+		["free energy"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
+		},
+		["pink wine"] = {
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
+		},
+		["expiration"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["eyeball"] = {
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+		},
+		["party"] = {
+			-- emoji: QQ_10411 name: party together
+			"QQ_10411",
+		},
+		["fog"] = {
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
+		},
+		["little"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
+		},
+		["metier"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
+		},
+		["Lucifer"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
+		},
+		["deep"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
+		},
+		["squeeze"] = {
+			-- emoji: QQ_178 name: hug
+			"QQ_178",
+		},
+		["tears"] = {
+			-- emoji: QQ_10374 name: bobo tears
+			"QQ_10374",
+			-- emoji: QQ_10379 name: penguin tears
+			"QQ_10379",
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
+			-- emoji: QQ_105 name: tears
+			"QQ_105",
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
+		},
+		["shy"] = {
+			-- emoji: QQ_106 name: shy
+			"QQ_106",
+		},
+		["XTC"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+		},
+		["world-beater"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
+		},
+		["batty"] = {
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
+		},
+		["lamentable"] = {
+			-- emoji: QQ_115 name: sad
+			"QQ_115",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
+		},
+		["sloven"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
+		},
+		["expectation"] = {
+			-- emoji: QQ_10294 name: anticipation
+			"QQ_10294",
+		},
+		["astounded"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["John Rock"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
+		},
+		["in truth"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
+		},
+		["deed"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
+		},
+		["salute"] = {
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
+		},
+		["clasp"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["shrivel up"] = {
+			-- emoji: QQ_164 name: wither
+			"QQ_164",
+		},
+		["woozy"] = {
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
+		},
+		["conceited"] = {
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
+		},
+		["company"] = {
+			-- emoji: QQ_10411 name: party together
+			"QQ_10411",
+		},
+		["Aloha State"] = {
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
+		},
+		["glistening"] = {
+			-- emoji: QQ_10404 name: shining entrance
+			"QQ_10404",
+		},
+		["diffident"] = {
+			-- emoji: QQ_106 name: shy
+			"QQ_106",
+		},
+		["applaud"] = {
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
+		},
+		["covert"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
+		},
+		["junkie"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
+		},
+		["arrogant"] = {
+			-- emoji: QQ_123 name: arrogant
+			"QQ_123",
+		},
+		["contemn"] = {
+			-- emoji: QQ_148 name: disdain
+			"QQ_148",
+		},
+		["ecstasy"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+		},
+		["bound"] = {
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
+		},
+		["go"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
+		},
+		["political party"] = {
+			-- emoji: QQ_10411 name: party together
+			"QQ_10411",
+		},
+		["panic attack"] = {
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+		},
+		["grand"] = {
+			-- emoji: QQ_10347 name: grand rabbit (ambition)
+			"QQ_10347",
+		},
+		["chitchat"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["Panthera pardus"] = {
+			-- emoji: QQ_10336 name: leopard rich
+			"QQ_10336",
+		},
+		["unlucky"] = {
+			-- emoji: QQ_136 name: unlucky
+			"QQ_136",
+		},
+		["Ohio"] = {
+			-- emoji: QQ_10266 name: oh yo
+			"QQ_10266",
+			-- emoji: QQ_10287 name: oh
+			"QQ_10287",
+		},
+		["hug"] = {
+			-- emoji: QQ_178 name: hug
+			"QQ_178",
+		},
+		["flying dragon"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
+		},
+		["observant"] = {
+			-- emoji: QQ_10269 name: secretly observing
+			"QQ_10269",
+		},
+		["mire"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["fresh"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
+		},
+		["hi"] = {
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
+		},
+		["very"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
+		},
+		["big"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["rock candy"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
+		},
+		["hum"] = {
+			-- emoji: QQ_194 name: seethe
+			"QQ_194",
+		},
+		["deplorable"] = {
+			-- emoji: QQ_115 name: sad
+			"QQ_115",
+			-- emoji: QQ_154 name: pitiful
+			"QQ_154",
+		},
+		["stale"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
+		},
+		["agony"] = {
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
+		},
+		["grunter"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
+		},
+		["left over"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
+		},
+		["fear"] = {
+			-- emoji: QQ_10325 name: fright
+			"QQ_10325",
+		},
+		["surface"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
+		},
+		["large"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["belt"] = {
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
+		},
+		["vain"] = {
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
+		},
+		["appreciation"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["cream"] = {
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+		},
+		["knocked out"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["sensitive"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
+		},
+		["sudor"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
+		},
+		["odd"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
+		},
+		["drink"] = {
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
+		},
+		["heavy"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
+		},
+		["handclasp"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+			-- emoji: QQ_181 name: handshake
+			"QQ_181",
+		},
+		["afford"] = {
+			-- emoji: QQ_10409 name: give you flowers
+			"QQ_10409",
+		},
+		["tiptop"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
+		},
+		["halting"] = {
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
+		},
+		["curse"] = {
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
+		},
+		["hello"] = {
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
+		},
+		["maniac"] = {
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
+		},
+		["dog"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
+		},
+		["become"] = {
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
+		},
+		["rock'n'roll"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
+		},
+		["gonorrhea"] = {
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
+		},
+		["hero-worship"] = {
+			-- emoji: QQ_10318 name: worship
+			"QQ_10318",
+		},
+		["stamp"] = {
+			-- emoji: QQ_10376 name: stomp
+			"QQ_10376",
+		},
+		["stupor"] = {
+			-- emoji: QQ_103 name: daze
+			"QQ_103",
+		},
+		["majestic"] = {
+			-- emoji: QQ_104 name: proud
+			"QQ_104",
+		},
+		["lure"] = {
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
+		},
+		["wassail"] = {
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+		},
+		["whirl"] = {
+			-- emoji: QQ_195 name: spin
+			"QQ_195",
+		},
+		["gunslinger"] = {
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
+		},
+		["inquiry"] = {
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
+		},
+		["grudge"] = {
+			-- emoji: QQ_149 name: grievance
+			"QQ_149",
+		},
+		["slump"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["herald"] = {
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
+		},
+		["optic"] = {
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+		},
+		["featherbrained"] = {
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
+		},
+		["osculate"] = {
+			-- emoji: QQ_10360 name: kiss
+			"QQ_10360",
+		},
+		["together"] = {
+			-- emoji: QQ_10411 name: party together
+			"QQ_10411",
+		},
+		["delight"] = {
+			-- emoji: QQ_10353 name: please
+			"QQ_10353",
+		},
+		["flirting"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
+		},
+		["Lashkar-e-Taiba"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
+		},
+		["leftfield"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
+		},
+		["side"] = {
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
+		},
+		["mentality"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
+		},
+		["amber"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
+		},
+		["chit chat"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["barmy"] = {
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
+		},
+		["joke"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
+		},
+		["addict"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
+		},
+		["nictitation"] = {
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
+		},
+		["express joy"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+		},
+		["breathlessness"] = {
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
+		},
+		["compensate"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
+		},
+		["idolize"] = {
+			-- emoji: QQ_10318 name: worship
+			"QQ_10318",
+		},
+		["topnotch"] = {
+			-- emoji: QQ_10364 name: super like
+			"QQ_10364",
+			-- emoji: QQ_10398 name: super OK
+			"QQ_10398",
+			-- emoji: QQ_10375 name: super applause
+			"QQ_10375",
+			-- emoji: QQ_10401 name: super spin
+			"QQ_10401",
+		},
+		["toying"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
+		},
+		["meat cleaver"] = {
+			-- emoji: QQ_155 name: cleaver
+			"QQ_155",
+		},
+		["express mirth"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+		},
+		["feel"] = {
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+		},
+		["unopen"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
+		},
+		["thrill"] = {
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
+		},
+		["bragging"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
+		},
+		["envious"] = {
+			-- emoji: QQ_10273 name: i’m jealous
+			"QQ_10273",
+		},
+		["soh"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
+		},
+		["smile"] = {
+			-- emoji: QQ_100 name: smile
+			"QQ_100",
+			-- emoji: QQ_113 name: grin
+			"QQ_113",
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
+		},
+		["shush"] = {
+			-- emoji: QQ_10402 name: shush
+			"QQ_10402",
+		},
+		["sol"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
+		},
+		["sense of touch"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+		},
+		["dada"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
+		},
+		["find"] = {
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
+		},
+		["encephalon"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
+		},
+		["lusus naturae"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
+		},
+		["upward"] = {
+			-- emoji: QQ_271 name: thumbs up
+			"QQ_271",
+		},
+		["Army of the Righteous"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
+		},
+		["KO'd"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["impudence"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
+		},
+		["felicitous"] = {
+			-- emoji: QQ_10400 name: happy
+			"QQ_10400",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
+		},
+		["clench"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["hoops"] = {
+			-- emoji: QQ_158 name: basketball
+			"QQ_158",
+		},
+		["dirt"] = {
+			-- emoji: QQ_174 name: poop
+			"QQ_174",
+		},
+		["sexual love"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["magnanimous"] = {
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["control stick"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
+		},
+		["picking"] = {
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+		},
+		["heart"] = {
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
+		},
+		["horned pout"] = {
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
+		},
+		["unexpressive"] = {
+			-- emoji: QQ_10284 name: expressionless
+			"QQ_10284",
+		},
+		["feed"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
+		},
+		["coat"] = {
+			-- emoji: QQ_168 name: cake
+			"QQ_168",
+		},
+		["meow"] = {
+			-- emoji: QQ_10307 name: meow
+			"QQ_10307",
+		},
+		["prediction"] = {
+			-- emoji: QQ_10294 name: anticipation
+			"QQ_10294",
+		},
+		["position"] = {
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
+		},
+		["present"] = {
+			-- emoji: QQ_10282 name: salute
+			"QQ_10282",
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
+		},
+		["laughter"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
+		},
+		["no"] = {
+			-- emoji: QQ_188 name: NO
+			"QQ_188",
+		},
+		["dozens"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
+		},
+		["stair"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
+		},
+		["scores"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
+		},
+		["blinking"] = {
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
+		},
+		["panic-stricken"] = {
+			-- emoji: QQ_126 name: terrified
+			"QQ_126",
+		},
+		["bow"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
+		},
+		["demo"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
+		},
+		["left field"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
+		},
+		["head"] = {
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
+		},
+		["transform"] = {
+			-- emoji: QQ_10312 name: transform
+			"QQ_10312",
+		},
+		["Old Nick"] = {
+			-- emoji: QQ_10286 name: devil laugh
+			"QQ_10286",
+		},
+		["bald"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
+		},
+		["savage"] = {
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
+		},
+		["mew"] = {
+			-- emoji: QQ_10307 name: meow
+			"QQ_10307",
+		},
+		["cripple"] = {
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
+		},
+		["wicked"] = {
+			-- emoji: QQ_144 name: mischievous smile
+			"QQ_144",
+		},
+		["unassailable"] = {
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
+		},
+		["waving"] = {
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["brandish"] = {
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["heaps"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
+		},
+		["fright"] = {
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+			-- emoji: QQ_10325 name: fright
+			"QQ_10325",
+		},
+		["rightfield"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
+		},
+		["LET"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
+		},
+		["ill-starred"] = {
+			-- emoji: QQ_136 name: unlucky
+			"QQ_136",
+		},
+		["eclat"] = {
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
+		},
+		["coffee berry"] = {
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
+		},
+		["lineage"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
+		},
+		["transmute"] = {
+			-- emoji: QQ_10312 name: transform
+			"QQ_10312",
+		},
+		["cunning"] = {
+			-- emoji: QQ_121 name: cute
+			"QQ_121",
+		},
+		["all-day sucker"] = {
+			-- emoji: QQ_121012 name: lollipop
+			"QQ_121012",
+		},
+		["inviolable"] = {
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
+		},
+		["threatening"] = {
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
+		},
+		["about"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
+		},
+		["spiritualist"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
+		},
+		["giddy"] = {
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
+		},
+		["human activity"] = {
+			-- emoji: QQ_245 name: act cute
+			"QQ_245",
+		},
+		["cover"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
+		},
+		["Ameiurus Melas"] = {
+			-- emoji: QQ_101 name: pout
+			"QQ_101",
+		},
+		["bang"] = {
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
+		},
+		["out-of-doors"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
+		},
+		["stick"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
+		},
+		["exhibit"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
+		},
+		["bombastic"] = {
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["setback"] = {
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
+		},
+		["oscitance"] = {
+			-- emoji: QQ_147 name: yawn
+			"QQ_147",
+		},
+		["projection screen"] = {
+			-- emoji: QQ_10339 name: screen lick
+			"QQ_10339",
+		},
+		["how-do-you-do"] = {
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
+		},
+		["idolise"] = {
+			-- emoji: QQ_10318 name: worship
+			"QQ_10318",
+		},
+		["then"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
+		},
+		["puke"] = {
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
+		},
+		["finger's breadth"] = {
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+		},
+		["tierce"] = {
+			-- emoji: QQ_10300 name: gained three pounds
+			"QQ_10300",
+		},
+		["Sun"] = {
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
+		},
+		["prevision"] = {
+			-- emoji: QQ_10294 name: anticipation
+			"QQ_10294",
+		},
+		["melon vine"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["Lama pacos"] = {
+			-- emoji: QQ_255 name: alpaca
+			"QQ_255",
+		},
+		["meddlesome"] = {
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
+		},
+		["common cold"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
+		},
+		["right hand"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
+		},
+		["right field"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
+		},
+		["nictation"] = {
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
+		},
+		["eat on"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
+		},
+		["prominent"] = {
+			-- emoji: QQ_10344 name: big complainer
+			"QQ_10344",
+		},
+		["examine"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
+		},
+		["vigor"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
+		},
+		["respectable"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
+		},
+		["fret"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
+		},
+		["fist"] = {
+			-- emoji: QQ_183 name: fist salute
+			"QQ_183",
+			-- emoji: QQ_185 name: fist
+			"QQ_185",
+		},
+		["vomit"] = {
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
+		},
+		["cute"] = {
+			-- emoji: QQ_121 name: cute
+			"QQ_121",
+		},
+		["sun"] = {
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
+		},
+		["chit-chat"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["disco biscuit"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+		},
+		["adieu"] = {
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
+		},
+		["fade"] = {
+			-- emoji: QQ_164 name: wither
+			"QQ_164",
+		},
+		["oscitancy"] = {
+			-- emoji: QQ_147 name: yawn
+			"QQ_147",
+		},
+		["metamorphose"] = {
+			-- emoji: QQ_10312 name: transform
+			"QQ_10312",
+		},
+		["watermelon vine"] = {
+			-- emoji: QQ_156 name: watermelon
+			"QQ_156",
+		},
+		["glance"] = {
+			-- emoji: QQ_10397 name: flirting glance
+			"QQ_10397",
+		},
+		["crippled"] = {
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
+		},
+		["panicky"] = {
+			-- emoji: QQ_126 name: terrified
+			"QQ_126",
+		},
+		["pump"] = {
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
+		},
+		["so"] = {
+			-- emoji: QQ_10390 name: so bald
+			"QQ_10390",
+			-- emoji: QQ_10391 name: so weathered
+			"QQ_10391",
+			-- emoji: QQ_10388 name: so headache
+			"QQ_10388",
+			-- emoji: QQ_10389 name: so amazing
+			"QQ_10389",
+			-- emoji: QQ_10385 name: so angry
+			"QQ_10385",
+			-- emoji: QQ_10387 name: so funny
+			"QQ_10387",
+			-- emoji: QQ_10299 name: so awesome
+			"QQ_10299",
+			-- emoji: QQ_10346 name: you’re so great
+			"QQ_10346",
+		},
+		["auf wiedersehen"] = {
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
+		},
+		["right wing"] = {
+			-- emoji: QQ_146 name: right hmph
+			"QQ_146",
+			-- emoji: QQ_10305 name: right kiss
+			"QQ_10305",
+			-- emoji: QQ_10303 name: right new year greeting
+			"QQ_10303",
+		},
+		["surprised"] = {
+			-- emoji: QQ_114 name: surprised
+			"QQ_114",
+		},
+		["stiff"] = {
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
+		},
+		["middle"] = {
+			-- emoji: QQ_122 name: eye roll
+			"QQ_122",
+			-- emoji: QQ_10265 name: eye burn
+			"QQ_10265",
+		},
+		["dickhead"] = {
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
+		},
+		["jubilant"] = {
+			-- emoji: QQ_10412 name: joyful
+			"QQ_10412",
+		},
+		["vomitus"] = {
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
+		},
+		["Hawaii"] = {
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
+		},
+		["loads"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
+		},
+		["shudder"] = {
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
+		},
+		["curse word"] = {
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
+		},
+		["expletive"] = {
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
+		},
+		["beloved"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["monster"] = {
+			-- emoji: QQ_118 name: freak out
+			"QQ_118",
+		},
+		["flower"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
+		},
+		["actually"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
+		},
+		["extolment"] = {
+			-- emoji: QQ_10370 name: congratulations
+			"QQ_10370",
+		},
+		["face"] = {
+			-- emoji: QQ_282 name: cheek rest
+			"QQ_282",
+			-- emoji: QQ_248 name: side-eye smile
+			"QQ_248",
+		},
+		["handshaking"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+			-- emoji: QQ_181 name: handshake
+			"QQ_181",
+		},
+		["stab"] = {
+			-- emoji: QQ_171 name: knife
+			"QQ_171",
+		},
+		["cocksucker"] = {
+			-- emoji: QQ_109 name: sob
+			"QQ_109",
+		},
+		["insistent"] = {
+			-- emoji: QQ_10386 name: wuwuwu (crying)
+			"QQ_10386",
+		},
+		["rosiness"] = {
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
+		},
+		["closed"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
+		},
+		["invite"] = {
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
+		},
+		["cuss"] = {
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
+		},
+		["open"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
+		},
+		["joint"] = {
+			-- emoji: QQ_10350 name: stick together
+			"QQ_10350",
+		},
+		["taunting"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
+		},
+		["ill-omened"] = {
+			-- emoji: QQ_136 name: unlucky
+			"QQ_136",
+		},
+		["heartsick"] = {
+			-- emoji: QQ_167 name: heartbroken
+			"QQ_167",
+		},
+		["obeisance"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
+		},
+		["incapacitated"] = {
+			-- emoji: QQ_244 name: helpless
+			"QQ_244",
+		},
+		["undulation"] = {
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["Modern"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
+		},
+		["stunned"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["amazing"] = {
+			-- emoji: QQ_10380 name: awesome
+			"QQ_10380",
+			-- emoji: QQ_10356 name: 666 (awesome)
+			"QQ_10356",
+		},
+		["aureate"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
+		},
+		["woof"] = {
+			-- emoji: QQ_141 name: pick nose
+			"QQ_141",
+			-- emoji: QQ_10277 name: woof
+			"QQ_10277",
+		},
+		["awkward"] = {
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
+		},
+		["arrivederci"] = {
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
+		},
+		["up"] = {
+			-- emoji: QQ_107 name: shut up
+			"QQ_107",
+			-- emoji: QQ_271 name: thumbs up
+			"QQ_271",
+		},
+		["sunniness"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
+		},
+		["barf"] = {
+			-- emoji: QQ_119 name: vomit
+			"QQ_119",
+		},
+		["frisson"] = {
+			-- emoji: QQ_129 name: chill
+			"QQ_129",
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
+		},
+		["passion"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["lilliputian"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
+		},
+		["smiling"] = {
+			-- emoji: QQ_100 name: smile
+			"QQ_100",
+			-- emoji: QQ_113 name: grin
+			"QQ_113",
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
+		},
+		["celebrate"] = {
+			-- emoji: QQ_10320 name: celebrate
+			"QQ_10320",
+		},
+		["query"] = {
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
+		},
+		["please"] = {
+			-- emoji: QQ_10353 name: please
+			"QQ_10353",
+		},
+		["sucker"] = {
+			-- emoji: QQ_121012 name: lollipop
+			"QQ_121012",
+		},
+		["low temperature"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
+		},
+		["gibelike"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
+		},
+		["yawning"] = {
+			-- emoji: QQ_147 name: yawn
+			"QQ_147",
+		},
+		["demonstrate"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
+		},
+		["frightened"] = {
+			-- emoji: QQ_126 name: terrified
+			"QQ_126",
+		},
+		["gonorrhoea"] = {
+			-- emoji: QQ_142 name: clap
+			"QQ_142",
+		},
+		["seethe"] = {
+			-- emoji: QQ_194 name: seethe
+			"QQ_194",
+		},
+		["knock"] = {
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
+		},
+		["domestic dog"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
+		},
+		["jeering"] = {
+			-- emoji: QQ_10272 name: heheda (mocking laugh)
+			"QQ_10272",
+		},
+		["gab"] = {
+			-- emoji: QQ_10271 name: melon munching (gossip)
+			"QQ_10271",
+		},
+		["cold"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
+		},
+		["gag"] = {
+			-- emoji: QQ_10368 name: ultraman laugh-cry
+			"QQ_10368",
+			-- emoji: QQ_10378 name: penguin laugh-cry
+			"QQ_10378",
+			-- emoji: QQ_252 name: laugh-cry
+			"QQ_252",
+			-- emoji: QQ_10283 name: maniacal laugh
+			"QQ_10283",
+		},
+		["canvass"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
+		},
+		["bats"] = {
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
+		},
+		["egotistical"] = {
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
+		},
+		["coldness"] = {
+			-- emoji: QQ_117 name: cold sweat
+			"QQ_117",
+		},
+		["flush"] = {
+			-- emoji: QQ_10337 name: flower face
+			"QQ_10337",
+		},
+		["honey"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["moonshine"] = {
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
+		},
+		["stomp"] = {
+			-- emoji: QQ_10376 name: stomp
+			"QQ_10376",
+		},
+		["sleepy"] = {
+			-- emoji: QQ_125 name: sleepy
+			"QQ_125",
+		},
+		["slight"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
+		},
+		["stew"] = {
+			-- emoji: QQ_140 name: wipe sweat
+			"QQ_140",
+		},
+		["piddling"] = {
+			-- emoji: QQ_246 name: little dilemma
+			"QQ_246",
+		},
+		["bunglesome"] = {
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
+		},
+		["cumbersome"] = {
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
+		},
+		["bye"] = {
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
+		},
+		["stone"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
+		},
+		["daunt"] = {
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+		},
+		["trill"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+		},
+		["falling off"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["bash"] = {
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
+		},
+		["step"] = {
+			-- emoji: QQ_180 name: step on
+			"QQ_180",
+		},
+		["passing"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["revolt"] = {
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
+		},
+		["cutaneous senses"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+		},
+		["disgust"] = {
+			-- emoji: QQ_10323 name: disgust
+			"QQ_10323",
+		},
+		["stem"] = {
+			-- emoji: QQ_10297 name: bow thanks
+			"QQ_10297",
+		},
+		["torment"] = {
+			-- emoji: QQ_135 name: torture
+			"QQ_135",
+		},
+		["sunshine"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
+		},
+		["Moon"] = {
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
+		},
+		["reach"] = {
+			-- emoji: QQ_130 name: strive
+			"QQ_130",
+		},
+		["ungainly"] = {
+			-- emoji: QQ_110 name: awkward
+			"QQ_110",
+		},
+		["potent"] = {
+			-- emoji: QQ_10349 name: strong
+			"QQ_10349",
+		},
+		["tempestuous"] = {
+			-- emoji: QQ_10326 name: angry
+			"QQ_10326",
+		},
+		["zany"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
+		},
+		["dragon"] = {
+			-- emoji: QQ_10415 name: dragon boat rowing
+			"QQ_10415",
+			-- emoji: QQ_10392 name: happy dragon year
+			"QQ_10392",
+		},
+		["cheerio"] = {
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
+		},
+		["wafture"] = {
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["loss"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["lost"] = {
+			-- emoji: QQ_244 name: helpless
+			"QQ_244",
+		},
+		["atomic number 79"] = {
+			-- emoji: QQ_10298 name: gold ingot
+			"QQ_10298",
+		},
+		["gamey"] = {
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
+		},
+		["coffee tree"] = {
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
+		},
+		["zip"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
+		},
+		["swearing"] = {
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
+		},
+		["leftover"] = {
+			-- emoji: QQ_145 name: left hmph
+			"QQ_145",
+			-- emoji: QQ_152 name: left kiss
+			"QQ_152",
+			-- emoji: QQ_10302 name: left new year greeting
+			"QQ_10302",
+		},
+		["ominous"] = {
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
+		},
+		["dizzy"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
+			-- emoji: QQ_134 name: dizzy
+			"QQ_134",
+		},
+		["self-conceited"] = {
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
+		},
+		["slovenly person"] = {
+			-- emoji: QQ_162 name: pig head
+			"QQ_162",
+		},
+		["push"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
+		},
+		["Wave"] = {
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["fail"] = {
+			-- emoji: QQ_143 name: epic fail
+			"QQ_143",
+		},
+		["bald-pated"] = {
+			-- emoji: QQ_10267 name: bald head
+			"QQ_10267",
+		},
+		["Dominicus"] = {
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
+		},
+		["fussy"] = {
+			-- emoji: QQ_10373 name: busy
+			"QQ_10373",
+		},
+		["plaudits"] = {
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
+		},
+		["chesty"] = {
+			-- emoji: QQ_123 name: arrogant
+			"QQ_123",
+		},
+		["love"] = {
+			-- emoji: QQ_190 name: love
+			"QQ_190",
+		},
+		["tongue"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
+			-- emoji: QQ_171 name: knife
+			"QQ_171",
+		},
+		["thumb"] = {
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+		},
+		["swollen-headed"] = {
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
+		},
+		["baleful"] = {
+			-- emoji: QQ_151 name: sinister
+			"QQ_151",
+		},
+		["estimable"] = {
+			-- emoji: QQ_10384 name: good night
+			"QQ_10384",
+			-- emoji: QQ_10405 name: good luck
+			"QQ_10405",
+		},
+		["rock"] = {
+			-- emoji: QQ_10359 name: rock-paper-scissors
+			"QQ_10359",
+		},
+		["ghost"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+			-- emoji: QQ_257 name: ghost
+			"QQ_257",
+		},
+		["get"] = {
+			-- emoji: QQ_10295 name: get red packet
+			"QQ_10295",
+		},
+		["eat"] = {
+			-- emoji: QQ_10324 name: eat candy
+			"QQ_10324",
+		},
+		["leap"] = {
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
+		},
+		["power"] = {
+			-- emoji: QQ_10334 name: tiger’s might
+			"QQ_10334",
+		},
+		["heavy weapon"] = {
+			-- emoji: QQ_121034 name: gun
+			"QQ_121034",
+		},
+		["rakehell"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
+		},
+		["fete"] = {
+			-- emoji: QQ_10320 name: celebrate
+			"QQ_10320",
+		},
+		["finger"] = {
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+		},
+		["precious"] = {
+			-- emoji: QQ_121 name: cute
+			"QQ_121",
+		},
+		["bullish"] = {
+			-- emoji: QQ_10306 name: bullish energy
+			"QQ_10306",
+		},
+		["O.K."] = {
+			-- emoji: QQ_189 name: OK
+			"QQ_189",
+		},
+		["cool"] = {
+			-- emoji: QQ_116 name: cool
+			"QQ_116",
+		},
+		["tremble"] = {
+			-- emoji: QQ_193 name: shiver
+			"QQ_193",
+		},
+		["brain"] = {
+			-- emoji: QQ_10262 name: brain pain
+			"QQ_10262",
+		},
+		["rattling"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
+		},
+		["amazed"] = {
+			-- emoji: QQ_10343 name: we’re stunned
+			"QQ_10343",
+		},
+		["lots"] = {
+			-- emoji: QQ_10345 name: lots of red packets
+			"QQ_10345",
+		},
+		["falloff"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["sunlight"] = {
+			-- emoji: QQ_176 name: sun
+			"QQ_176",
+		},
+		["appearance"] = {
+			-- emoji: QQ_165 name: show love
+			"QQ_165",
+		},
+		["juicy"] = {
+			-- emoji: QQ_112 name: naughty
+			"QQ_112",
+		},
+		["ice lolly"] = {
+			-- emoji: QQ_121012 name: lollipop
+			"QQ_121012",
+		},
+		["heartbroken"] = {
+			-- emoji: QQ_167 name: heartbroken
+			"QQ_167",
+		},
+		["culture medium"] = {
+			-- emoji: QQ_10416 name: medium dragon boat
+			"QQ_10416",
+		},
+		["grinning"] = {
+			-- emoji: QQ_100 name: smile
+			"QQ_100",
+			-- emoji: QQ_113 name: grin
+			"QQ_113",
+			-- emoji: QQ_10281 name: eyeless smile
+			"QQ_10281",
+		},
+		["allure"] = {
+			-- emoji: QQ_184 name: tempt
+			"QQ_184",
+		},
+		["translate"] = {
+			-- emoji: QQ_10312 name: transform
+			"QQ_10312",
+		},
+		["spitting"] = {
+			-- emoji: QQ_10399 name: tui (spit)
+			"QQ_10399",
+		},
+		["basketball"] = {
+			-- emoji: QQ_158 name: basketball
+			"QQ_158",
+		},
+		["knocking"] = {
+			-- emoji: QQ_138 name: knock
+			"QQ_138",
+			-- emoji: QQ_10351 name: knock knock
+			"QQ_10351",
+		},
+		["touch modality"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+		},
+		["whacky"] = {
+			-- emoji: QQ_128 name: silly smile
+			"QQ_128",
+		},
+		["blow"] = {
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
+		},
+		["furious"] = {
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
+			-- emoji: QQ_10326 name: angry
+			"QQ_10326",
+		},
+		["in secret"] = {
+			-- emoji: QQ_10269 name: secretly observing
+			"QQ_10269",
+		},
+		["spell"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+		},
+		["proud"] = {
+			-- emoji: QQ_104 name: proud
+			"QQ_104",
+		},
+		["rosebush"] = {
+			-- emoji: QQ_163 name: rose
+			"QQ_163",
+		},
+		["like"] = {
+			-- emoji: QQ_179 name: like
+			"QQ_179",
+		},
+		["unexampled"] = {
+			-- emoji: QQ_10393 name: new year medium dragon
+			"QQ_10393",
+			-- emoji: QQ_10394 name: new year large dragon
+			"QQ_10394",
+		},
+		["open air"] = {
+			-- emoji: QQ_10289 name: open eyes
+			"QQ_10289",
+		},
+		["ilk"] = {
+			-- emoji: QQ_179 name: like
+			"QQ_179",
+		},
+		["poke"] = {
+			-- emoji: QQ_251 name: poke
+			"QQ_251",
+		},
+		["Adam"] = {
+			-- emoji: QQ_10403 name: go out
+			"QQ_10403",
+		},
+		["startle"] = {
+			-- emoji: QQ_192 name: jump
+			"QQ_192",
+		},
+		["take apart"] = {
+			-- emoji: QQ_10314 name: analyze carefully
+			"QQ_10314",
+		},
+		["drop-off"] = {
+			-- emoji: QQ_10285 name: slack off
+			"QQ_10285",
+		},
+		["departure"] = {
+			-- emoji: QQ_10381 name: passing by
+			"QQ_10381",
+		},
+		["dash"] = {
+			-- emoji: QQ_153 name: scare
+			"QQ_153",
+		},
+		["bosom"] = {
+			-- emoji: QQ_10383 name: penguin heart
+			"QQ_10383",
+			-- emoji: QQ_10319 name: finger heart
+			"QQ_10319",
+			-- emoji: QQ_178 name: hug
+			"QQ_178",
+			-- emoji: QQ_166 name: heart
+			"QQ_166",
+		},
+		["brokenhearted"] = {
+			-- emoji: QQ_167 name: heartbroken
+			"QQ_167",
+		},
+		["handshake"] = {
+			-- emoji: QQ_10413 name: shake it
+			"QQ_10413",
+			-- emoji: QQ_181 name: handshake
+			"QQ_181",
+		},
+		["declamatory"] = {
+			-- emoji: QQ_10417 name: large dragon boat
+			"QQ_10417",
+		},
+		["ferocious"] = {
+			-- emoji: QQ_111 name: furious
+			"QQ_111",
+		},
+		["moonlight"] = {
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
+		},
+		["line"] = {
+			-- emoji: QQ_247 name: blood spray
+			"QQ_247",
+		},
+		["Buckeye State"] = {
+			-- emoji: QQ_10266 name: oh yo
+			"QQ_10266",
+			-- emoji: QQ_10287 name: oh
+			"QQ_10287",
+		},
+		["cad"] = {
+			-- emoji: QQ_10361 name: dog laugh-cry
+			"QQ_10361",
+			-- emoji: QQ_10363 name: dog sadness
+			"QQ_10363",
+			-- emoji: QQ_10365 name: dog angry
+			"QQ_10365",
+			-- emoji: QQ_10367 name: dog confused
+			"QQ_10367",
+			-- emoji: QQ_10317 name: noob dog
+			"QQ_10317",
+		},
+		["congratulations"] = {
+			-- emoji: QQ_10370 name: congratulations
+			"QQ_10370",
+		},
+		["Hawai'i"] = {
+			-- emoji: QQ_10377 name: hi
+			"QQ_10377",
+		},
+		["bye-bye"] = {
+			-- emoji: QQ_139 name: goodbye
+			"QQ_139",
+		},
+		["jealous"] = {
+			-- emoji: QQ_10273 name: i’m jealous
+			"QQ_10273",
+		},
+		["queen regnant"] = {
+			-- emoji: QQ_10406 name: queen sister
+			"QQ_10406",
+		},
+		["trace"] = {
+			-- emoji: QQ_10293 name: touch koi
+			"QQ_10293",
+		},
+		["venous blood vessel"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
+		},
+		["feeble"] = {
+			-- emoji: QQ_186 name: lame
+			"QQ_186",
+		},
+		["endeavour"] = {
+			-- emoji: QQ_130 name: strive
+			"QQ_130",
+		},
+		["net ball"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
+		},
+		["eye blink"] = {
+			-- emoji: QQ_242 name: blink
+			"QQ_242",
+		},
+		["track"] = {
+			-- emoji: QQ_243 name: tears running
+			"QQ_243",
+		},
+		["Lashkar-e-Tayyiba"] = {
+			-- emoji: QQ_10407 name: let me listen
+			"QQ_10407",
+			-- emoji: QQ_10338 name: i’ve let go
+			"QQ_10338",
+		},
+		["coffee bean"] = {
+			-- emoji: QQ_160 name: coffee
+			"QQ_160",
+		},
+		["eternal sleep"] = {
+			-- emoji: QQ_108 name: sleep
+			"QQ_108",
+		},
+		["balmy"] = {
+			-- emoji: QQ_10357 name: cracked
+			"QQ_10357",
+		},
+		["hail"] = {
+			-- emoji: QQ_121009 name: acclaim
+			"QQ_121009",
+		},
+		["really"] = {
+			-- emoji: QQ_10354 name: really or fake?
+			"QQ_10354",
+		},
+		["nigh"] = {
+			-- emoji: QQ_150 name: almost crying
+			"QQ_150",
+		},
+		["embolden"] = {
+			-- emoji: QQ_10311 name: cheer on
+			"QQ_10311",
+		},
+		["Citrullus vulgaris"] = {
+			-- emoji: QQ_156 name: watermelon
+			"QQ_156",
+		},
+		["interrogative sentence"] = {
+			-- emoji: QQ_132 name: question
+			"QQ_132",
+			-- emoji: QQ_10268 name: question mark face
+			"QQ_10268",
+		},
+		["daddy"] = {
+			-- emoji: QQ_121011 name: vein pop
+			"QQ_121011",
+		},
+		["beckon"] = {
+			-- emoji: QQ_199 name: wave
+			"QQ_199",
+		},
+		["oath"] = {
+			-- emoji: QQ_131 name: curse
+			"QQ_131",
+		},
+		["Sun Myung Moon"] = {
+			-- emoji: QQ_175 name: moon
+			"QQ_175",
+		},
+		["clutches"] = {
+			-- emoji: QQ_10332 name: hold sign
+			"QQ_10332",
+		},
+		["swollen"] = {
+			-- emoji: QQ_10408 name: vain
+			"QQ_10408",
+		},
+		["sweating"] = {
+			-- emoji: QQ_127 name: sweating
+			"QQ_127",
+		},
+		["wild"] = {
+			-- emoji: QQ_10326 name: angry
+			"QQ_10326",
+		},
+		["covetous"] = {
+			-- emoji: QQ_10273 name: i’m jealous
+			"QQ_10273",
+		},
+		["gust"] = {
+			-- emoji: QQ_191 name: blow kiss
+			"QQ_191",
 		},
 	},
 
