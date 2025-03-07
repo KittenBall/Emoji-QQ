@@ -3,6 +3,7 @@ local addonName, addon = ...
 if GetLocale() ~= "enUS" then return end
 
 local pack = {
+	ID = "QQ",
 	Name = "QQ emojis",
 	Icon = "Interface\\addOns\\Emoji-QQ\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-QQ\\Icons\\",
