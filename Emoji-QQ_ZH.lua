@@ -5,6 +5,7 @@ if GetLocale() ~= "zhCN" then return end
 local pack = {
 	ID = "QQ",
 	Name = "QQ表情",
+	ShortcodePrefix = "QQ",
 	Icon = "Interface\\addOns\\Emoji-QQ\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-QQ\\Icons\\",
 	Icons = {
@@ -17333,4 +17334,9 @@ local pack = {
 	},
 
 }
-Emojis:RegisterStickerPack(pack)
+
+local function OnAddonLoaded()
+    Emojis:RegisterStickerPack(pack)
+end
+
+EventUtil.ContinueOnAddOnLoaded(addonName, OnAddonLoaded)
